@@ -12,6 +12,15 @@ body {
     margin-bottom: 40px;
 }
 
+.page-logo {
+    display: block;
+    width: 200px;
+    height: 40px;
+    margin: 0 auto;
+    background-image: url('../img/ka-logo.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
 
 .page-title {
     text-align: center;
@@ -42,7 +51,7 @@ body {
     float: left;
     box-sizing: border-box;
     width: 440px;
-    height: 250px;
+    height: 285px;
     margin-left: 20px;
     margin-bottom: 20px;
 
