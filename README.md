@@ -20,7 +20,7 @@
 - [Sống khỏe](https://daihocmo.github.io/song-khoe)
 - [Cải thiện bản thân](https://daihocmo.github.io/cai-thien-ban-than/)
 - [Học viết](https://daihocmo.github.io/hoc-viet/)
-- [Cải thiện năng suất và đảm bảo quyền bảo mật riêng tư khi sử dụng máy tính](https://daihocmo.github.io/linux-productivity)
+- [Cải thiện năng suất và đảm bảo quyền bảo mật riêng tư khi sử dụng máy tính](https://daihocmo.github.io/productive-linux)
 
 ### Chương trình và chuyên ngành
 
