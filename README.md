@@ -10,23 +10,20 @@
 
 ### Ngoại ngữ
 
-- [Học Tiếng Anh](https://daihocmo.github.io/hoc-tieng-anh/)
-- [Học Tiếng Nhật](https://daihocmo.github.io/hoc-tieng-nhat)
-- [Học Tiếng Trung](https://daihocmo.github.io/hoc-tieng-trung/)
-- [Học Tiếng Anh chuyên ngành](https://daihocmo.github.io/anh-chuyen-nganh/)
+- [Học Tiếng Anh](https://daihocmo.github.io/tieng-anh/)
+- [Học Tiếng Nhật](https://daihocmo.github.io/tieng-nhat)
+- [Học Tiếng Trung](https://daihocmo.github.io/tieng-trung/)
+- [Học Tiếng Anh chuyên ngành](https://daihocmo.github.io/tieng-anh-chuyen-nganh/)
 
 ### Kĩ năng
-- [Học cách học](https://daihocmo.github.io/hoc-cach-hoc)
-- [Sống khỏe](https://daihocmo.github.io/song-khoe)
+- [Học cách học](https://daihocmo.github.io/cach-hoc)
 - [Cải thiện bản thân](https://daihocmo.github.io/cai-thien-ban-than/)
 - [Học viết](https://daihocmo.github.io/hoc-viet/)
-- [Cải thiện năng suất và đảm bảo quyền bảo mật riêng tư khi sử dụng máy tính](https://daihocmo.github.io/productive-linux)
 
 ### Chương trình và chuyên ngành
 
-- [Chương trình giáo dục phổ thông từ lớp 8 đến lớp 12](https://daihocmo.github.io/chuong-trinh-pho-thong/)
 - [Học vẽ](https://daihocmo.github.io/hoc-ve/)
-- [Học lập trình](https://daihocmo.github.io/hoc-lap-trinh/)
+- [Học lập trình](https://daihocmo.github.io/lap-trinh/)
 - [Học sản xuất âm nhạc](https://daihocmo.github.io/lam-nhac)
 - [Giáo trình OSSU, bản Tiếng Việt](https://daihocmo.github.io/ossu-vi)
 
