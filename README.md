@@ -3,15 +3,35 @@
 ## Giới thiệu
 Đây là trang mở đầu của Đại học mở, chỉ có trong một trang duy nhất, tổng hợp các thông tin và khóa học mà có lẽ bạn sẽ cần (hoặc không cần)
 
+Rất nhiều lộ trình hoặc khóa học trong đây đều mới trong giai đoạn lên ý tưởng hoặc ở mức tương đối hoàn thành.
+
+## Mục lục
+
+
+- [Giới thiệu](#giới-thiệu)
+- [Mục lục](#mục-lục)
+- [Học ngoại ngữ](#học-ngoại-ngữ)
+    - [Hướng dẫn chung cho các ngoại ngữ](#hướng-dẫn-chung)
+    - [Vietnamese Learning](#vietnamese-learning)
+    - [Những ngôn ngữ được làm riêng](#danh-sách-chính)
+    - [Học Tiếng Anh cho người Nhật](#học-iếng-anh-cho-người-nhật)
+- [Lộ trình tự học bậc đại học](#lộ-trình-tự-học-bậc-đại-học)
+- [Phát triển bản thân](#phát-triển-bản-thân)
+- [Các khóa học khác](#Các-khóa-học-khác)
+- [Học nhiều thứ khác nhau](#học-nhiều-thứ-khác-nhau)
+- [Khu lưu trữ](#khu-lưu-trữ)
+- [Thông tin thêm](#thông-tin-thêm)
+
+
 ## Học ngoại ngữ
 
-### Hướng dẫn chung cho các ngoại ngữ
+### Hướng dẫn chung
 - [Học ngoại ngữ](./ngoai-ngu/) - Tìm hiểu về phương pháp học ngoại ngữ thông qua ALG, Comprehensible Input và Immersion.
 
 ### Vietnamese Learning
 - [Learn Vietnamese](https://daihocmo.github.io/learn-vietnamese) - For Vietnamese learners. Đây là khóa duy của Đại học mở được viết bằng Tiếng Anh.
 
-### Những ngôn ngữ được làm riêng
+### Danh sách chính
 
 Tất cả các khóa đều được phát triển dựa trên khung của Hướng dẫn [Học ngoại ngữ](./ngoai-ngu/index.html) ở trên, nên bạn có thể sẽ muốn tìm hiểu về phương pháp học ngoại ngữ trên trang chính trước để tìm hiểu lộ trình học ngoại ngữ riêng cho từng khóa.
 
@@ -49,7 +69,8 @@ Tất cả các khóa đều được phát triển dựa trên khung của Hư�
 - [Phát triển bản thân](./phat-trien-ban-than/)
 
 ## Các khóa học khác
-_Đang được thiết kế ở trang `khoa-hoc` nên chưa có
+
+_Đang được thiết kế ở trang `khoa-hoc` nên chưa có_
 
 ## Học nhiều thứ
 - [Học phần mềm](./hoc-phan-mem/) - Tổng hợp hướng dẫn cách học cho **rất nhiều phần mềm**.
@@ -57,6 +78,6 @@ _Đang được thiết kế ở trang `khoa-hoc` nên chưa có
 ## Khu lưu trữ
 - [Khu lưu trữ](./luu-tru/) - Tổng hợp các tài liệu học tập thuộc Đại học mở
 
-### Còn nhiều phần khác, nhưng đang trong giai đoạn hoàn thiện nên chưa có đâu :>
+## Thông tin thêm
 
 Nếu bạn muốn tham gia vào phát triển dự án nhỏ này, bạn có thể liên hệ trực tiếp với mình tại duykhanh471@protonmail.com
