@@ -1,5 +1,15 @@
 # Đại học mở: Học ngoại ngữ, phát triển bản thân và kĩ năng mềm với các sở thích cá nhân!
 
+## Thông báo (03/08/2024)
+Hiện tại các chương trình trong Đại học mở đang ở trong giai đoạn cập nhật lớn, đồng thời xóa (hoặc đóng) các trang không nằm trong mục tiêu phát triển của trang. Dự kiến đến 01/09 thì Đại học mở sẽ hoàn thiện các chương trình sau:
+
+- Ngoại ngữ: [Phương pháp học ngọai ngữ chung](https://daihocmo.github.io/ngoai-ngu/), [Immersion-based Vietnamese Learning](https://daihocmo.github.io/learn-vietnamese/), [Tôi luyện Tiếng Anh](https://daihocmo.github.io/tieng-anh/), [Tôi luyện Tiếng Nhật](https://daihocmo.github.io/tieng-nhat/), [Tiếng Anh chuyên ngành](https://daihocmo.github.io/tieng-anh-chuyen-nganh/)
+- [Phát triển bản thân](https://daihocmo.github.io/phat-trien-ban-than/) - Trang tổng hợp RẤT NHIỀU nội dung liên quan đến phát triển bản thân nói chung, để bạn đỡ phải đọc quá nhiều sách self-help.
+- [Lộ trình](https://daihocmo.github.io/lo-trinh/) - Khu đại tổng hợp các giáo trình bậc đại học cho rất nhiều ngành.
+- [Học phần mềm](https://daihocmo.github.io/hoc-phan-mem/) - Hướng dẫn cách lựa chọn và học sử dụng cho rất nhiều phần mềm
+
+Các dự án khác sẽ bị dừng lại toàn bộ, ít nhất là cho đến hết hạn ở trên. Bạn có thể tham gia Discord của Đại học mở ở bên dưới để cập nhật thông tin và cùng đóng góp (Hiện tại vẫn là một người làm :<)
+
 ## Giới thiệu
 Đây là trang mở đầu của Đại học mở, chỉ có trong một trang duy nhất, tổng hợp các thông tin và khóa học mà có lẽ bạn sẽ cần (hoặc không cần)
 
@@ -7,18 +17,14 @@ Rất nhiều lộ trình hoặc khóa học trong đây đều mới trong giai
 
 ## Mục lục
 
-
 - [Giới thiệu](#giới-thiệu)
 - [Mục lục](#mục-lục)
 - [Học ngoại ngữ](#học-ngoại-ngữ)
-    - [Hướng dẫn chung cho các ngoại ngữ](#hướng-dẫn-chung)
-    - [Vietnamese Learning](#vietnamese-learning)
-    - [Những ngôn ngữ được làm riêng](#danh-sách-chính)
-    - [Học Tiếng Anh cho người Nhật](#học-iếng-anh-cho-người-nhật)
+    - [Phương pháp học ngoại ngữ](#hướng-dẫn-chung)
+    - [Khu ngôn ngữ](#danh-sách-chính)
 - [Lộ trình tự học bậc đại học](#lộ-trình-tự-học-bậc-đại-học)
 - [Phát triển bản thân](#phát-triển-bản-thân)
 - [Các khóa học khác](#Các-khóa-học-khác)
-- [Học nhiều thứ khác nhau](#học-nhiều-thứ-khác-nhau)
 - [Khu lưu trữ](#khu-lưu-trữ)
 - [Thông tin thêm](#thông-tin-thêm)
 
@@ -35,48 +41,22 @@ Rất nhiều lộ trình hoặc khóa học trong đây đều mới trong giai
 
 Tất cả các khóa đều được phát triển dựa trên khung của Hướng dẫn [Học ngoại ngữ](./ngoai-ngu/index.html) ở trên, nên bạn có thể sẽ muốn tìm hiểu về phương pháp học ngoại ngữ trên trang chính trước để tìm hiểu lộ trình học ngoại ngữ riêng cho từng khóa.
 
-- [Học Tiếng Anh](https://daihocmo.github.io/tieng-anh/) 
-- [Học Tiếng Nhật](https://daihocmo.github.io/tieng-nhat)
-- [Học Tiếng Trung](https://daihocmo.github.io/hoc-tieng-trung/) - Hiện tại trang Tiếng Trung gốc đã được dừng hỗ trợ, đây là kho lưu trữ các bài hướng dẫn từ chương trình cũ và sẽ có rất ít cập nhật được ưu tiên trong lộ trình này.
-
-### Học Tiếng Anh cho người Nhật
-- [eigo](./eigo/) - 英語を勉強する方法！
+- [Tiếng Anh](https://daihocmo.github.io/tieng-anh/) 
+- [Tiếng Nhật](https://daihocmo.github.io/tieng-nhat)
+- [Tiếng Trung](https://daihocmo.github.io/tieng-trung/)
 
 ## Lộ trình tự học bậc đại học
-- [Khoa học máy tính](./cntt/) - Tổng hợp giáo trình cho các ngành
-    - Khoa học máy tính: Hay người ta thường gọi là "Công nghệ thông tin"
-    - Khoa học dữ liệu
-    - Công nghệ sinh học
-    - An toàn thông tin
-- [Khoa học xã hội](./lo-trinh/#khối-ngành-khoa-học-xã-hội)
-    - Tâm lý học
-- [Kinh tế - Marketing](./lo-trinh/#khối-ngành-kinh-tế)
-    - Kinh tế
-    - Marketing
-- Nghệ thuật & Thiết kế & Kiến trúc
-    - [Kiến trúc](./lo-trinh/#khối-ngành-kiến-trúc)
-        - Thiết kế nội thất
-        - Kiến trúc
-    - [Thiết kế](lo-trinh/#khối-ngành-nghệ-thuật---đồ-họa)
-        - Thiết kế đồ họa
-    - Nghệ thuật
-        - Hội họa
-- [Khoa học tự nhiên](./lo-trinh/#khối-ngành-khoa-học-tự-nhiên)
-    - Toán 
-    - Vật lý
+Đang trong quá trình xây dựng lại. DEADLINE: 01/09/2024
 
 ## Phát triển bản thân
 - [Phát triển bản thân](./phat-trien-ban-than/)
 
-## Các khóa học khác
-
-_Đang được thiết kế ở trang `khoa-hoc` nên chưa có_
-
-## Học nhiều thứ
+## Các chủ đề khác
 - [Học phần mềm](./hoc-phan-mem/) - Tổng hợp hướng dẫn cách học cho **rất nhiều phần mềm**.
 
-## Khu lưu trữ
+## Khu lưu trữ & nghiên cứu
 - [Khu lưu trữ](./luu-tru/) - Tổng hợp các tài liệu học tập thuộc Đại học mở
+- [Học đọc code](https://github.com/daihocmo/hoc-doc-code) - Một hướng dẫn thử nghiệm cho việc học lập trình thông qua phần lớn việc đọc cách người khác viết code. Đây là nghiên cứu quá trình tự học của cá nhân mình.
 
 ## Thông tin thêm
 
