@@ -39,7 +39,8 @@ Tất cả các khóa đều được phát triển dựa trên khung của Hư�
 - [Tiếng Trung](https://daihocmo.github.io/tieng-trung/)
 
 ## Lộ trình tự học bậc đại học
-Đang trong quá trình xây dựng lại. DEADLINE: 01/09/2024
+- [Lộ trình tự học bậc đại học cho RẤT NHIỀU NGÀNH](./lo-trinh/)
+
 
 ## Phát triển bản thân
 - [Phát triển bản thân](./phat-trien/)
