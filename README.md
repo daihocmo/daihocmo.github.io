@@ -1,9 +1,13 @@
 # Khu học mở: Học ngoại ngữ và kĩ năng mềm
 
 ## Giới thiệu
-Là một trường đại học mở. Chắc vậy.
+Là một trường đại học không đóng vì nó không có cửa.
 
-> Đang trong quá trình thi công.
+> Một ngày đẹp trời và đầy nắng
+
+Tham gia cộng đồng trên Discord để cùng trao đổi và thảo luận.
+
+[![](banner.png)](https://discord.gg/ZyEn4TTyEM)
 
 ## Mục lục
 ### 1. Điều hướng
@@ -61,3 +65,5 @@ _Đang trong quá trình xây dựng_
 
 ## Thông tin thêm
 Nếu bạn muốn tham gia vào phát triển dự án nhỏ này, bạn có thể liên hệ trực tiếp với mình tại duykhanh471@protonmail.com
+
+![](logo.png)
