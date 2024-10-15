@@ -19,24 +19,27 @@ Là một trường đại học mở. Chắc vậy.
 
 ## Phát triển bản thân
 - [Tôi luyện bản thân](./phat-trien/) - Tổng hợp toàn bộ nội dung về phát triển bản thân, lối sống, học cách học .etc.
+- [Tôi luyện đức dục](./dao-duc/) - Chương trình về **đức dục** hoặc **đạo đức**, được biên soạn dựa trên chương trình Đức dục của Nhật. Đang trong quá trình thực hiện.
 
 ## Học ngoại ngữ
 - [Học ngoại ngữ](./ngoai-ngu/) - Tìm hiểu về phương pháp học ngoại ngữ thông qua ALG, Comprehensible Input và Immersion.
-- [Tu luyện Tiếng Việt](./learn-vietnamese) - For Vietnamese learners. Đây là khóa duy của Đại học mở được viết bằng Tiếng Anh.
+- [Tu luyện Tiếng Việt](./learn-vietnamese)
 - [Tu luyện Tiếng Anh](./tieng-anh/) 
 - [Tu luyện Tiếng Nhật](./tieng-nhat)
 - [Tu luyện Tiếng Trung](./tieng-trung/)
+
+## Tự học đại học
+- [Lộ trình tự học bậc đại học cho RẤT NHIỀU NGÀNH](./lo-trinh/) - Tổng hợp rất nhiều ngành học.
 
 ## Khoa học máy tính
 - [Tôi luyện khoa học máy tính](./khoa-hoc-may-tinh/) - Tổng hợp về tự học khoa học máy tính nói chung và lập trình nói riêng.
 - [awesome-lap-trinh](./awesome-lap-trinh/) - Một kho tổng hợp rất nhiều nội dung về học khoa học máy tính bằng Tiếng Việt.
 
 ## Nghệ thuật 
-- [Lộ trình tự học bậc đại học cho RẤT NHIỀU NGÀNH](./lo-trinh/) - 
+- [Tôi luyện vẽ](./ve/) - Nhiều thứ về vẽ vời.
 
 ## Giáo dục phổ thông
 - [Tôi luyện giáo dục phổ thông](./pho-thong/) - Chương trình hỗ trợ học cho học sinh từ lớp 8 đến lớp 12.
-- []()
 
 ## Lịch sử, địa lý
 _Đang trong quá trình xây dựng_
@@ -47,6 +50,7 @@ _Đang trong quá trình xây dựng_
 ## Các kĩ năng khác
 - [Học phần mềm](./hoc-phan-mem/) - Tổng hợp hướng dẫn cách học cho **rất nhiều phần mềm**. 
 - [awesome-self-taught](./awesome-self-taught/) - Một Awesome List tổng hợp rất nhiều các Awesome List khác về các chủ đề tự học như tâm lý, sinh học, dinh dưỡng .v.v.
+- [awesome-howto](./awesome-howto) - 
 
 ## Thông tin thêm
 Nếu bạn muốn tham gia vào phát triển dự án nhỏ này, bạn có thể liên hệ trực tiếp với mình tại duykhanh471@protonmail.com
