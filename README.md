@@ -29,6 +29,10 @@ Tham gia cộng đồng trên Discord để cùng trao đổi và thảo luận.
 
 ## Phát triển bản thân
 - [Tôi luyện bản thân](./phat-trien/) - Tổng hợp toàn bộ nội dung về phát triển bản thân, lối sống, học cách học .etc.
+- [awesome-tu-hoc](./awesome-tu-hoc/) - Khu tổng hợp tài nguyên tự học cho rất nhiều thứ bằng Tiếng Việt
+- [awesome-doc-sach](./awesome-doc-sach/) - Kho sách hay tổng hợp từ nhiều nguồn
+ 
+Khu tổng hợp tài nguyên tự học cho rất nhiều thứ bằng Tiếng Việt
 
 ## Học ngoại ngữ
 - [Học ngoại ngữ](./ngoai-ngu/) - Tìm hiểu về phương pháp học ngoại ngữ thông qua ALG, Comprehensible Input và Immersion.
@@ -36,6 +40,7 @@ Tham gia cộng đồng trên Discord để cùng trao đổi và thảo luận.
 - [Tu luyện Tiếng Anh](./tieng-anh/) 
 - [Tu luyện Tiếng Nhật](./tieng-nhat)
 - [Tu luyện Tiếng Trung](./tieng-trung/)
+- [awesome-ngon-ngu](./awesome-ngon-ngu/) - Tổng hợp nhiều tài nguyên tự học ngôn ngữ và bằng Tiếng Việt (là chính).
 
 ## Tự học đại học
 - [Lộ trình tự học bậc đại học cho RẤT NHIỀU NGÀNH](./lo-trinh/) - Tổng hợp rất nhiều ngành học.
@@ -61,9 +66,11 @@ _Đang trong quá trình xây dựng_
 - [Học phần mềm](./hoc-phan-mem/) - Tổng hợp hướng dẫn cách học cho **rất nhiều phần mềm**. 
 - [awesome-self-taught](./awesome-self-taught/) - Một Awesome List tổng hợp rất nhiều các Awesome List khác về các chủ đề tự học như tâm lý, sinh học, dinh dưỡng .v.v. (Bằng Tiếng Anh).
 - [awesome-howto](./awesome-howto) - Một Awesome List tổng hợp rất nhiều về các phương pháp hay để [điền chủ đề vào đây] (Bằng Tiếng Anh).
-- [Tự học mọi thứ từ Vozer]() - Bài viết tổng hợp rất nhiều những bài viết hay trên Voz Forum về nhiều nội dung khác nhau.
+- [Tự học mọi thứ từ Vozer](https://voz.vn/t/tu-hoc-moi-thu-tu-vozer.957012/) - Bài viết tổng hợp rất nhiều những bài viết hay trên Voz Forum về nhiều nội dung khác nhau.
 
 ## Thông tin thêm
 Nếu bạn muốn tham gia vào phát triển dự án nhỏ này, bạn có thể liên hệ trực tiếp với mình tại duykhanh471@protonmail.com
 
 ![](logo.png)
+
+_logo của một người đần thiết kế và cũng lười thiết kế luôn_
