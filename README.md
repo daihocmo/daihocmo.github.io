@@ -1,13 +1,26 @@
 # Khu học mở: Học ngoại ngữ và kĩ năng mềm
 
 ## Giới thiệu
-Là một trường đại học không đóng vì nó không có cửa.
+**Khu học mở** là một trang hướng dẫn, lộ trình và tổng hợp cách học lẫn tài nguyên cho rất nhiều môn học lẫn lĩnh vực khác nhau. Các tài nguyên được tổng hợp ở trang phần lớn là các tài nguyên được các tác giả và cộng đồng làm và chia sẻ hoàn toàn miễn phí trên mạng và mình chỉ đơn giản là người tổng hợp lại những gì mình (với rất nhiều người khác nữa) đã tìm được và thấy nó hữu ích.
 
-> Một ngày đẹp trời và đầy nắng
+Do các tài nguyên bằng Tiếng Việt vẫn còn khá hạn hẹp (Có thể mình chưa tìm hết hoặc bỏ sót) nên khá nhiều phần nội dung trong đây được tổng hợp từ nguồn Tiếng Anh hoặc bản dịch về Tiếng Việt (Mình đang xử lý dần phần này).
 
+Mong rằng những gợi ý dưới đây sẽ giúp bạn có thể tự học tốt hơn.
+
+**Lưu ý:** Các trang ở dưới đây có khá nhiều trang vẫn đang trong giai đoạn xây dựng nền móng và chưa đạt đến độ hoàn chỉnh như mong muốn. Dự kiến các trang sẽ được bổ sung nội dung ở mức cơ bản vào ngày 31/12/2024. Nếu bạn muốn đóng góp vào dự án này thì có thể tham gia cộng đồng Discord hoặc liên lạc qua phần Email bên dưới.
+
+> Một ngày đẹp trời và đầy nắng, nơi có một học khu không đóng vì nó không có cửa.
+
+## Tự học
+Phương châm của **Khu học mở** là TỰ HỌC. Tất cả các nội dung dưới đây đều sẽ **vô dụng** nếu bạn không tự học. Mình nghĩ rằng không có quá nhiều người bắt đầu thực sự tự tìm hiểu về tự học hay tự giáo dục bản thân.
+
+Bạn có thể đọc bài viết [Tự học - Khu học mở](howto.md) để bắt đầu.
+
+## Cộng đồng
 Tham gia cộng đồng trên Discord để cùng trao đổi và thảo luận.
 
 [![](banner.png)](https://discord.gg/ZyEn4TTyEM)
+
 
 ## Mục lục
 ### 1. Điều hướng
@@ -60,6 +73,10 @@ _Đang trong quá trình xây dựng_
 - [Tôi luyện lịch sự](./lich-su/) - Một kho tổng hợp tự học lịch sử nước nhà lẫn lịch sự thế giới. 
 - [Về nước mình](./chac-la-viet-nam/) - Tìm hiểu rất nhiều thứ về Việt Nam, từ văn hóa, địa lý cho đến ẩm thực và du lịch.
 
+## Môi trường
+- [iu-môi-trường](./iu-moi-truong/) - Một trang được làm bởi một người iu môi trường cho những người iu môi trường khác.
+- **Tôi luyện thực vật** - Một "học khu" cho các con nghiện những thứ liên quan đến cây và rất nhiều thứ khác xoay quanh các loài thực vật (Dưới góc nhìn của một layperson).
+
 ## Các chủ đề khác
 - [Học phần mềm](./hoc-phan-mem/) - Tổng hợp hướng dẫn cách học cho **rất nhiều phần mềm**. 
 - [awesome-self-taught](./awesome-self-taught/) - Một Awesome List tổng hợp rất nhiều các Awesome List khác về các chủ đề tự học như tâm lý, sinh học, dinh dưỡng .v.v. (Bằng Tiếng Anh).
@@ -71,6 +88,6 @@ Nếu bạn muốn tham gia vào phát triển dự án nhỏ này, bạn có th
 
 Trước khi tham gia, nếu có thể bạn nên đọc trang [TODO](TODO.md) để tìm hiểu thêm về các nhiệm vụ cụ thể trong việc đóng góp vào trang của Khu học mở.
 
-![](logo.png)
+![Đây là vị trí để logo, mà vì bị lỗi logo nên đoạn chữ này sẽ được hiển thị thay thế](logo.png)
 
 _logo của một người đần thiết kế và cũng lười thiết kế luôn_
