@@ -75,10 +75,11 @@ _Đang trong quá trình xây dựng_
 
 ## Môi trường
 - [iu-môi-trường](./iu-moi-truong/) - Một trang được làm bởi một người iu môi trường cho những người iu môi trường khác.
-- **Tôi luyện thực vật** - Một "học khu" cho các con nghiện những thứ liên quan đến cây và rất nhiều thứ khác xoay quanh các loài thực vật (Dưới góc nhìn của một layperson).
+- [Tôi luyện thực vật](./thuc-vat/) - Một "học khu" cho các con nghiện những thứ liên quan đến cây và rất nhiều thứ khác xoay quanh các loài thực vật (Dưới góc nhìn của một layperson).
 
 ## Các chủ đề khác
 - [Học phần mềm](./hoc-phan-mem/) - Tổng hợp hướng dẫn cách học cho **rất nhiều phần mềm**. 
+- [SGK cho Gamer](.sgk-cho-gamer/) - Một cuốn "sách giáo khoa" thực thụ cho Gamer.
 - [awesome-self-taught](./awesome-self-taught/) - Một Awesome List tổng hợp rất nhiều các Awesome List khác về các chủ đề tự học như tâm lý, sinh học, dinh dưỡng .v.v. (Bằng Tiếng Anh).
 - [awesome-howto](./awesome-howto) - Một Awesome List tổng hợp rất nhiều về các phương pháp hay để [điền chủ đề vào đây] (Bằng Tiếng Anh).
 - [Tự học mọi thứ từ Vozer](https://voz.vn/t/tu-hoc-moi-thu-tu-vozer.957012/) - Bài viết tổng hợp rất nhiều những bài viết hay trên Voz Forum về nhiều nội dung khác nhau.
