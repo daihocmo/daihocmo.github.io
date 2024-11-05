@@ -1,0 +1,1 @@
+Bạn cần phải tự chọn những gì mình xem, thay vì để thuật toán chọn thay bạn

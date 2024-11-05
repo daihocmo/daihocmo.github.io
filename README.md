@@ -40,6 +40,10 @@ Tham gia cộng đồng trên Discord để cùng trao đổi và thảo luận.
 ### 3. Thông tin thêm
 - [Thông tin thêm](#thông-tin-thêm)
 
+## Không có gì 
+- [Những thứ _niche_](posts/niche.md) - Có những cái gì hay mà có thể bạn muốn học
+- [Cây dừa biết nói](posts/media-consumption.md) - Tên không liên quan lắm nhưng là hướng dẫn cách lựa chọn nội dung và tiêu thụ một cách _mindfully_
+
 ## Phát triển bản thân
 - [Tôi luyện bản thân](./phat-trien/) - Tổng hợp toàn bộ nội dung về phát triển bản thân, lối sống, học cách học .etc.
 - [Tự học](./awesome-tu-hoc/) - Khu tổng hợp tài nguyên tự học cho rất nhiều thứ bằng Tiếng Việt
