@@ -1,14 +1,13 @@
-# Điểm khởi đầu của tự học - Khu học mở
+# Tự học cách tự học - Khu học mở
 
-## Chắc là tự học
-Mình nghĩ là tất cả mọi người đều biết là tự học có ích với các thứ các thứ nên mình sẽ không nhai lại nữa. Đến giờ thực hiện luôn nè.
+## Học cách tự học
+Mình nghĩ là tất cả mọi người đều biết là tự học có ích với các thứ các thứ nên mình sẽ không nhai lại nữa. Đây sẽ là một số gợi ý mà cá nhân mình đưa ra và mong rằng nó có ích với bạn.
 
-Nếu bạn muốn đọc lại về chủ đề trên thì hãy đọc:
+Trước hết, bạn hãy thử đọc 1 trong 2 bài (Hoặc cả hai bài thì càng tốt) dưới đây:
 
 - [Điều cần học đầu tiên: đó là cách tự học](https://spiderum.com/bai-dang/Dieu-can-hoc-dau-tien-do-la-cach-tu-hoc-pri)
 - [Tự học - Tại sao nên tự học? - Làm thế nào để tự học hiệu quả hơn?](https://spiderum.com/bai-dang/Tu-hoc-Tai-sao-nen-tu-hoc-Lam-the-nao-de-tu-hoc-hieu-qua-hon-pkd)
 
-(Mấy bài trên mình chưa đọc đâu =D)
 
 Để tìm được định hướng cho cách tự học của bản thân, chúng ta sẽ bắt đầu **Learning How to Learn**, một khóa học trên Coursera của bác [Barbara Oakley](https://tiki.vn/author/barbara-oakley.html). Bạn có thể chọn một trong ba cách học dưới đây (Không cần phải tất cả đâu nha):
 
@@ -25,20 +24,25 @@ Nếu bạn muốn đọc lại về chủ đề trên thì hãy đọc:
 Gòi xong rồi đấy, bây giờ thì bắt đầu đến phần tiếp thôi.
 
 ## Bắt đầu tự học một chủ đề
-Chưa nghĩ được gì nên cứ để gợi ý của mình ở đây cho đến khi mình viết được một phần hoàn chỉnh.
+Đến giờ chọn ra những gì bạn cần tự học rồi. 
+
+Khi bạn đã biết thứ mà mình cần tự học, điều đầu tiên mà bạn có thể làm là viết một lộ trình tự học (Roadmap) cho bản thân. Tuy bạn không nhất thiết phải bám sát vào lộ trình đó, nhưng ít nhiều nó cũng sẽ giúp bạn tránh bị đi sai hướng trong quá trình học.
+
+Bạn có thể tìm các lộ trình học được làm bởi những người học đi trước để tham khảo. Có thể đọc ở trên **Khu học mở** (Là cái trang này) hoặc tìm ở bất cứ đâu, đây là một số gợi ý của mình:
+
+- Tự xây dựng lộ trình học cho một chuyên ngành dựa trên lộ trình học bậc đại học. Bạn có thể xem [Can you get an MIT education for $2,000?](https://www.youtube.com/watch?v=piSLobJfZ3c&pp=ygUNc2NvdHQgaCB5b3VuZw%3D%3D) và xem cách ông này đã tự học phần lớn chương trình của MIT trong 1 năm. Bạn có thể tìm **lộ trình ngành [ngành bạn cần học] trường [trường đại học mà bạn muốn tìm thử]** (Ví dụ: **Lộ trình học ngành ngôn ngữ Anh Trường Đại học Hà Nội**).
+- Các trang tổng hợp lộ trình cụ thể có sẵn. Ví dụ như trang [ossu/math](https://github.com/ossu/math) là lộ trình tự học ngành Toán hay [Teach Yourself Computer Science](https://teachyourselfcs.com/) là lộ trình tự dạy mình Khoa học máy tính. Có thể bắt đầu đơn giản là "[Chủ đề bạn cần học] Roadmap" để tìm thêm. Hoặc có thể tìm bằng cú pháp `site:domain keyword` (Ví dụ: `site:spiderum.com lộ trình học tiếng anh` - Sẽ tìm nội dung liên quan đến **lộ trình học tiếng anh** trong Spiderum thôi).
+
 
 - [What steps should I take when self-learning a topic?](https://old.reddit.com/r/GetStudying/comments/127z7ca/what_steps_should_i_take_when_selflearning_a_topic/)
 - [Sandbox – phương pháp giúp bạn tự học bất cứ thứ gì](https://spiderum.com/bai-dang/Sandbox-phuong-phap-giup-ban-tu-hoc-bat-cu-thu-gi-w5e)
-- [Tự học mọi thứ từ Vozer](https://voz.vn/t/tu-hoc-moi-thu-tu-vozer.957012/) - Bài viết cũ của mình tổng hợp những bài viết hay về cách học cho nhiều thứ từ các bài đăng hữu ích trên Voz.
 
 ## Mỗi ngày
 > Biến việc học thành một thói quen hàng ngày và đều đặn. 
 
 Sau khi bạn đọc xong về cách để có thể bắt đầu tự học rồi thì giờ sẽ là lúc luyện tập để biến nó thành một thói quen hàng ngày.
 
-Thành thật mà nói, vẫn còn nhiều môn mà cá nhân mình vẫn chưa giữ được thói quen tự học hàng ngày (Mình đam mê khá nhiều thứ và nó không ổn lắm thì phải :>). Nhưng mình vẫn sẽ viết phần này để con lười như mình (và có thể là các bạn nữa) sẽ tìm được cách để duy trì những thứ mình đặt làm mục tiêu hàng ngày.
-
-Trước đó chúng ta sẽ cần nói chút về động lực. Động lực là một thứ đỉnh của chóp thúc đẩy bạn học tập, làm việc hoặc làm bất cứ thứ gì. Nhưng, động lực là một cảm xúc, hay là một thứ không ổn định hàng ngày, thứ mà việc tự học yêu cầu nên là tránh dựa vào nó quá nhiều nha. Bạn có thể tự tạo cho mình động lực hàng ngày bằng cách hoàn thành công việc (Con người luôn thích cảm giác đạt được một thứ gì đó mà :>, cảm giác tạo ra được một sản phẩm hoặc này kia cũng khá đã).
+Thành thật mà nói, vẫn còn nhiều môn mà cá nhân mình vẫn chưa giữ được thói quen tự học hàng ngày (Mình đam mê khá nhiều thứ và nó không ổn lắm thì phải). Nhưng mình vẫn sẽ viết phần này để con lười như mình (và có thể là các bạn nữa) sẽ tìm được cách để duy trì những thứ mình đặt làm mục tiêu hàng ngày.
 
 ### Thói quen nguyên tử
 Một khởi đầu khá hay cho những ai thích đọc sách là cuốn [Thói quen nguyên tử](https://tiki.vn/atomic-habits-thay-doi-ti-hon-hieu-qua-bat-ngo-p125724932.html), cuốn này đã có bản dịch Tiếng Việt từ khá lâu rồi mà bạn có thể sẽ muốn đọc thử. Nếu bạn muốn phần TL;DR (Quá dài, không đọc đâu) cho cuốn này thì hiện tại mình chưa tìm vì lười, bên Tiếng Anh có một số video tóm tắt ý tưởng của cuốn này.
@@ -51,11 +55,13 @@ Một số bài đọc liên quan đến thói quen nguyên tử mà mình tìm 
 Bạn cũng có thể đọc [How do I develop habit of self studying?](https://reddit.com/r/GetStudying/comments/vjqnvj/how_do_i_develop_habit_of_self_studying/) trên Reddit và nhìn xuống những bình luận đầu tiên để tìm câu trả lời cho mình.
 
 ### Study with me
-Một trong những gợi ý chính của mình là tất cả các Livestream của [James Scholz](https://www.youtube.com/@JamesScholz/streams). Bạn hoàn toàn có thể xem (gợi ý luôn ấy) các Stream của anh ấy (Study With Me) trong lúc học ([Hiệu ứng thư viện - Library Effect](https://www.linkedin.com/pulse/library-effect-catalyst-academic-achievement-personal-jo-t0y0c)).
+Một trong những gợi ý chính của mình là tất cả các Livestream của [James Scholz](https://www.youtube.com/@JamesScholz/streams). Bạn hoàn toàn có thể xem (gợi ý luôn ấy) các Stream của anh ấy (Study With Me) trong lúc học. Hoặc bạn có thể bất cứ **study-with-me** Youtuber nào mà bạn thích: [The Hanoi Chamomile](https://www.youtube.com/@TheHanoiChamomile)
 
 ## Một số các câu hỏi khác
 
 ### Làm cách nào để nhớ lâu các kiến thức mình đã học
-Sử dụng [SRS](https://daihocmo.github.io/ngoai-ngu/srs/) hay hệ thống lặp lại ngắt quãng. Gợi ý hàng đầu là [Anki](https://apps.ankiweb.net/).
+Để hiểu thêm về hệ thống học tập và ghi nhớ này, bạn có thể xem [Study For Exams](https://www.youtube.com/playlist?list=PLCI5VGItTkAtyyUY_DJ3-_L90BUD6Aeg9) được làm bởi Duy Thanh Nguyen (4 video đầu sẽ nói về chủ đề này, còn video thứ 5 là tự chọn).
 
-Bạn có thể đọc thêm bài viết [Tròn 1 năm sử dụng Anki Flashcards để nhớ mọi thứ và một số ghi chú](https://spiderum.com/bai-dang/Tron-1-nam-su-dung-Anki-de-nho-moi-thu-va-mot-so-ghi-chu-8pz) trên Spiderum hoặc đọc [Augmenting Long-term Memory](https://augmentingcognition.com/ltm.html) của [Michael Nielsen](https://michaelnielsen.org).
+Sử dụng [SRS - Hệ thống lặp lại ngắt quãng](https://daihocmo.github.io/ngoai-ngu/srs/). Một ứng dụng hỗ trợ SRS tốt mà cá nhân mình đang sử dụng là [Anki](https://apps.ankiweb.net/).
+
+Bạn có thể đọc thêm bài viết [Tròn 1 năm sử dụng Anki Flashcards để nhớ mọi thứ và một số ghi chú](https://spiderum.com/bai-dang/Tron-1-nam-su-dung-Anki-de-nho-moi-thu-va-mot-so-ghi-chu-8pz) trên Spiderum hoặc đọc [Augmenting Long-term Memory](https://augmentingcognition.com/ltm.html) của [Michael Nielsen](https://michaelnielsen.org) để tìm hiểu thêm về hệ thống học tập này.
