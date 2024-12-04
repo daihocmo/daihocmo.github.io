@@ -1,4 +1,5 @@
 # Khu học mở: Học ngoại ngữ và kĩ năng mềm
+> This site is also available in [English](translation/en.md)
 
 ## Giới thiệu
 **Khu học mở** là một trang hướng dẫn, lộ trình và tổng hợp cách học lẫn tài nguyên cho rất nhiều môn học lẫn lĩnh vực khác nhau. Các tài nguyên được tổng hợp ở trang phần lớn là các tài nguyên được các tác giả và cộng đồng làm và chia sẻ hoàn toàn miễn phí trên mạng và mình chỉ đơn giản là người tổng hợp lại những gì mình (với rất nhiều người khác nữa) đã tìm được và thấy nó hữu ích.
@@ -9,9 +10,6 @@ Mong rằng những gợi ý dưới đây sẽ giúp bạn có thể tự học
 
 **Lưu ý:** Các trang ở dưới đây có khá nhiều trang vẫn đang trong giai đoạn xây dựng nền móng và chưa đạt đến độ hoàn chỉnh như mong muốn. Dự kiến các trang sẽ được bổ sung nội dung ở mức cơ bản vào ngày 31/12/2024. Nếu bạn muốn đóng góp vào dự án này thì có thể tham gia cộng đồng Discord hoặc liên lạc qua phần Email bên dưới.
 
-> Một ngày đẹp trời và đầy nắng, nơi có một học khu không đóng vì nó không có cửa.
-
-This site is also available in: [English](translation/en.md), [日本語](translation/jp.md) (Experimental btw, I'm pretty busy working on original sites in Vietnamese, feel free to dm me).
 
 ## Tự học
 Bạn có thể đọc bài viết [Tự học - Khu học mở](posts/howto.md) để bắt đầu định hướng học cách tự học.
