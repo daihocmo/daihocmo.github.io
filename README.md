@@ -4,15 +4,10 @@
 ## Giới thiệu
 **Khu học mở** là một trang hướng dẫn, lộ trình và tổng hợp cách học lẫn tài nguyên cho rất nhiều môn học lẫn lĩnh vực khác nhau. Các tài nguyên được tổng hợp ở trang phần lớn là các tài nguyên được các tác giả và cộng đồng làm và chia sẻ hoàn toàn miễn phí trên mạng và mình chỉ đơn giản là người tổng hợp lại những gì mình (với rất nhiều người khác nữa) đã tìm được và thấy nó hữu ích.
 
-Do các tài nguyên bằng Tiếng Việt vẫn còn khá hạn hẹp (Có thể mình chưa tìm hết hoặc bỏ sót) nên khá nhiều phần nội dung trong đây được tổng hợp từ nguồn Tiếng Anh hoặc bản dịch về Tiếng Việt (Mình đang xử lý dần phần này).
-
 Mong rằng những gợi ý dưới đây sẽ giúp bạn có thể tự học tốt hơn.
 
-**Lưu ý:** Các trang ở dưới đây có khá nhiều trang vẫn đang trong giai đoạn xây dựng nền móng và chưa đạt đến độ hoàn chỉnh như mong muốn. Dự kiến các trang sẽ được bổ sung nội dung ở mức cơ bản vào ngày 31/12/2024. Nếu bạn muốn đóng góp vào dự án này thì có thể tham gia cộng đồng Discord hoặc liên lạc qua phần Email bên dưới.
-
-
 ## Tự học
-Bạn có thể đọc bài viết [Tự học - Khu học mở](posts/howto.md) để bắt đầu định hướng học cách tự học.
+Nếu bạn vẫn chưa quen với việc tự học nói chung hay lựa chọn định hướng học tập cho một định hướng cụ thể, bạn có thể đọc bài viết [Tự học - Khu học mở](posts/howto.md) để bắt đầu định hướng học cách tự học.
 
 ## Cộng đồng
 **Khu học mở** hỗ trợ các nhóm học tập sau:
@@ -102,8 +97,12 @@ Sẽ không có cộng đồng trên Facebook hay bất kì nền tảng nào kh
 - [EasyPeasy Vietnamese](https://github.com/daihocmo/easypeasymethod-vi) -  Bản dịch cho sách [EasyPeasy](https://read.easypeasymethod.org/) 
 
 ## Một số hướng dẫn lạc loài so với đống bên dưới
-- [Những thứ _niche_](posts/niche.md) - Những chủ đề hay và độc lạ mà bạn có thể sẽ muốn học.
+- [Những chủ đề niche](posts/niche.md) - Những chủ đề _niche_ (từ này định nghĩa Tiếng Việt không chính xác lắm) mà bạn có thể sẽ muốn học.
 - [Hướng dẫn lựa chọn và tiêu thụ nội dung](posts/media-consumption.md) - Như tên bài, là hướng dẫn cách lựa chọn nội dung và tiêu thụ một cách _mindfully_.
+
+> ## niche 
+> **(adjective /niːʃ/)** 
+> Interesting to, aimed at, or affecting only a small number of people
 
 ## Đóng góp
 Dự án này sẽ không nhận thành viên. Hoặc nói một cách chính xác hơn, bạn không cần phải "đăng kí tham gia" hay tương tự. Dự án hoạt động dựa trên từng đóng góp nhỏ một của những người học. Để thực hiện đóng góp cho dự án thì bạn có thể:
