@@ -10,8 +10,7 @@
 
 [![Tham gia cộng đồng Khu học mở](assets/join_us.png)](cong-dong.md)
 
-_Bấm vào hình để tham gia cộng đồng học._
-<!--Thiết kế banner tham gia cộng đồng học ở đây-->
+Bấm vào hình để tham gia cộng đồng học.
 
 ## Mục lục
 
