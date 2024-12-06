@@ -1,124 +1,98 @@
-# Khu học mở: Học ngoại ngữ và kĩ năng mềm
-> This site is also available in [English](translation/en.md)
+# Tự học mọi thứ thông qua hướng dẫn, lộ trình và các nguồn tài nguyên miễn phí trên Internet
 
 ## Giới thiệu
-**Khu học mở** là một trang hướng dẫn, lộ trình và tổng hợp cách học lẫn tài nguyên cho rất nhiều môn học lẫn lĩnh vực khác nhau. Các tài nguyên được tổng hợp ở trang phần lớn là các tài nguyên được các tác giả và cộng đồng làm và chia sẻ hoàn toàn miễn phí trên mạng và mình chỉ đơn giản là người tổng hợp lại những gì mình (với rất nhiều người khác nữa) đã tìm được và thấy nó hữu ích.
 
-Mong rằng những gợi ý dưới đây sẽ giúp bạn có thể tự học tốt hơn.
+**Khu học mở** là một trang hướng dẫn, lộ trình và tổng hợp cách học lẫn tài nguyên cho rất nhiều môn học lẫn lĩnh vực khác nhau. Các tài nguyên được tổng hợp ở trang phần lớn là các tài nguyên được các tác giả và cộng đồng làm và chia sẻ hoàn toàn miễn phí trên mạng và mình chỉ đơn giản là người tổng hợp lại những gì mình (với rất nhiều người khác nữa) đã tìm được và thấy nó hữu ích. Mong rằng những hướng dẫn dưới đây sẽ giúp bạn có thể tự học tốt hơn.
 
-## Tự học
-Nếu bạn vẫn chưa quen với việc tự học nói chung hay lựa chọn định hướng học tập cho một định hướng cụ thể, bạn có thể đọc bài viết [Tự học - Khu học mở](posts/howto.md) để bắt đầu định hướng học cách tự học.
+> [Is it possible to teach yourself anything?](https://reddit.com/r/productivity/comments/fyxuam/is_it_possible_to_teach_yourself_anything/)
 
 ## Cộng đồng
-**Khu học mở** hỗ trợ các nhóm học tập sau:
 
-### Discord
-Tham gia cộng đồng trên Discord để cùng trao đổi và thảo luận.
+[![Tham gia cộng đồng Khu học mở](assets/join_us.png)](cong-dong.md)
 
-- [Tự học ngoại ngữ](https://discord.gg/fbHbQSwzpD) - Dành cho những người học ngoại ngữ. Hiện tại hỗ trợ 3 ngôn ngữ: Tiếng Anh, , Tiếng Trung
-- [Khu học mở](https://discord.gg/ZyEn4TTyEM) - Dành cho những người theo học các chuyên ngành khác (Thiết kế đồ họa, tâm lý .v.v.) cũng như làm việc trong ban dịch sách và tài liệu.
-- [Khoa học máy tính](https://discord.gg/x93EE354PB) - Dành cho những người học về lập trình và khoa học máy tính.
-- [immerse in trees](https://discord.gg/jJjaCH3Bc2) - Cho những bạn muốn hướng dẫn Tiếng Việt hoặc trò chuyện về việc học Tiếng Việt với người học. Hiện tại kênh mới lập chưa lâu nên còn chưa nhiều thành viên.
-
-### Reddit
-Bạn cũng có thể đăng bài trên cộng đồng Reddit để hỏi về nhiều thứ xung quanh tự học
-
-[Tham gia cộng đồng trên Reddit](https://www.reddit.com/r/khuhocmo/)
-
-### Các cộng đồng khác
-Đã có rất nhiều các cộng đồng trên Discord, Reddit hoặc các nền tảng khác có lượng thành viên và những người giỏi trên đó (Thường sẽ tốt hơn các cộng đồng do cá nhân mình lập). Bạn có thể tìm hiểu thêm và tham gia. Hiện tại mình vẫn chưa tổng hợp được hoàn chỉnh thành một danh sách nên phần này vẫn chưa xong.
-
-### Các nền tảng khác
-Sẽ không có cộng đồng trên Facebook hay bất kì nền tảng nào khác.
+_Bấm vào hình để tham gia cộng đồng học._
+<!--Thiết kế banner tham gia cộng đồng học ở đây-->
 
 ## Mục lục
-### 1. Điều hướng
-- [Giới thiệu](#giới-thiệu)
-- [Mục lục](#mục-lục)
 
-### 2. Định hướng
-- [Phát triển bản thân](#phát-triển-bản-thân)
-- [Ngoại ngữ](#học-ngoại-ngữ)
-- [Tự học đại học](#tự-học-đại-học)
-- [Khoa học máy tính](#khoa-học-máy-tính)
-- [Nghệ thuật](#nghệ-thuật)
-- [Giáo dục phổ thông](#giáo-dục-phổ-thông)
-- [Lịch sử địa lý](#lịch-sử-địa-lý)
+- [Cộng đồng](#c%E1%BB%99ng-%C4%91%E1%BB%93ng)
+- [Mục lục](#m%E1%BB%A5c-l%E1%BB%A5c)
+- [Hướng dẫn bắt đầu tự học](#h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-b%E1%BA%AFt-%C4%91%E1%BA%A7u-t%E1%BB%B1-h%E1%BB%8Dc)
+- [Học ngoại ngữ](#h%E1%BB%8Dc-ngo%E1%BA%A1i-ng%E1%BB%AF)
+  - [Chung](#chung)
+  - [Các ngôn ngữ riêng](#c%C3%A1c-ng%C3%B4n-ng%E1%BB%AF-ri%C3%AAng)
+  - [Tiếng Việt](#ti%E1%BA%BFng-vi%E1%BB%87t)
+- [Giáo dục phổ thông](#gi%C3%A1o-d%E1%BB%A5c-ph%E1%BB%95-th%C3%B4ng)
+- [Tự học đại học & chuyên ngành](#t%E1%BB%B1-h%E1%BB%8Dc-%C4%91%E1%BA%A1i-h%E1%BB%8Dc--chuy%C3%AAn-ng%C3%A0nh)
+- [Phát triển bản thân & Kĩ năng mềm](#ph%C3%A1t-tri%E1%BB%83n-b%E1%BA%A3n-th%C3%A2n--k%C4%A9-n%C4%83ng-m%E1%BB%81m)
+- [Tổng hợp](#t%E1%BB%95ng-h%E1%BB%A3p)
+- [Dự án sách](#d%E1%BB%B1-%C3%A1n-s%C3%A1ch)
+- [Đóng góp](#%C4%91%C3%B3ng-g%C3%B3p)
+- [Cảm ơn](#c%E1%BA%A3m-%C6%A1n)
 
-### 3. Thông tin thêm
-- [Đóng góp](#đóng-góp)
-- [Thông tin thêm](#thông-tin-thêm)
+## Hướng dẫn bắt đầu tự học
 
+Nếu bạn vẫn chưa quen với việc tự học nói chung hay lựa chọn định hướng học tập cho một định hướng cụ thể, bạn có thể đọc bài viết [Tự học - Khu học mở](posts/howto.md) để bắt đầu định hướng học cách tự học.
 
-## Phát triển bản thân
-- [Tôi luyện bản thân](./phat-trien/) - Tổng hợp toàn bộ nội dung về phát triển bản thân, lối sống, học cách học .etc.
-- [Tự học](./awesome-tu-hoc/) - Khu tổng hợp tài nguyên tự học cho rất nhiều thứ bằng Tiếng Việt
-- [Đọc sách](./awesome-doc-sach/) - Kho sách hay tổng hợp từ nhiều nguồn
- 
 ## Học ngoại ngữ
+
 ### Chung
+
 - [Học ngoại ngữ](./ngoai-ngu/) - Tìm hiểu về phương pháp học ngoại ngữ thông qua ALG, Comprehensible Input và Immersion.
 - [Tất tần tật về tài nguyên học ngôn ngữ](./awesome-ngon-ngu/) - Tổng hợp nhiều tài nguyên tự học ngôn ngữ và bằng Tiếng Việt (là chính).
 - [Tự ôn thi ngoại ngữ](./luyen-thi-ngon-ngu/) - Khu tổng hợp các tài liệu ôn thi cho các ngôn ngữ: Tiếng Anh (TOEIC), Tiếng Nhật (JLPT), Tiếng Trung (HSK), Tiếng Hàn (TOPIK)
+  Nếu bạn vẫn chưa quen với việc tự học nói chung hay lựa chọn định hướng học tập cho một định hướng cụ thể, bạn có thể đọc bài viết [Tự học - Khu học mở](posts/howto.md) để bắt đầu định hướng học cách tự học.
 
 ### Các ngôn ngữ riêng
-- [Tiếng Anh](./tieng-anh/) 
-    - [Lộ trình 30 ngày Tiếng Anh](https://daihocmo.github.io/tieng-anh/30ngay)
-    - [Lộ trình 160 ngày Tiếng Anh từ mất gốc lên B1](https://daihocmo.github.io/tu-luyen-tieng-anh/)
-    - [Tự học Tiếng Anh chuyên ngành](https://daihocmo.github.io/tieng-anh-chuyen-nganh/)
-- [Tiếng Nhật](./tieng-nhat)
+
+- [Tiếng Anh](./tieng-anh/)
+  - [Lộ trình tự học Tiếng Anh cho người mất gốc](https://daihocmo.github.io/tieng-anh/30ngay)
+  - [Tự học Tiếng Anh chuyên ngành](https://daihocmo.github.io/tieng-anh-chuyen-nganh/)
+- [Tiếng Nhật](./tieng-nhat/)
 - [Tiếng Trung](./tieng-trung/)
 
 ### Tiếng Việt
+
 - [Immersion-based Vietnamese Learning](./learn-vietnamese) - How to learn Vietnamese through
-- [Tiếng Việt lịch sự](./tieng-viet-lich-su/) - Một khu tổng hợp rất nhiều về Tiếng Việt lịch sự, dành cho những người muốn hướng tới việc sử dụng Tiếng Việt chuyên nghiệp và ứng dụng trong giao tiếp trang trọng 
-
-## Tự học đại học
-- [Lộ trình tự học bậc đại học cho RẤT NHIỀU NGÀNH](./tu-hoc-dai-hoc/) - Tổng hợp rất nhiều ngành học.
-
-## Khoa học máy tính
-- [Tôi luyện khoa học máy tính](./khoa-hoc-may-tinh/) - Tổng hợp về tự học khoa học máy tính nói chung và lập trình nói riêng.
-- [Tổng hợp tài nguyên tự học lập trình](./awesome-lap-trinh/) - Một kho tổng hợp rất nhiều nội dung về học lập trình bằng Tiếng Việt.
-
-## Nghệ thuật 
-- [Tôi luyện vẽ](./ve/) - Nhiều thứ về vẽ vời.
+- [Tiếng Việt lịch sự](./tieng-viet-lich-su/) - Một khu tổng hợp rất nhiều về Tiếng Việt lịch sự, dành cho những người muốn hướng tới việc sử dụng Tiếng Việt chuyên nghiệp và ứng dụng trong giao tiếp trang trọng
 
 ## Giáo dục phổ thông
+
 - [Tự học giáo dục phổ thông](./pho-thong/) - Chương trình hỗ trợ học cho học sinh từ lớp 8 đến lớp 12.
 
-## Lịch sử, địa lý
-- [Tôi luyện lịch sự](./lich-su/) - Một kho tổng hợp tự học lịch sử nước nhà lẫn lịch sự thế giới. 
-- [Tìm hiểu về đất nước mình](./chac-la-viet-nam/) - Tìm hiểu rất nhiều thứ về Việt Nam, từ văn hóa, địa lý cho đến ẩm thực và du lịch.
+## Tự học đại học & chuyên ngành
 
-## Hướng dẫn đặc biệt
-- [Iu môi trường](./iu-moi-truong/) - Một trang được làm bởi một người iu môi trường cho những người iu môi trường khác.
+- [Tự học đại học tại nhà](./tu-hoc-dai-hoc/) - Tổng hợp rất nhiều lộ trình tự học cho nhiều ngành học.
+- Khoa học máy tính:
+  - [Tu luyện khoa học máy tính](./khoa-hoc-may-tinh/) - Tổng hợp về tự học khoa học máy tính nói chung và lập trình nói riêng.
+  - [Tổng hợp tài nguyên tự học lập trình](./awesome-lap-trinh/) - Một kho tổng hợp rất nhiều nội dung về học lập trình bằng Tiếng Việt.
+- [Tự luyện lịch sự](./lich-su/) - Một kho tổng hợp tự học lịch sử nước nhà lẫn lịch sự thế giới.
+- [Tu luyện hội họa](./ve/) - Nhiều thứ về vẽ vời.
 
-## Dự án dịch sách
-- [EasyPeasy Vietnamese](https://github.com/daihocmo/easypeasymethod-vi) -  Bản dịch cho sách [EasyPeasy](https://read.easypeasymethod.org/) 
+## Phát triển bản thân & Kĩ năng mềm
 
-## Một số hướng dẫn lạc loài so với đống bên dưới
-- [Những chủ đề niche](posts/niche.md) - Những chủ đề _niche_ (từ này định nghĩa Tiếng Việt không chính xác lắm) mà bạn có thể sẽ muốn học.
-- [Hướng dẫn lựa chọn và tiêu thụ nội dung](posts/media-consumption.md) - Như tên bài, là hướng dẫn cách lựa chọn nội dung và tiêu thụ một cách _mindfully_.
+- [Tu luyện bản thân](./phat-trien/) - Tổng hợp toàn bộ nội dung về phát triển bản thân, lối sống, học cách học .etc.
+- [Lá cây xanh](./la-cay-xanh/) - Một trang về bảo vệ môi trường, thực vật, sống xanh và chống lãng phí.
+- [Tìm hiểu về Việt Nam](./viet-nam-toi/) - Tìm hiểu rất nhiều thứ về Việt Nam, từ văn hóa, địa lý cho đến ẩm thực và du lịch.
 
-> ## niche 
-> **(adjective /niːʃ/)** 
-> Interesting to, aimed at, or affecting only a small number of people
+## Tổng hợp
+
+- [Tổng hợp những hướng dẫn & tài nguyên tự học](https://daihocmo.github.io/tong-hop/danh-sach/tu-hoc.html) - Khu tổng hợp tài nguyên tự học cho rất nhiều thứ bằng Tiếng Việt
+- [Những cuốn sách mà thanh niên nên đọc](https://daihocmo.github.io/tong-hop/danh-sach/doc-sach.html) - Kho sách hay tổng hợp từ nhiều nguồn.
+- [Những phần mềm hay và miễn phí](https://thuvienmo.github.io/hoc-phan-mem/) - Hướng dẫn cách lựa chọn phần mềm đơn giản.
+- [Những chủ đề niche](posts/niche.md) - Những chủ đề chuyên môn mà không có nhiều người học, những mảng này thường chưa có nhiều người học ở Việt Nam nên các tài nguyên và cộng đồng sẽ là Tiếng Anh.
+- [Kiểm soát việc tiêu thụ nội dung của bản thân](posts/media-consumption.md)
+
+## Dự án sách
+
+Các dự án dịch sách hoặc xây dựng sách mã nguồn mở sẽ được tổng hợp ở mục này.
+
+- [EasyPeasy Vietnamese](https://github.com/daihocmo/easypeasymethod-vi) - Bản dịch cho sách [EasyPeasy](https://read.easypeasymethod.org/)
 
 ## Đóng góp
-Dự án này sẽ không nhận thành viên. Hoặc nói một cách chính xác hơn, bạn không cần phải "đăng kí tham gia" hay tương tự. Dự án hoạt động dựa trên từng đóng góp nhỏ một của những người học. Để thực hiện đóng góp cho dự án thì bạn có thể:
 
-- Thông qua Github: Toàn bộ dự án đều được lưu trên Github và thay đổi được thực hiện trên Github sẽ trực tiếp được cập nhật lên các trang tương ứng.
-- Gửi gợi ý lên kênh Discord (tương ứng. VD: Cho các trang ngoại ngữ thì có nhóm "Tu luyện ngoại ngữ"), Reddit.
-- liên hệ trực tiếp qua [Email](mailto:duykhanh471@protonmail.com) . 
-
-> Lưu ý: Nếu Email của bạn được viết không rõ ràng (Thiếu tiêu đề, không đi vào nội dung muốn đóng góp, spam, gửi thư rác hoặc những thứ tương tự) thì Email đó sẽ không được phản hồi. Mình sẽ phản hồi chậm nhất là 7 ngày tính từ ngày bạn gửi Email.
-
-![Đây là vị trí để logo, mà vì bị lỗi logo nên đoạn chữ này sẽ được hiển thị thay thế](assets/logo.png)
-
-_logo của một người đần thiết kế và cũng lười thiết kế luôn_
+Khu học mở hoạt động hoàn toàn dựa trên đóng góp của người học. Nếu bạn muốn đóng góp để xây dựng Khu học mở, bạn có thể đọc [Hướng dẫn đóng góp cho Khu học mở](dong-gop.md).
 
 ## Cảm ơn
-Mình muốn gửi lời cảm ơn tới tất cả những người đã tham gia vào xây dựng **Khu học mở**, những người tuyệt vời đã tạo ra nguồn tài nguyên học tập mà được bọn mình tổng hợp lại trong dự án.
 
-Bạn có thể đọc [danh sách những người đóng góp](cam-on.md) để tìm hiểu thêm nha
-
+Mình muốn dành lời cảm ơn trân trọng nhất dành cho rất nhiều cá nhân và cộng đồng tự học mà mình được tiếp xúc và học hỏi. Họ là một phần động lực, cảm hứng và định hướng để mình xây dựng lên **Khu học mở**, là những người đã tạo lên những hướng dẫn, gợi ý, định hướng học và nguồn tài nguyên tự học trong danh sách Tài nguyên tự học cho từng lộ trình một. Những cộng đồng và cá nhân đấy đã đóng góp một phần không nhỏ thời gian, công sức và nhiệt huyết của bản thân họ vào từng sản phẩm một và chia sẻ nó lên Internet hoàn toàn miễn phí để cải thiện trải nghiệm tự học của tất cả mọi người.
