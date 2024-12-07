@@ -8,9 +8,9 @@
 
 ## Cộng đồng
 
-[![Tham gia cộng đồng Khu học mở](assets/join_us.png)](cong-dong.md)
+[![Tham gia cộng đồng Khu học mở](assets/join_us.png)](./cong-dong.html)
 
-Bấm vào hình để tham gia cộng đồng học.
+[Bấm vào đây để tham gia Khu học mở](cong-dong.md)
 
 ## Mục lục
 
@@ -52,8 +52,9 @@ Nếu bạn vẫn chưa quen với việc tự học nói chung hay lựa chọn
 
 ### Tiếng Việt
 
-- [Immersion-based Vietnamese Learning](./learn-vietnamese) - How to learn Vietnamese through
+- [Immersion-based Vietnamese Learning](./learn-vietnamese) - How to learn Vietnamese through Comprehensible Input and Immersion, completely free of charge (and free in freedom).
 - [Tiếng Việt lịch sự](./tieng-viet-lich-su/) - Một khu tổng hợp rất nhiều về Tiếng Việt lịch sự, dành cho những người muốn hướng tới việc sử dụng Tiếng Việt chuyên nghiệp và ứng dụng trong giao tiếp trang trọng
+- [Betonamgo]() - Awesome Vietnamese learning resources.
 
 ## Giáo dục phổ thông
 
