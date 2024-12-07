@@ -31,7 +31,7 @@
 
 ## Hướng dẫn bắt đầu tự học
 
-Nếu bạn vẫn chưa quen với việc tự học nói chung hay lựa chọn định hướng học tập cho một định hướng cụ thể, bạn có thể đọc bài viết [Tự học - Khu học mở](posts/howto.md) để bắt đầu định hướng học cách tự học.
+Nếu bạn vẫn chưa quen với việc tự học nói chung hay lựa chọn định hướng học tập cho một định hướng cụ thể, bạn có thể đọc bài viết [Tự học cách tự học](posts/huong-dan-tu-hoc.md) để bắt đầu định hướng học cách tự học.
 
 ## Học ngoại ngữ
 
@@ -39,8 +39,7 @@ Nếu bạn vẫn chưa quen với việc tự học nói chung hay lựa chọn
 
 - [Học ngoại ngữ](./ngoai-ngu/) - Tìm hiểu về phương pháp học ngoại ngữ thông qua ALG, Comprehensible Input và Immersion.
 - [Tất tần tật về tài nguyên học ngôn ngữ](./awesome-ngon-ngu/) - Tổng hợp nhiều tài nguyên tự học ngôn ngữ và bằng Tiếng Việt (là chính).
-- [Tự ôn thi ngoại ngữ](./luyen-thi-ngon-ngu/) - Khu tổng hợp các tài liệu ôn thi cho các ngôn ngữ: Tiếng Anh (TOEIC), Tiếng Nhật (JLPT), Tiếng Trung (HSK), Tiếng Hàn (TOPIK)
-  Nếu bạn vẫn chưa quen với việc tự học nói chung hay lựa chọn định hướng học tập cho một định hướng cụ thể, bạn có thể đọc bài viết [Tự học - Khu học mở](posts/howto.md) để bắt đầu định hướng học cách tự học.
+- [Tự ôn thi ngoại ngữ](./luyen-thi-ngon-ngu/) - Khu tổng hợp các tài liệu ôn thi cho các ngôn ngữ: Tiếng Anh (TOEIC), Tiếng Nhật (JLPT), Tiếng Trung (HSK), Tiếng Hàn (TOPIK).
 
 ### Các ngôn ngữ riêng
 
@@ -54,7 +53,7 @@ Nếu bạn vẫn chưa quen với việc tự học nói chung hay lựa chọn
 
 - [Immersion-based Vietnamese Learning](./learn-vietnamese) - How to learn Vietnamese through Comprehensible Input and Immersion, completely free of charge (and free in freedom).
 - [Tiếng Việt lịch sự](./tieng-viet-lich-su/) - Một khu tổng hợp rất nhiều về Tiếng Việt lịch sự, dành cho những người muốn hướng tới việc sử dụng Tiếng Việt chuyên nghiệp và ứng dụng trong giao tiếp trang trọng
-- [Betonamgo]() - Awesome Vietnamese learning resources.
+- [Betonamgo](./betonamgo) - Awesome Vietnamese learning resources.
 
 ## Giáo dục phổ thông
 
@@ -77,17 +76,18 @@ Nếu bạn vẫn chưa quen với việc tự học nói chung hay lựa chọn
 
 ## Tổng hợp
 
-- [Tổng hợp những hướng dẫn & tài nguyên tự học](https://daihocmo.github.io/tong-hop/danh-sach/tu-hoc.html) - Khu tổng hợp tài nguyên tự học cho rất nhiều thứ bằng Tiếng Việt
-- [Những cuốn sách mà thanh niên nên đọc](https://daihocmo.github.io/tong-hop/danh-sach/doc-sach.html) - Kho sách hay tổng hợp từ nhiều nguồn.
+- [Đọc và học](posts/doc-va-hoc.md)
+- [Tổng hợp những hướng dẫn & tài nguyên tự học](tong-hop/tu-hoc.md) - Khu tổng hợp tài nguyên tự học cho rất nhiều thứ bằng Tiếng Việt
+- [Những cuốn sách mà thanh niên nên đọc](tong-hop/doc-sach.md) - Kho sách hay tổng hợp từ nhiều nguồn.
 - [Những phần mềm hay và miễn phí](https://thuvienmo.github.io/hoc-phan-mem/) - Hướng dẫn cách lựa chọn phần mềm đơn giản.
 - [Những chủ đề niche](posts/niche.md) - Những chủ đề chuyên môn mà không có nhiều người học, những mảng này thường chưa có nhiều người học ở Việt Nam nên các tài nguyên và cộng đồng sẽ là Tiếng Anh.
-- [Kiểm soát việc tiêu thụ nội dung của bản thân](posts/media-consumption.md)
+- [Kiểm soát việc tiêu thụ nội dung của bản thân](posts/tieu-thu-noi-dung.md)
 
 ## Dự án sách
 
 Các dự án dịch sách hoặc xây dựng sách mã nguồn mở sẽ được tổng hợp ở mục này.
 
-- [EasyPeasy Vietnamese](https://github.com/daihocmo/easypeasymethod-vi) - Bản dịch cho sách [EasyPeasy](https://read.easypeasymethod.org/)
+- [EasyPeasy Vietnamese](https://github.com/daihocmo/easypeasymethod-vi) - Bản dịch cho sách [EasyPeasy](https://easypeasymethod.org/) (The EasyPeasy way to quit Porn (Cách ez để thoát khỏi nội dung khiêu dâm)). Quyển sách này có thể nói là **must-read** (cần đọc) nếu bạn muốn bắt đầu loại bỏ nội dung khiêu dâm ra khỏi cuộc đời mình. Bạn nên đọc bản Tiếng Anh nếu có thể. Bản Tiếng Việt mình đang dịch và chưa được cập nhật lên trang nên chờ nha.
 
 ## Đóng góp
 
