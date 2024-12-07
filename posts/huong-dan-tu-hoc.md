@@ -20,8 +20,20 @@ Mình nghĩ là tất cả mọi người đều biết là tự học có ích 
 Đến giờ chọn ra những gì bạn cần tự học rồi.
 
 ### Cách chọn những thứ cần học
+Bạn cần tự chọn những gì bạn muốn học hoặc cần học. Nếu bạn chưa thể chọn được thì hãy quay lại, lấy một tờ giấy và bút viết ra và viết xuống giấy:
 
-https://news.ycombinator.com/item?id=11559525
+1. Mình đang muốn/cần làm gì? VD: "Mình đang muốn xây dựng một trang blog cá nhân." hoặc "Mình đang cần cải thiện Tiếng Anh để bổ trợ kĩ năng cho kì đi ứng tuyển tới" -> Tìm trên mạng **cách để bắt đầu xây dựng một trang blog** hoặc **cách để tự học tiếng anh thi toeic** chẳng hạn.
+2. Mục đích của việc học [chủ đề đấy] là gì? VD: "[Mình muốn luyện khả năng viết lách và đăng bài viết lên trang riêng thay vì mạng xã hội](https://www.youtube.com/watch?v=r0RqucKwIcw)" hay là "Mình cần có kĩ năng ngoại ngữ để tăng lương lên một mức (Cần xác định mức đó luôn và cả cấp độ Tiếng Anh mà bạn cần đạt tối thiểu cho vị trí ấy)".
+
+Cần xác định thật rõ một lĩnh vực/chuyên môn/chủ đề mà bạn cần học (Càng cụ thể càng tốt). Ví dụ:
+
+> Mình cần học Tiếng Anh chuyên ngành trong 6 tháng và có thể dành ra khoảng 3 tiếng/ngày. Mình không muốn tốn thời gian đi lại nên sẽ ở nhà tự học. Hiện tại mình đang ở cấp độ B1 nếu tính theo CEFR và muốn lên ít nhất B2 theo CEFR hoặc lên C1 nếu có thể.
+
+Hoặc 
+
+> Mình cần học lập trình trong 6 tháng và có thể dành ra khoảng 5 tiếng/ngày để học và lập trình. Mình cần một lộ trình tự học để sau 6 tháng mình có thể làm được một trang web hoàn chỉnh, có cả Frontend và Backend. Trang mình cần làm là một trang bán hàng.
+
+Đây là những ví dụ bạn có thể tham khảo. Nếu đã có cho mình một định hướng thì hãy bắt đầu lên kế hoạch luôn.
 
 ### Lựa chọn lộ trình cho chủ đề cần tự học
 
@@ -39,6 +51,8 @@ Bạn có thể tìm các lộ trình học được làm bởi những người
 - Tự xây dựng lộ trình học (Nếu bạn không thể tìm được lộ trình đầy đủ cho một lĩnh vực hoặc một mảng học nhất định):
   - Tự xây dựng lộ trình học dựa trên lộ trình học bậc đại học. Bạn có thể xem [Can you get an MIT education for $2,000?](https://www.youtube.com/watch?v=piSLobJfZ3c&pp=ygUNc2NvdHQgaCB5b3VuZw%3D%3D) và xem cách ông này đã tự học phần lớn chương trình của MIT trong 1 năm. Bạn có thể tìm **lộ trình ngành [ngành bạn cần học] trường [trường đại học mà bạn muốn tìm thử]** (Ví dụ: **Lộ trình học ngành ngôn ngữ Anh Trường Đại học Hà Nội**) rồi bắt đầu tự xây dựng bằng cách tìm các môn học liên quan đến chuyên ngành (Trong chương trình học đại học thường có các môn không liên quan đến chuyên ngành). Với các môn chuyên ngành bạn có thể tìm hướng dẫn học trên mạng cho từng môn một rồi sắp xếp theo thứ tự như lộ trình của trường đại học bạn tìm được. Đọc [hướng dẫn cách tự viết lộ trình tự học cho bất kì một lĩnh vực nào](tu-lam-lo-trinh.md).
   - Sử dụng AI để tạo lộ trình: Đây là lựa chọn bạn nên cân nhắc cuối cùng nếu không thể tìm được bất kì hướng dẫn nào của người đã học trước đó. Đọc [hướng dẫn cách tạo lộ trình học sử dụng AI](lo-trinh-ai.md) để tìm hiểu cách làm
+
+Bạn có thể tham khảo [Lộ trình tự học Fullstack và Computer Science của mình](https://duy103zxc.github.io/fullstack-va-cs/) do mình viết để xem trong một lộ trình nó sẽ trông như thế nào.
 
 ### Tự học không lộ trình
 
