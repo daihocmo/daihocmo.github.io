@@ -60,10 +60,9 @@ Phần này mình đã dịch lại và hiệu đính từ [bình luận của b
 
 Có thể bạn sẽ thích thử và mày mò hơn là theo một lộ trình (hoặc bạn không tìm được lộ trình) thì có thể thử hướng dẫn dưới đây. Phương pháp dưới đây theo cá nhân mình thì nó hợp hơn với việc học theo sở thích.
 
-1. Tình cờ phát hiện ra chủ đề đấy. Bạn sẽ không bắt đầu học theo chiều sâu hay chiều rộng; chỉ học theo các chủ đề mà bạn thấy hữu ích nhất hoặc thích học nhất. Học từ sách, các bài viết trên mạng, video, cái gì cũng được, quan trọng nhất là bạn không thấy chán và nản. Đừng ngại thử sức mình. Nếu có bất kỳ kỹ năng nào có phần thực hành (viết code, vẽ vời,..), bắt đầu làm luôn.
-
-Một điều quan trọng nữa (ít nhất với mình) là cần có một số cột mốc, thứ mà bạn có thể "hoàn thành" dù nhỏ đến đâu và giúp bản thân cảm thấy mình đang tiến bộ, kể cả khi sẽ cần thêm nhiều thời gian để có thể hiểu nhiều hơn về một vấn đề nhất định. Nếu không, khi bị tụt hứng và sau một thời gian dài quay trở lại, bạn sẽ cảm thấy mình cần bắt đầu lại từ đầu, về cơ bản chẳng khác gì việc học một cái khác.
-
+1. Tìm ra chủ đề cần học.
+  - Tình cờ phát hiện ra chủ đề đấy. Bạn sẽ không bắt đầu học theo chiều sâu hay chiều rộng; chỉ học theo các chủ đề mà bạn thấy hữu ích nhất hoặc thích học nhất. Học từ sách, các bài viết trên mạng, video, cái gì cũng được, quan trọng nhất là bạn không thấy chán và nản. Đừng ngại thử sức mình. Nếu có bất kỳ kỹ năng nào có phần thực hành (viết code, vẽ vời,..), bắt đầu làm luôn.
+  - Một điều quan trọng nữa (ít nhất với mình) là cần có một số cột mốc, thứ mà bạn có thể "hoàn thành" dù nhỏ đến đâu và giúp bản thân cảm thấy mình đang tiến bộ, kể cả khi sẽ cần thêm nhiều thời gian để có thể hiểu nhiều hơn về một vấn đề nhất định. Nếu không, khi bị tụt hứng và sau một thời gian dài quay trở lại, bạn sẽ cảm thấy mình cần bắt đầu lại từ đầu, về cơ bản chẳng khác gì việc học một cái khác.
 2. Rồi sẽ đến một lúc bạn bắt gặp khoảnh khắc "Nghĩ ra rồi". Cảm giác như khi sương mù đang tan dần đi và khung cảnh đột nhiên hiện ra ngay trước mặt. Tuy chưa tới mức mà đã có thể biết tất cả mọi thứ nhưng giờ đây, việc đưa khối kiến ​​thức của bản thân trở nên sâu rộng hơn chỉ đơn giản là quá trình lấp đầy các lỗ hỏng. Bạn sẽ tiếp tục lấp đầy các lỗ hỏng thông qua những kiến thức mà bản thân mình đã có.
 
 Khoảng thời gian giữa #1 và #2 có thể ngắn hoặc dài tùy thuộc vào độ phức tạp của chủ đề. Nhưng trải nghiệm ở giai đoạn 2 chính là một cơn sốt dopamine (dopamine rush) lớn. Điều bạn cần chỉ là sự kiên nhẫn; đừng nản và bỏ cuộc. Và nếu bạn tiếp tục học hỏi, cuối cùng cơn sốt dopamine đó sẽ lại đến.
