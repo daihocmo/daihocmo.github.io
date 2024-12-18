@@ -29,6 +29,8 @@
 - [Đóng góp](#%C4%91%C3%B3ng-g%C3%B3p)
 - [Cảm ơn](#c%E1%BA%A3m-%C6%A1n)
 
+> Khu học mở đang thử nghiệm làm trang web, bạn có thể ghé qua [Trang mới](https://daihocmo.github.io/home/) (;-; Mới tập tành làm Web, trông tệ khủng khiếp, sẽ được cải thiện trong quá trình học và làm của mình sau).
+
 ## Hướng dẫn bắt đầu tự học
 
 Nếu bạn vẫn chưa quen với việc tự học nói chung hay lựa chọn định hướng học tập cho một định hướng cụ thể, bạn có thể đọc bài viết [Tự học cách tự học](posts/huong-dan-tu-hoc.md) để bắt đầu định hướng học cách tự học.
