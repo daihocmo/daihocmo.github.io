@@ -8,9 +8,9 @@
 
 ## Cộng đồng
 
-[![Tham gia cộng đồng Khu học mở](assets/join_us.png)](./cong-dong.html)
+[![Tham gia cộng đồng Khu học mở](docs/assets/join_us.png)](./cong-dong.html)
 
-[Bấm vào đây để tham gia Khu học mở](cong-dong.md)
+[Bấm vào đây để tham gia Khu học mở](docs/khac/cong-dong.md)
 
 ## Mục lục
 
@@ -28,8 +28,6 @@
 - [Dự án sách](#d%E1%BB%B1-%C3%A1n-s%C3%A1ch)
 - [Đóng góp](#%C4%91%C3%B3ng-g%C3%B3p)
 - [Cảm ơn](#c%E1%BA%A3m-%C6%A1n)
-
-> Khu học mở đang thử nghiệm làm trang web, bạn có thể ghé qua [Trang mới](https://daihocmo.github.io/home/) (;-; Mới tập tành làm Web, trông tệ khủng khiếp, sẽ được cải thiện trong quá trình học và làm của mình sau).
 
 ## Hướng dẫn bắt đầu tự học
 
@@ -78,12 +76,12 @@ Nếu bạn vẫn chưa quen với việc tự học nói chung hay lựa chọn
 
 ## Tổng hợp
 
-- [Đọc và học](posts/doc-va-hoc.md)
-- [Tổng hợp những hướng dẫn & tài nguyên tự học](tong-hop/tu-hoc.md) - Khu tổng hợp tài nguyên tự học cho rất nhiều thứ bằng Tiếng Việt
-- [Những cuốn sách mà thanh niên nên đọc](tong-hop/doc-sach.md) - Kho sách hay tổng hợp từ nhiều nguồn.
+- [Đọc và học](docs/huong-dan-tu-hoc/doc-va-hoc.md)
+- [Tổng hợp những hướng dẫn & tài nguyên tự học](docs/tong-hop/tu-hoc.md) - Khu tổng hợp tài nguyên tự học cho rất nhiều thứ bằng Tiếng Việt
+- [Những cuốn sách mà thanh niên nên đọc](docs/tong-hop/doc-sach.md) - Kho sách hay tổng hợp từ nhiều nguồn.
 - [Những phần mềm hay và miễn phí](https://thuvienmo.github.io/hoc-phan-mem/) - Hướng dẫn cách lựa chọn phần mềm đơn giản.
-- [Những chủ đề niche](posts/niche.md) - Những chủ đề chuyên môn mà không có nhiều người học, những mảng này thường chưa có nhiều người học ở Việt Nam nên các tài nguyên và cộng đồng sẽ là Tiếng Anh.
-- [Kiểm soát việc tiêu thụ nội dung của bản thân](posts/tieu-thu-noi-dung.md)
+- [Những chủ đề niche](docs/posts/niche.md) - Những chủ đề chuyên môn mà không có nhiều người học, những mảng này thường chưa có nhiều người học ở Việt Nam nên các tài nguyên và cộng đồng sẽ là Tiếng Anh.
+- [Kiểm soát việc tiêu thụ nội dung của bản thân](docs/posts/tieu-thu-noi-dung.md)
 
 ## Dự án sách
 
@@ -93,7 +91,7 @@ Các dự án dịch sách hoặc xây dựng sách mã nguồn mở sẽ đư�
 
 ## Đóng góp
 
-Khu học mở hoạt động hoàn toàn dựa trên đóng góp của người học. Nếu bạn muốn đóng góp để xây dựng Khu học mở, bạn có thể đọc [Hướng dẫn đóng góp cho Khu học mở](dong-gop.md).
+Khu học mở hoạt động hoàn toàn dựa trên đóng góp của người học. Nếu bạn muốn đóng góp để xây dựng Khu học mở, bạn có thể đọc [Hướng dẫn đóng góp cho Khu học mở](docs/khac/dong-gop.md).
 
 ## Cảm ơn
 
