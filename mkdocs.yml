@@ -35,7 +35,7 @@ theme:
     - toc.follow
     - search.suggest
     - search.highlight
-  language: en
+  language: vi
   # custom_dir: overrides
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -43,13 +43,13 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-      primary: custom
+      primary: deep-purple
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
         icon: material/white-balance-sunny
         name: Switch to light mode    
-      primary: custom
+      primary: deep-purple
 
 extra:
   social:
@@ -88,4 +88,4 @@ markdown_extensions:
 
 plugins:
   - search
-  - open-in-new-tab
+  # - open-in-new-tab

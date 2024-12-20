@@ -109,7 +109,7 @@ Tổng hợp các hướng dẫn có liên quan đến việc tự học ngoại
 
     Một hướng dẫn tự học Tiếng Anh chuyên ngành thông qua Comprehensible Input và Immersion (Hướng dẫn dành cho những người có trình độ Tiếng Anh trung cấp). 
     
-    Yêu cầu tối thiểu: B2 (CEFR) 
+    Yêu cầu tối thiểu: B1 (CEFR) 
 
     ---
 
@@ -170,9 +170,9 @@ Tổng hợp các hướng dẫn có liên quan đến việc tự học các ch
 
 </div>
 
-## Lối sống
+## Những trang khác
 
-Tổng hợp nhiều thứ liên quan đến lối sống các thứ.
+Mình chưa phân được trang cụ thể
 
 <div class="grid cards" markdown>
 
@@ -181,11 +181,23 @@ Tổng hợp nhiều thứ liên quan đến lối sống các thứ.
 
     ---
 
-    Một trang về Frugal và sống xanh.
+    Một trang về lối sống tối giản, tiết kiệm, sống xanh và bảo vệ môi trường. Dành thời gian, năng lượng, tiền bạc cho những thứ quan trọng hơn.
 
     ---
 
     [:octicons-arrow-right-24: Đọc hướng dẫn](./la-cay-xanh/)
+
+-   :student:{ .lg .middle } &nbsp;
+    __Tự học phổ thông__
+
+    ---
+
+    Tự học chương trình phổ thông trong nước. Từ lớp 6 đến lớp 12, hoàn toàn sử dụng các nguồn tài nguyên miễn phí trên mạng.
+
+
+    ---
+
+    [:octicons-arrow-right-24: Đọc hướng dẫn](./pho-thong/)
 
 -   :pencil:{ .lg .middle } &nbsp;
     __Việt Nam về văn học, hội họa và âm nhạc__
@@ -196,9 +208,58 @@ Tổng hợp nhiều thứ liên quan đến lối sống các thứ.
 
     ---
 
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./viet-nam-toi/)
+    [:octicons-arrow-right-24: Đọc hướng dẫn](./viet-nam-va-nghe-thuat/)
 
 </div>
 
+## Tổng hợp
+
+<div class="grid cards" markdown>
+
+-   :cd:{ .lg .middle } &nbsp;
+    __Tất tần tận về lập trình__
+
+    ---
+
+    Tổng hợp toàn bộ hướng dẫn liên quan về lập trình và các chuyên ngành hẹp.
+
+    ---
+
+    [:octicons-arrow-right-24: Đọc hướng dẫn](./awesome-lap-trinh/)
+
+-   :cupcake:{ .lg .middle } &nbsp;
+    __Khu nội dung cho từng ngôn ngữ__
+
+    ---
+
+    Tổng hợp toàn bộ các trang nội dung gợi ý, hỗ trợ cho việc học ngôn ngữ:
+
+    - Tiếng Anh:
+        - [Comprehensible Input cho Tiếng Nhật](https://daihocmo.github.io/tieng-anh/input/)
+        - [Kho nội dung tiêu thụ Tiếng Anh](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-anh/)
+        - [Danh sách các kênh Youtube được gợi ý trên Reddit](https://daihocmo.github.io/awesome-ngon-ngu/ngon-ngu/tieng-anh/youtube-channel.html)
+    - Tiếng Nhật:
+        - [Comprehensible Input cho Tiếng Nhật](https://daihocmo.github.io/awesome-ngon-ngu/ngon-ngu/tieng-nhat/input.html)
+        - [Gợi ý nội dung Tiếng Nhật](https://daihocmo.github.io/awesome-ngon-ngu/ngon-ngu/tieng-nhat/recommendation.html)
+
+    Các ngôn ngữ khác sẽ được tổng hợp trong các trang hướng dẫn tương ứng.
+
+    ---
+
+-   :closed_book:{ .lg .middle } &nbsp;
+    __Vietnamese learning resources__
+
+    ---
+
+    - [Betonamgo](https://daihocmo.github.io/betonamgo/) - A curated list of Vietnamese language learning resources.
+    - [Vietnamese Media Recommedation Spreadsheet](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-viet/)
+    - [A collection of Vietnamese Youtube channels](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-viet/noi-dung-tieng-viet.html)
+
+    ---
+
+</div>
+## Lời cảm ơn
+
 !!! info "Credit"
     Thiết kế của trang được phát triển dựa trên trang [Wiki của Yomitan](https://yomitan.wiki/)
+
