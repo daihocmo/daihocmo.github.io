@@ -188,11 +188,11 @@ Tổng hợp nhiều thứ liên quan đến lối sống các thứ.
     [:octicons-arrow-right-24: Đọc hướng dẫn](./la-cay-xanh/)
 
 -   :pencil:{ .lg .middle } &nbsp;
-    __Việt Nam "học"__
+    __Việt Nam về văn học, hội họa và âm nhạc__
 
     ---
 
-    Tổng hợp nhiều thứ hay ho trong nước. Bao gồm chỗ đi chơi, khu ăn uống rồi các thứ.
+    Một trang tổng hợp rất nhiều nội dung liên quan đến văn học, hội họa, âm nhạc và những nội dung tương tự của Việt Nam
 
     ---
 
