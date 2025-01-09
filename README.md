@@ -10,7 +10,7 @@
 
 [![Tham gia cộng đồng Khu học mở](docs/assets/join_us.png)](./cong-dong.html)
 
-[Bấm vào đây để tham gia Khu học mở](docs/khac/cong-dong.md)
+[Bấm vào đây để tham gia Khu học mở](docs/cong-dong.md)
 
 ## Mục lục
 
@@ -91,7 +91,7 @@ Các dự án dịch sách hoặc xây dựng sách mã nguồn mở sẽ đư�
 
 ## Đóng góp
 
-Khu học mở hoạt động hoàn toàn dựa trên đóng góp của người học. Nếu bạn muốn đóng góp để xây dựng Khu học mở, bạn có thể đọc [Hướng dẫn đóng góp cho Khu học mở](docs/khac/dong-gop.md).
+Khu học mở hoạt động hoàn toàn dựa trên đóng góp của người học. Nếu bạn muốn đóng góp để xây dựng Khu học mở, bạn có thể đọc [Hướng dẫn đóng góp cho Khu học mở](docs/dong-gop.md).
 
 ## Cảm ơn
 

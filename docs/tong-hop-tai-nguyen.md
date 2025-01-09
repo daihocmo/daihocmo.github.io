@@ -1,4 +1,9 @@
-# Các bảng tổng hợp tài nguyên
+---
+hide:
+    - navigation
+---
+
+# Tổng hợp & Tài nguyên 
 
 ### Lộ trình tự học riêng lẻ
 - [Lộ trình tự học Tiếng Anh cho người mất gốc](https://daihocmo.github.io/tieng-anh/30ngay)

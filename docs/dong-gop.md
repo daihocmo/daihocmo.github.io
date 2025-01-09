@@ -1,3 +1,8 @@
+---
+hide:
+    - toc
+---
+
 # Hướng dẫn đóng góp cho Khu học mở
 
 Bạn không cần phải "đăng kí tham gia" hay tương tự để có thể đóng góp vào Khu học mở. Dự án hoạt động dựa trên từng đóng góp nhỏ một của những người học. Để thực hiện đóng góp cho dự án thì bạn có thể:

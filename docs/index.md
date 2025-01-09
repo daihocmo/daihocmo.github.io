@@ -6,6 +6,7 @@ hide:
   - toc
   - footer
 ---
+
 # <div style="text-align: center">Khu học mở</div>
 ## <p style="text-align: center">Tự học mọi thứ thông qua hướng dẫn, lộ trình và các nguồn tài nguyên miễn phí trên Internet</p>
 
@@ -15,10 +16,10 @@ hide:
 
 Nếu bạn vẫn chưa cảm thấy quen với việc tự học hoặc muốn **tự học cách tự học**. 
 
-[Tự học cách tự học](huong-dan-tu-hoc/huong-dan-tu-hoc.md){ .md-button .md-button--stretch-max-sm }
+[Tự học cách tự học](huong-dan-tu-hoc.md){ .md-button .md-button--stretch-max-sm }
 
 
-## Khu học ngoại ngữ
+## Ngoại ngữ
 
 Tổng hợp các hướng dẫn có liên quan đến việc tự học ngoại ngữ.
 
@@ -35,28 +36,6 @@ Tổng hợp các hướng dẫn có liên quan đến việc tự học ngoại
     ---
 
     [:octicons-arrow-right-24: Đọc hướng dẫn](./ngoai-ngu/)
-
--   :books:{ .lg .middle } &nbsp;
-    __Tất tần tật về tài nguyên học ngôn ngữ__
-
-    ---
-
-    Tổng hợp nhiều tài nguyên tự học ngôn ngữ và bằng Tiếng Việt (là chính).
-
-    ---
-
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./awesome-ngon-ngu/)
-
--   :newspaper:{ .lg .middle } &nbsp;
-    __Tự ôn thi ngoại ngữ__
-
-    ---
-
-    Khu tổng hợp các cuốn sách tự học và ôn tập cho Tiếng Anh và Tiếng Nhật 
-
-    ---
-
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./luyen-thi-ngon-ngu/)
 
 -   :flag_us:{ .lg .middle } &nbsp;
     __Tiếng Anh__
@@ -96,21 +75,19 @@ Tổng hợp các hướng dẫn có liên quan đến việc tự học ngoại
 
     ---
 
-    How to learn Vietnamese through Comprehensible Input and Immersion, completely free of charge (and free in freedom).
+    How to learn Vietnamese through Comprehensible Input and Immersion.
 
     ---
 
     [:octicons-arrow-right-24: Đọc hướng dẫn](./tieng-trung/)
 
 -   :money_with_wings:{ .lg .middle } &nbsp;
-    __Tự học Tiếng Anh chuyên ngành__
+    __Tiếng Anh chuyên ngành__
 
     ---
 
-    Một hướng dẫn tự học Tiếng Anh chuyên ngành thông qua Comprehensible Input và Immersion (Hướng dẫn dành cho những người có trình độ Tiếng Anh trung cấp). 
+    Một hướng dẫn tự học Tiếng Anh chuyên ngành thông qua Comprehensible Input và Immersion. 
     
-    Yêu cầu tối thiểu: B1 (CEFR) 
-
     ---
 
     [:octicons-arrow-right-24: Đọc hướng dẫn](./tieng-anh-chuyen-nganh/)
@@ -118,11 +95,23 @@ Tổng hợp các hướng dẫn có liên quan đến việc tự học ngoại
 </div>
 
 
-## Tự học đại học & các chuyên ngành
+## Giáo dục phổ thông & Đại học
 
-Tổng hợp các hướng dẫn có liên quan đến việc tự học các chuyên ngành ở bậc đại học và phát triển sự nghiệp.
+Tổng hợp các hướng dẫn có liên quan đến việc tự học chương trình giáo dục phổ thông và đại học.
 
 <div class="grid cards" markdown>
+
+-   :student:{ .lg .middle } &nbsp;
+    __Tự học phổ thông__
+
+    ---
+
+    Tự học chương trình phổ thông trong nước. Từ lớp 6 đến lớp 12, hoàn toàn sử dụng các nguồn tài nguyên miễn phí trên mạng.
+
+
+    ---
+
+    [:octicons-arrow-right-24: Đọc hướng dẫn](./pho-thong/)
 
 -   :school:{ .lg .middle } &nbsp;
     __Tự học đại học tại nhà__
@@ -134,6 +123,14 @@ Tổng hợp các hướng dẫn có liên quan đến việc tự học các ch
     ---
 
     [:octicons-arrow-right-24: Đọc hướng dẫn](./tu-hoc-dai-hoc/)
+
+</div>
+
+### Chuyên ngành
+
+Hướng dẫn tự học các chuyên ngành ở bậc đại học và phát triển sự nghiệp.
+
+<div class="grid cards" markdown>
 
 -   :computer:{ .lg .middle } &nbsp;
     __Khoa học máy tính__
@@ -170,9 +167,9 @@ Tổng hợp các hướng dẫn có liên quan đến việc tự học các ch
 
 </div>
 
-## Những trang khác
+## Kĩ năng
 
-Mình chưa phân được trang cụ thể
+Những kĩ năng khác mà có thể bạn sẽ muốn học.
 
 <div class="grid cards" markdown>
 
@@ -181,34 +178,34 @@ Mình chưa phân được trang cụ thể
 
     ---
 
-    Một trang về lối sống tối giản, tiết kiệm, sống xanh và bảo vệ môi trường. Dành thời gian, năng lượng, tiền bạc cho những thứ quan trọng hơn.
+    Một cuốn sách về lối sống tối giản và thanh đạm. Dành nguồn lực, thời gian và tiền bạc cho những điều thực sự quan trọng với mình.
 
     ---
 
     [:octicons-arrow-right-24: Đọc hướng dẫn](./la-cay-xanh/)
 
--   :student:{ .lg .middle } &nbsp;
-    __Tự học phổ thông__
+-   :cook:{ .lg .middle } &nbsp;
+    __Trại nội trợ__
 
     ---
 
-    Tự học chương trình phổ thông trong nước. Từ lớp 6 đến lớp 12, hoàn toàn sử dụng các nguồn tài nguyên miễn phí trên mạng.
-
-
-    ---
-
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./pho-thong/)
-
--   :pencil:{ .lg .middle } &nbsp;
-    __Việt Nam về văn học, hội họa và âm nhạc__
+    Chúng tôi học để làm nội trợ chuyên nghiệp. Dọn dẹp, chăm sóc nhà cửa, nấu ăn và khá nhiều kĩ năng khác.
 
     ---
 
-    Một trang tổng hợp rất nhiều nội dung liên quan đến văn học, hội họa, âm nhạc và những nội dung tương tự của Việt Nam
+    [:octicons-arrow-right-24: Đọc hướng dẫn](./noi-tro/)
+
+-   :family_man_boy:{ .lg .middle } &nbsp;
+    __Hướng dẫn làm con trai__
 
     ---
 
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./viet-nam-va-nghe-thuat/)
+    Hướng dẫn con trai về vệ sinh cá nhân, chăm sóc bản thân. 
+
+    ---
+
+    [:octicons-arrow-right-24: Đọc hướng dẫn](./con-trai/)
+
 
 </div>
 
@@ -257,7 +254,31 @@ Mình chưa phân được trang cụ thể
 
     ---
 
+-   :books:{ .lg .middle } &nbsp;
+    __Tất tần tật về tài nguyên học ngôn ngữ__
+
+    ---
+
+    Tổng hợp nhiều tài nguyên tự học ngôn ngữ và bằng Tiếng Việt (là chính).
+
+    ---
+
+    [:octicons-arrow-right-24: Đọc hướng dẫn](./awesome-ngon-ngu/)
+
+-   :newspaper:{ .lg .middle } &nbsp;
+    __Tự ôn thi ngoại ngữ__
+
+    ---
+
+    Khu tổng hợp các cuốn sách tự học và ôn tập cho Tiếng Anh và Tiếng Nhật 
+
+    ---
+
+    [:octicons-arrow-right-24: Đọc hướng dẫn](./luyen-thi-ngon-ngu/)
+
+
 </div>
+
 ## Lời cảm ơn
 
 !!! info "Credit"

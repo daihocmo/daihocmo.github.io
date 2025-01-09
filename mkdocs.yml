@@ -1,26 +1,17 @@
-site_name: Khu học mở
-site_description: Tự học mọi thứ thông qua hướng dẫn, lộ trình và các nguồn tài nguyên miễn phí trên Internet
+site_name: Trại học hỏng cửa
+site_description: (Đây là Khu học mở) Tự học mọi thứ thông qua hướng dẫn, lộ trình và các nguồn tài nguyên miễn phí trên Internet
 site_author: duykhanh471
 repo_url: https://github.com/daihocmo/daihocmo.github.io
 repo_name: Khu học mở
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Hướng dẫn tự học':
-    - 'Hướng dẫn bắt đầu tự học': 'huong-dan-tu-hoc/huong-dan-tu-hoc.md'
-    - 'Đọc và học': 'huong-dan-tu-hoc/doc-va-hoc.md'
-    - 'Tự soạn lộ trình học': 'huong-dan-tu-hoc/tu-lam-lo-trinh.md'
-  - 'Bài viết':
-    - 'Những chủ đề chuyên môn': 'posts/niche.md'
-    - 'Kiểm soát việc tiêu thụ nội dung của bản thân': 'posts/tieu-thu-noi-dung.md'
-  - 'Tổng hợp':   
-    - 'Những hướng dẫn & tài nguyên tự học': 'tong-hop/tu-hoc.md'
-    - 'Những cuốn sách hay nên đọc': 'tong-hop/doc-sach.md'
-    - 'Các bài tổng hợp khác': 'tong-hop/khac.md'
+  - 'Hướng dẫn tự học': 'huong-dan-tu-hoc.md'
+  - 'Tổng hợp & Tài nguyên': 'tong-hop-tai-nguyen.md'
   - 'Cộng đồng & Đóng góp':
-    - 'Cộng đồng': 'khac/cong-dong.md'
-    - 'Đóng góp': 'khac/dong-gop.md'
-  - 'Cảm ơn': 'khac/cam-on.md'
+    - 'Cộng đồng': 'cong-dong.md'
+    - 'Đóng góp': 'dong-gop.md'
+  - 'Cảm ơn': 'cam-on.md'
 
 theme:
   name: material
@@ -63,17 +54,17 @@ markdown_extensions:
   - admonition
   - attr_list
   - def_list
-  - footnotes
+  # - footnotes
   - md_in_html
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.caret
-  - pymdownx.critic
-  - pymdownx.details
-  - pymdownx.highlight:
-      anchor_linenums: true
-      line_spans: __span
-      pygments_lang_class: true
+  # - pymdownx.critic
+  # - pymdownx.details
+  # - pymdownx.highlight:
+  #     anchor_linenums: true
+  #     line_spans: __span
+  #     pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.mark

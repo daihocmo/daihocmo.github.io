@@ -1,3 +1,8 @@
+---
+hide:
+    - navigation
+---
+
 # Credit
 
 Trang này để gửi lời cảm ơn tới rất nhiều cá nhân và dự án đã đóng góp vào dự án. Các phần được liệt kê dưới đây có thể chưa đầy đủ và mình sẽ tiếp tục bổ sung sau.
@@ -22,9 +27,9 @@ Những phần mềm mã nguồn mở và miễn phí dưới đây chính là n
 
 - [Github](https://github.com/) - Mình lưu trữ toàn bộ quá trình phát triển dự án trên trang này.
 - [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) - Tất cả các trang hướng dẫn của Khu học mở đều được tạo bởi công cụ này. 
-- [Yomitan](https://yomitan.wiki/) - Một công cụ cực hữu ích cho việc học ngoại ngữ. Trang chủ của Khu học mở cũng được phát triển dựa trên Template trang Wiki của họ.
-- [Anki](https://apps.ankiweb.net/) - Mình nợ Anki cả một cuộc đời và sự nghiệp.
-- [Debian Linux](https://www.debian.org/) - Toàn bộ dự án đều được phát triển bởi một chiếc Laptop Linux (Sử dụng bản phân phối) nhỏ xinh mình đang dùng để viết bài này. Hiện tại mình đang dùng Debian 12 (Thanks đội phát triển của Debian nhiều lắm vì đã cho mình được sử dụng hoàn toàn miễn phí).
+- [Yomitan](https://yomitan.wiki/)
+- [Anki](https://apps.ankiweb.net/)
+- [Debian Linux](https://www.debian.org/)
 
 Và rất nhiều dự án khác mà mình chưa kể tên...
 
