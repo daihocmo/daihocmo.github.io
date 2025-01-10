@@ -1,8 +1,8 @@
-site_name: Trại học hỏng cửa
-site_description: (Đây là Khu học mở) Tự học mọi thứ thông qua hướng dẫn, lộ trình và các nguồn tài nguyên miễn phí trên Internet
+site_name: Khu học mở
+site_description: Tự học mọi thứ thông qua hướng dẫn, lộ trình và các nguồn tài nguyên miễn phí trên Internet
 site_author: duykhanh471
 repo_url: https://github.com/daihocmo/daihocmo.github.io
-repo_name: Khu học mở
+repo_name: Cùng xây dựng Khu học mở
 
 nav:
   - 'Trang chủ': 'index.md'
