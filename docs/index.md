@@ -79,7 +79,7 @@ Tổng hợp các hướng dẫn có liên quan đến việc tự học ngoại
 
     ---
 
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./tieng-trung/)
+    [:octicons-arrow-right-24: Đọc hướng dẫn](./learn-vietnamese/)
 
 -   :money_with_wings:{ .lg .middle } &nbsp;
     __Tiếng Anh chuyên ngành__
