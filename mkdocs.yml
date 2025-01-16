@@ -6,7 +6,10 @@ repo_name: Khu học mở
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Hướng dẫn tự học': 'huong-dan-tu-hoc.md'
+  - 'Hướng dẫn tự học': 'huong-dan/tu-hoc.md'
+  - 'Phát triển cá nhân':
+    - 'Nội trợ': 'huong-dan/noi-tro.md'
+    - 'Hướng dẫn cho con trai': 'huong-dan/con-trai.md'
   - 'Tổng hợp & Tài nguyên': 'tong-hop-tai-nguyen.md'
   - 'Cộng đồng & Đóng góp':
     - 'Cộng đồng': 'cong-dong.md'
@@ -74,9 +77,10 @@ markdown_extensions:
       alternate_style: true 
   - pymdownx.tilde
   - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      # emoji_index: !!python/name:material.extensions.emoji.twemoji
+      # emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 plugins:
   - search
-  # - open-in-new-tab
+  - open-in-new-tab:
+      add_icon: true
