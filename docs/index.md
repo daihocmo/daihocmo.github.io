@@ -27,59 +27,19 @@ Tổng hợp các hướng dẫn có liên quan đến việc tự học ngoại
 
 
 -   :earth_asia:{ .lg .middle } &nbsp;
-    __Học ngoại ngữ__
-
-    ---
-
-    Tìm hiểu về phương pháp học ngoại ngữ thông qua ALG, Comprehensible Input và Immersion.
-
-    ---
-
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./ngoai-ngu/)
+    [**Học ngoại ngữ**](./ngoai-ngu/)
 
 -   :flag_us:{ .lg .middle } &nbsp;
-    __Tiếng Anh__
-
-    ---
-
-    Tự học Tiếng Anh thông qua Comprehensible Input và Immersion. 
-
-    ---
-
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./tieng-anh/)
+    [**Tiếng Anh**](./tieng-anh/)
 
 -   :flag_jp:{ .lg .middle } &nbsp;
-    __Tiếng Nhật__
-
-    ---
-
-    Tự học Tiếng Nhật thông qua Comprehensible Input và Immersion. 
-
-    ---
-
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./tieng-nhat/)
+    [**Tiếng Nhật**](./tieng-nhat/)
 
 -   :flag_cn:{ .lg .middle } &nbsp;
-    __Tiếng Trung__
-
-    ---
-
-    Tự học Tiếng Trung thông qua Comprehensible Input và Immersion. 
-
-    ---
-
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./tieng-trung/)
+    [**Tiếng Trung**](./tieng-trung/)
 
 -   :flag_vn:{ .lg .middle } &nbsp;
-    __Vietnamese__
-
-    ---
-
-    How to learn Vietnamese through Comprehensible Input and Immersion.
-
-    ---
-
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./tieng-trung/)
+    [**Vietnamese**](./tieng-viet/)
 
 -   :money_with_wings:{ .lg .middle } &nbsp;
     __Tiếng Anh chuyên ngành__
