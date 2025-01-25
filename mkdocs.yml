@@ -18,9 +18,27 @@ nav:
     - 'Đóng góp': 'dong-gop.md'
   - 'Cảm ơn': 'cam-on.md'
   - 'Lưu trữ':
-    - 'Tự luyện Tiếng Anh': 'archive/tu-luyen-tieng-anh/main-guide.md'
-    - 'Tiếng Anh chuyên ngành': 'archive/tieng-anh-chuyen-nganh/main-guide.md'
-
+    - 'Khu lưu trữ': 'archive/main.md'
+    - 'Tự luyện Tiếng Anh': 
+      - 'Hướng dẫn chính': 'archive/tu-luyen-tieng-anh/main-guide.md'
+      - 'Lộ trình hàng ngày': 'archive/tu-luyen-tieng-anh/lo-trinh.md'
+    - 'Tiếng Anh chuyên ngành': 
+      - 'Hướng dẫn chung': 'archive/tieng-anh-chuyen-nganh/main-guide.md'
+      - 'Hướng dẫn':
+        - 'Cài đặt': 'archive/tieng-anh-chuyen-nganh/guide/huong-dan-cai-dat.md'
+        - 'Cấu trúc chương trình': 'archive/tieng-anh-chuyen-nganh/guide/struct.md'
+        - 'Tài nguyên': 'archive/tieng-anh-chuyen-nganh/guide/tai-nguyen.md'
+      - 'Tài nguyên': 
+        - 'Computer Science': 'archive/tieng-anh-chuyen-nganh/docs/compsci.md'
+        - 'Business English': 'archive/tieng-anh-chuyen-nganh/docs/business.md'
+        - 'Marketing': 'archive/tieng-anh-chuyen-nganh/docs/marketing.md'
+        - 'Nghệ thuật': 'archive/tieng-anh-chuyen-nganh/docs/hoi-hoa.md'
+        - 'Thiết kế đồ họa': 'archive/tieng-anh-chuyen-nganh/docs/do-hoa.md'
+        - 'Kiến trúc': 'archive/tieng-anh-chuyen-nganh/docs/kien-truc.md'
+        - 'Báo chí': 'archive/tieng-anh-chuyen-nganh/docs/bao-chi.md'
+        - 'Y học': 'archive/tieng-anh-chuyen-nganh/docs/y-hoc.md'
+        - 'Du lịch': 'archive/tieng-anh-chuyen-nganh/docs/du-lich.md'
+        - 'May mặc': 'archive/tieng-anh-chuyen-nganh/docs/may-mac.md'
 theme:
   name: material
   favicon: assets/logo.png
@@ -29,7 +47,7 @@ theme:
     repo: fontawesome/brands/github
   features:
     - navigation.tabs
-    - navigation.sections
+    # - navigation.sections
     - navigation.top
     - toc.follow
     - search.suggest
@@ -75,8 +93,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
-  - toc:
-      permalink: true
+
 
 plugins:
   - search

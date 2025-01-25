@@ -15,7 +15,7 @@ hide:
 
 Nếu bạn vẫn chưa cảm thấy quen với việc tự học hoặc muốn **tự học cách tự học**. 
 
-[Tự học cách tự học](huong-dan-tu-hoc.md){ .md-button .md-button--stretch-max-sm }
+[Tự học cách tự học](huong-dan/tu-hoc.md){ .md-button .md-button--stretch-max-sm }
 
 !!! warning "Khu học mở vẫn còn đang trong giai đoạn xây dựng"
     Vì khối lượng của trang rất lớn và thời gian mình có hạn nên sẽ có khá nhiều trang chưa hoàn thiện và được xây dựng dần dần (Tính đến thời điểm hiện tại thì vẫn là trang _một người làm_ - *taowork*). Nếu bạn muốn cùng tham gia đóng góp và xây dựng cho **Khu học mở** thì có thể truy cập trang [Đóng góp](dong-gop.md) và trang [Cộng đồng](cong-dong.md).
