@@ -1,8 +1,3 @@
----
-hide:
-    - navigation
----
-
 # Tự học cách tự học
 
 ## Xây dựng hệ thống & thói quen học tập

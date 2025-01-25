@@ -6,17 +6,20 @@ repo_name: Cùng xây dựng Khu học mở
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Hướng dẫn tự học': 'huong-dan/tu-hoc.md'
+  - 'Hướng dẫn tự học': 
+    - 'Tự học': 'huong-dan/tu-hoc.md'
   - 'Phát triển cá nhân':
-    - 'Nội trợ': 'huong-dan/noi-tro.md'
-    - 'Hướng dẫn cho con trai': 'huong-dan/con-trai.md'
     - 'Đọc sách': 'huong-dan/doc-sach.md'
     - 'Có gì hay để học?': 'huong-dan/hoc-gi.md'
-  - 'Tổng hợp & Tài nguyên': 'tong-hop-tai-nguyen.md'
+  - 'Tổng hợp & Tài nguyên': 
+    - 'Kho tài nguyên': 'tong-hop-tai-nguyen.md'
   - 'Cộng đồng & Đóng góp':
     - 'Cộng đồng': 'cong-dong.md'
     - 'Đóng góp': 'dong-gop.md'
   - 'Cảm ơn': 'cam-on.md'
+  - 'Lưu trữ':
+    - 'Tự luyện Tiếng Anh': 'archive/tu-luyen-tieng-anh/main-guide.md'
+    - 'Tiếng Anh chuyên ngành': 'archive/tieng-anh-chuyen-nganh/main-guide.md'
 
 theme:
   name: material
@@ -56,31 +59,24 @@ extra:
   generator: false
 
 markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - meta
   - admonition
   - attr_list
-  - def_list
-  # - footnotes
   - md_in_html
-  - pymdownx.arithmatex:
-      generic: true
+  - pymdownx.critic
   - pymdownx.caret
-  # - pymdownx.critic
-  # - pymdownx.details
-  # - pymdownx.highlight:
-  #     anchor_linenums: true
-  #     line_spans: __span
-  #     pygments_lang_class: true
-  - pymdownx.inlinehilite
-  - pymdownx.keys
   - pymdownx.mark
-  - pymdownx.snippets
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.keys
   - pymdownx.superfences
   - pymdownx.tabbed:
-      alternate_style: true 
-  - pymdownx.tilde
-  - pymdownx.emoji:
-      # emoji_index: !!python/name:material.extensions.emoji.twemoji
-      # emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      alternate_style: true
+  - toc:
+      permalink: true
 
 plugins:
   - search

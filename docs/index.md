@@ -4,7 +4,6 @@ description: Tự học mọi thứ thông qua hướng dẫn, lộ trình và c
 hide:
   - navigation
   - toc
-  - footer
 ---
 
 # <div style="text-align: center">Khu học mở</div>
@@ -18,6 +17,11 @@ Nếu bạn vẫn chưa cảm thấy quen với việc tự học hoặc muốn 
 
 [Tự học cách tự học](huong-dan-tu-hoc.md){ .md-button .md-button--stretch-max-sm }
 
+!!! warning "Khu học mở vẫn còn đang trong giai đoạn xây dựng"
+    Vì khối lượng của trang rất lớn và thời gian mình có hạn nên sẽ có khá nhiều trang chưa hoàn thiện và được xây dựng dần dần (Tính đến thời điểm hiện tại thì vẫn là trang _một người làm_ - *taowork*). Nếu bạn muốn cùng tham gia đóng góp và xây dựng cho **Khu học mở** thì có thể truy cập trang [Đóng góp](dong-gop.md) và trang [Cộng đồng](cong-dong.md).
+
+    Thêm nữa, trang này vốn được làm ra để phục vụ cho việc học của cá nhân mình nên có thể sẽ có nội dung không phù hợp với bạn.
+
 
 ## Ngoại ngữ
 
@@ -27,30 +31,20 @@ Tổng hợp các hướng dẫn có liên quan đến việc tự học ngoại
 
 
 -   :earth_asia:{ .lg .middle } &nbsp;
-    [**Học ngoại ngữ**](./ngoai-ngu/)
+    [**Hướng dẫn tự học ngoại ngữ bất kỳ**](https://daihocmo.github.io/ngoai-ngu/)
 
 -   :flag_us:{ .lg .middle } &nbsp;
-    [**Tiếng Anh**](./tieng-anh/)
+    [**Tiếng Anh**](https://daihocmo.github.io/tieng-anh/)
 
 -   :flag_jp:{ .lg .middle } &nbsp;
-    [**Tiếng Nhật**](./tieng-nhat/)
+    [**Tiếng Nhật**](https://daihocmo.github.io/tieng-nhat/)
 
 -   :flag_cn:{ .lg .middle } &nbsp;
-    [**Tiếng Trung**](./tieng-trung/)
+    [**Tiếng Trung**](https://daihocmo.github.io/tieng-trung/)
 
 -   :flag_vn:{ .lg .middle } &nbsp;
-    [**Vietnamese**](./tieng-viet/)
+    [**Vietnamese**](https://daihocmo.github.io/tieng-viet/)
 
--   :money_with_wings:{ .lg .middle } &nbsp;
-    __Tiếng Anh chuyên ngành__
-
-    ---
-
-    Một hướng dẫn tự học Tiếng Anh chuyên ngành thông qua Comprehensible Input và Immersion. 
-    
-    ---
-
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./tieng-anh-chuyen-nganh/)
 
 </div>
 
@@ -59,22 +53,20 @@ Tổng hợp các hướng dẫn có liên quan đến việc tự học ngoại
 
 Tổng hợp các hướng dẫn có liên quan đến việc tự học chương trình giáo dục phổ thông và đại học.
 
+
+### Chương trình tổng hợp
+
 <div class="grid cards" markdown>
 
 -   :student:{ .lg .middle } &nbsp;
-    __Tự học phổ thông__
+    [**Tự học phổ thông**](https://daihocmo.github.io/pho-thong/)
 
     ---
 
     Tự học chương trình phổ thông trong nước. Từ lớp 6 đến lớp 12, hoàn toàn sử dụng các nguồn tài nguyên miễn phí trên mạng.
 
-
-    ---
-
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./pho-thong/)
-
 -   :school:{ .lg .middle } &nbsp;
-    __Tự học đại học tại nhà__
+    [**Tự học đại học tại nhà**](https://daihocmo.github.io/tu-hoc-dai-hoc/)
 
     ---
 
@@ -82,48 +74,31 @@ Tổng hợp các hướng dẫn có liên quan đến việc tự học chươn
 
     ---
 
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./tu-hoc-dai-hoc/)
+-   :bookmark_tabs:{ .lg .middle } &nbsp;
+    [**Tự luyện chứng chỉ**](https://daihocmo.github.io/tu-luyen-chung-chi/)
 
+    ---
+
+    Một kho lưu trữ cách tự học để thi _khá nhiều chứng chỉ_.
+
+    ---
+    
 </div>
 
-### Chuyên ngành
+### Các chuyên ngành
 
 Hướng dẫn tự học các chuyên ngành ở bậc đại học và phát triển sự nghiệp.
 
 <div class="grid cards" markdown>
 
 -   :computer:{ .lg .middle } &nbsp;
-    __Khoa học máy tính__
-
-    ---
-
-    Tổng hợp về tự học khoa học máy tính nói chung và lập trình nói riêng (Hiện tại có hướng dẫn Computer Science và Fullstack)
-
-    ---
-
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./khoa-hoc-may-tinh)
+    [Khoa học máy tính](https://daihocmo.github.io/khoa-hoc-may-tinh)
 
 -   :art:{ .lg .middle } &nbsp;
-    __Hội họa & Thiết kế đồ họa__
-
-    ---
-
-    Nhiều thứ về vẽ vời và thiết kế đồ họa
-
-    ---
-
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./ve/)
+    [Tự học vẽ & thiết kế đồ họa](https://daihocmo.github.io/ve/)
 
 -   :shinto_shrine:{ .lg .middle } &nbsp;
-    __Lịch sử__
-
-    ---
-
-    Một kho tổng hợp tự học lịch sử trong nước và lịch sự thế giới.
-
-    ---
-
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./lich-su/)
+    [Lịch sử](https://daihocmo.github.io/lich-su/)
 
 </div>
 
@@ -134,7 +109,7 @@ Những kĩ năng khác mà có thể bạn sẽ muốn học.
 <div class="grid cards" markdown>
 
 -   :leafy_green:{ .lg .middle } &nbsp;
-    __Lá cây xanh__
+    [__Lá cây xanh__](https://daihocmo.github.io/la-cay-xanh/)
 
     ---
 
@@ -142,21 +117,17 @@ Những kĩ năng khác mà có thể bạn sẽ muốn học.
 
     ---
 
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./la-cay-xanh/)
-
--   :cook:{ .lg .middle } &nbsp;
-    __Trại nội trợ__
+-   :broom:{ .lg .middle } &nbsp;
+    [__Khu nội trợ__](https://daihocmo.github.io/ki-nang/noi-tro/)
 
     ---
 
-    Chúng tôi học để làm nội trợ chuyên nghiệp. Dọn dẹp, chăm sóc nhà cửa, nấu ăn và khá nhiều kĩ năng khác.
+    Chúng tôi học để làm nội trợ chuyên nghiệp. Dọn dẹp, chăm sóc nhà cửa và khá nhiều kĩ năng khác.
 
     ---
-
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./noi-tro/)
 
 -   :family_man_boy:{ .lg .middle } &nbsp;
-    __Hướng dẫn làm con trai__
+    [__Khu con trai__](https://daihocmo.github.io/ki-nang/con-trai/)
 
     ---
 
@@ -164,83 +135,22 @@ Những kĩ năng khác mà có thể bạn sẽ muốn học.
 
     ---
 
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./con-trai/)
+-   :cook:{ .lg .middle } &nbsp;
+    [__Khu nấu nướng__](https://daihocmo.github.io/ki-nang/nau-an/)
 
+    ---
+
+    Cùng tự nấu những món siu ngonnnnnnnnnnnnnnnnnnnnnnnnnn
+
+    ---
 
 </div>
 
-## Tổng hợp
-
-<div class="grid cards" markdown>
-
--   :cd:{ .lg .middle } &nbsp;
-    __Tất tần tận về lập trình__
-
-    ---
-
-    Tổng hợp toàn bộ hướng dẫn liên quan về lập trình và các chuyên ngành hẹp.
-
-    ---
-
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./awesome-lap-trinh/)
-
--   :cupcake:{ .lg .middle } &nbsp;
-    __Khu nội dung cho từng ngôn ngữ__
-
-    ---
-
-    Tổng hợp toàn bộ các trang nội dung gợi ý, hỗ trợ cho việc học ngôn ngữ:
-
-    - Tiếng Anh:
-        - [Comprehensible Input cho Tiếng Nhật](https://daihocmo.github.io/tieng-anh/input/)
-        - [Kho nội dung tiêu thụ Tiếng Anh](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-anh/)
-        - [Danh sách các kênh Youtube được gợi ý trên Reddit](https://daihocmo.github.io/awesome-ngon-ngu/ngon-ngu/tieng-anh/youtube-channel.html)
-    - Tiếng Nhật:
-        - [Comprehensible Input cho Tiếng Nhật](https://daihocmo.github.io/awesome-ngon-ngu/ngon-ngu/tieng-nhat/input.html)
-        - [Gợi ý nội dung Tiếng Nhật](https://daihocmo.github.io/awesome-ngon-ngu/ngon-ngu/tieng-nhat/recommendation.html)
-
-    Các ngôn ngữ khác sẽ được tổng hợp trong các trang hướng dẫn tương ứng.
-
-    ---
-
--   :closed_book:{ .lg .middle } &nbsp;
-    __Vietnamese learning resources__
-
-    ---
-
-    - [Betonamgo](https://daihocmo.github.io/betonamgo/) - A curated list of Vietnamese language learning resources.
-    - [Vietnamese Media Recommedation Spreadsheet](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-viet/)
-    - [A collection of Vietnamese Youtube channels](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-viet/noi-dung-tieng-viet.html)
-
-    ---
-
--   :books:{ .lg .middle } &nbsp;
-    __Tất tần tật về tài nguyên học ngôn ngữ__
-
-    ---
-
-    Tổng hợp nhiều tài nguyên tự học ngôn ngữ và bằng Tiếng Việt (là chính).
-
-    ---
-
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./awesome-ngon-ngu/)
-
--   :newspaper:{ .lg .middle } &nbsp;
-    __Tự ôn thi ngoại ngữ__
-
-    ---
-
-    Khu tổng hợp các cuốn sách tự học và ôn tập cho Tiếng Anh và Tiếng Nhật 
-
-    ---
-
-    [:octicons-arrow-right-24: Đọc hướng dẫn](./luyen-thi-ngon-ngu/)
 
 
-</div>
+## Kho lưu trữ
+Các trang dưới đây sẽ không còn nhật được cập nhật hoặc chỉnh sửa từ **Khu học mở** vì nhiều lý do (Lười duy trì, không muốn sửa nữa hoặc các lý do khác):
 
-## Lời cảm ơn
-
-!!! info "Credit"
-    Thiết kế của trang được phát triển dựa trên trang [Wiki của Yomitan](https://yomitan.wiki/)
+- [Tiếng Anh chuyên ngành](https://daihocmo.github.io/archive/tieng-anh-chuyen-nganh/main-guide/)
+- [Tự luyện Tiếng Anh](https://daihocmo.github.io/archive/tu-luyen-tieng-anh/main-guide/)
 
