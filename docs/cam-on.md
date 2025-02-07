@@ -1,9 +1,4 @@
----
-hide:
-    - navigation
----
-
-# Credit
+# Gửi lời cảm ơn
 
 Trang này để gửi lời cảm ơn tới rất nhiều cá nhân và dự án đã đóng góp vào dự án. Các phần được liệt kê dưới đây có thể chưa đầy đủ và mình sẽ tiếp tục bổ sung sau.
 

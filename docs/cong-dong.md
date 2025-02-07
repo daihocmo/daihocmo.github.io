@@ -1,8 +1,3 @@
----
-hide:
-    - toc
----
-
 # Tham gia cộng đồng tự học của Khu học mở
 
 **Khu học mở** hỗ trợ các nhóm học tập sau:

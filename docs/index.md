@@ -1,5 +1,4 @@
 ---
-title: Khu học mở
 description: Tự học mọi thứ thông qua hướng dẫn, lộ trình và các nguồn tài nguyên miễn phí trên Internet
 hide:
   - navigation
@@ -17,44 +16,60 @@ Nếu bạn vẫn chưa cảm thấy quen với việc tự học hoặc muốn 
 
 [Tự học cách tự học](huong-dan/tu-hoc.md){ .md-button .md-button--stretch-max-sm }
 
-!!! warning "Khu học mở vẫn còn đang trong giai đoạn xây dựng"
-    Vì khối lượng của trang rất lớn và thời gian mình có hạn nên sẽ có khá nhiều trang chưa hoàn thiện và được xây dựng dần dần (Tính đến thời điểm hiện tại thì vẫn là trang _một người làm_ - *taowork*). Nếu bạn muốn cùng tham gia đóng góp và xây dựng cho **Khu học mở** thì có thể truy cập trang [Đóng góp](dong-gop.md) và trang [Cộng đồng](cong-dong.md).
+Dưới đây sẽ là một số chương trình được tổng hợp trên **Khu học mở**. Bạn có thể đọc danh sách toàn bộ các chương trình đang được **Khu học mở** tổng hợp:
 
-    Thêm nữa, trang này vốn được làm ra để phục vụ cho việc học của cá nhân mình nên có thể sẽ có nội dung không phù hợp với bạn.
-
+[Toàn bộ chương trình học được tổng hợp](chuyen-muc.md){ .md-button .md-button--stretch-max-sm }
 
 ## Ngoại ngữ
 
-Tổng hợp các hướng dẫn có liên quan đến việc tự học ngoại ngữ.
+**Hướng dẫn học nhanh**: Bạn *nên* đọc [**Hướng dẫn tự học ngoại ngữ**](https://daihocmo.github.io/ngoai-ngu/) trước để tìm hiểu về phương pháp học ngoại ngữ, cách xây dựng môi trường ngoại ngữ tại nhà và nhiều nội dung khác. Hiện tại **Khu học mở** đã làm các trang ngoại ngữ riêng cho Tiếng Anh, Tiếng Nhật và Tiếng Trung.
+
+Phương pháp học ngoại ngữ được đề cập trong trang [**Hướng dẫn tự học ngoại ngữ**](https://daihocmo.github.io/ngoai-ngu/) có thể áp dụng được cho rất nhiều ngoại ngữ. Bạn hoàn toàn có thể áp dụng rất nhiều hướng dẫn trong trang cho các ngôn ngữ bạn đang học.
 
 <div class="grid cards" markdown>
 
-
 -   :earth_asia:{ .lg .middle } &nbsp;
-    [**Hướng dẫn tự học ngoại ngữ bất kỳ**](https://daihocmo.github.io/ngoai-ngu/)
+    [**Hướng dẫn tự học ngoại ngữ**](https://daihocmo.github.io/ngoai-ngu/)
+
+    ---
+
+    Điểm khởi đầu của việc bắt đầu tự học ngoại ngữ. Bạn hoàn toàn có thể đọc các trang ngoại ngữ riêng rồi quay lại đọc trang này cũng được.
 
 -   :flag_us:{ .lg .middle } &nbsp;
     [**Tiếng Anh**](https://daihocmo.github.io/tieng-anh/)
 
+    ---
+
+    Hướng dẫn tự học Tiếng Anh
+
 -   :flag_jp:{ .lg .middle } &nbsp;
     [**Tiếng Nhật**](https://daihocmo.github.io/tieng-nhat/)
 
+    ---
+
+    日本語上手
+
 -   :flag_cn:{ .lg .middle } &nbsp;
     [**Tiếng Trung**](https://daihocmo.github.io/tieng-trung/)
+    
+    ---
+
+    Hướng dẫn tự học Tiếng Trung
 
 -   :flag_vn:{ .lg .middle } &nbsp;
-    [**Vietnamese**](https://daihocmo.github.io/tieng-viet/)
+    [**Vietnamese**](https://daihocmo.github.io/learn-vietnamese/)
 
+    ---
+
+    Hướng dẫn học Tiếng Việt cho người nước ngoài
 
 </div>
-
 
 ## Giáo dục phổ thông & Đại học
 
 Tổng hợp các hướng dẫn có liên quan đến việc tự học chương trình giáo dục phổ thông và đại học.
 
-
-### Chương trình tổng hợp
+### Tổng hợp
 
 <div class="grid cards" markdown>
 
@@ -87,18 +102,23 @@ Tổng hợp các hướng dẫn có liên quan đến việc tự học chươn
 
 ### Các chuyên ngành
 
-Hướng dẫn tự học các chuyên ngành ở bậc đại học và phát triển sự nghiệp.
+Các chuyên ngành được xây dựng thành các trang riêng
 
 <div class="grid cards" markdown>
 
 -   :computer:{ .lg .middle } &nbsp;
-    [Khoa học máy tính](https://daihocmo.github.io/khoa-hoc-may-tinh)
+    [**Khoa học máy tính**](https://daihocmo.github.io/khoa-hoc-may-tinh)
 
--   :art:{ .lg .middle } &nbsp;
-    [Tự học vẽ & thiết kế đồ họa](https://daihocmo.github.io/ve/)
+    ---
+
+    Một hướng dẫn về Khoa học máy tính và phương pháp tự học lập trình
 
 -   :shinto_shrine:{ .lg .middle } &nbsp;
-    [Lịch sử](https://daihocmo.github.io/lich-su/)
+    [**Lịch sử**](https://daihocmo.github.io/lich-su/)
+
+    ---
+
+    Một *cuốn sách* về lịch sử trong nước và lịch sử thế giới
 
 </div>
 
@@ -145,7 +165,6 @@ Những kĩ năng khác mà có thể bạn sẽ muốn học.
     ---
 
 </div>
-
 
 
 ## Kho lưu trữ
