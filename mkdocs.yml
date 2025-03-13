@@ -45,13 +45,13 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-      primary: deep-purple
+      primary: white
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
         icon: material/white-balance-sunny
         name: Switch to light mode    
-      primary: deep-purple
+      primary: black
 
 extra:
   social:
@@ -65,7 +65,6 @@ markdown_extensions:
   - meta
   - admonition
   - attr_list
-  - md_in_html
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.mark
