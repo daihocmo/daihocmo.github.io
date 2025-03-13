@@ -6,8 +6,8 @@
 
 ### Do Khu học mở tạo
 
-- [Tự học ngoại ngữ](https://discord.gg/fbHbQSwzpD) - Dành cho những người học ngoại ngữ. Hiện tại hỗ trợ 3 ngôn ngữ: Tiếng Anh, Tiếng Nhật, Tiếng Trung
-- [Khu học mở](https://discord.gg/ZyEn4TTyEM) - Dành cho những người theo học các chuyên ngành khác (Thiết kế đồ họa, tâm lý .v.v.) cũng như làm việc trong ban dịch sách và tài liệu.
+- [TheAnhWay](https://discord.gg/fbHbQSwzpD) - Dành cho những người học Tiếng Anh thông qua Media Tiếng Anh.
+- [Khu học mở](https://discord.gg/8ZmarbwYjg) - Dành cho những người theo học các chuyên ngành khác (Thiết kế đồ họa, tâm lý .v.v.) cũng như làm việc trong ban dịch sách và tài liệu.
 - [Khoa học máy tính](https://discord.gg/x93EE354PB) - Dành cho những người học về lập trình và khoa học máy tính.
 - [immerse in trees](https://discord.gg/jJjaCH3Bc2) - Cho những bạn muốn hướng dẫn Tiếng Việt hoặc trò chuyện về việc học Tiếng Việt với người học. Hiện tại kênh mới lập chưa lâu nên còn chưa nhiều thành viên.
 

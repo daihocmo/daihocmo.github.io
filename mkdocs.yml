@@ -6,13 +6,24 @@ repo_name: Cùng xây dựng Khu học mở
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Chương trình học': 'chuyen-muc.md'
-  - 'Bài viết': 
-    - 'Tự học': 'huong-dan/tu-hoc.md'
+  - 'Chương trình học': 
+    - 'Ngoại ngữ': 'chuong-trinh/ngoai-ngu.md'
+    - 'Giáo dục phổ thông': 'chuong-trinh/pho-thong.md'
+    - 'Đại học': 'chuong-trinh/dai-hoc.md'
+    - 'Kĩ năng mềm': 'chuong-trinh/ki-nang-mem.md'
+    - 'Rất nhiều thứ khác nữa': 'chuong-trinh/hoc-gi.md'
+  - 'Hướng dẫn chung': 
+    - 'Tự học cách tự học': 'huong-dan/tu-hoc.md'
+    - 'Đọc sách': 'huong-dan/doc-sach.md'
+    - 'Xây dựng bộ não thứ hai': 'huong-dan/second-brain.md'
+  - 'Tài nguyên':
+    - 'Tài nguyên học tập': 'tai-nguyen/tai-nguyen.md'
+    - 'Kho sách': 'tai-nguyen/kho-sach.md'
   - 'Thông tin thêm':
     - 'Cộng đồng': 'cong-dong.md'
-    - 'Đóng góp cho trang': 'dong-gop.md'
+    - 'Đóng góp & Xây dựng': 'dong-gop.md'
     - 'Lời cảm ơn': 'cam-on.md'
+    - 'Contributors của dự án': 'contributors.md'
 
 theme:
   name: material
@@ -21,7 +32,6 @@ theme:
   icon:
     repo: fontawesome/brands/github
   features:
-    # - navigation.tabs
     - navigation.sections
     - navigation.top
     - toc.follow

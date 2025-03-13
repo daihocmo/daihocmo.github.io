@@ -1,0 +1,3 @@
+# Xây dựng bộ não thứ hai
+
+Đang được viết...

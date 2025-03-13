@@ -3,17 +3,15 @@
 
 Nếu bạn vẫn chưa cảm thấy quen với việc tự học hoặc muốn **tự học cách tự học**. 
 
-[Tự học cách tự học](huong-dan/tu-hoc.md){ .md-button .md-button--stretch-max-sm }
+
 
 Dưới đây sẽ là một số chương trình được tổng hợp trên **Khu học mở**. Bạn có thể đọc danh sách toàn bộ các chương trình đang được **Khu học mở** tổng hợp:
 
-[Toàn bộ chương trình học được tổng hợp](chuyen-muc.md){ .md-button .md-button--stretch-max-sm }
+[Toàn bộ chương trình học được tổng hợp](draft/chuyen-muc.md){ .md-button .md-button--stretch-max-sm }
 
 ## Ngoại ngữ
 
-**Hướng dẫn học nhanh**: Bạn *nên* đọc [**Hướng dẫn tự học ngoại ngữ**](https://daihocmo.github.io/ngoai-ngu/) trước để tìm hiểu về phương pháp học ngoại ngữ, cách xây dựng môi trường ngoại ngữ tại nhà và nhiều nội dung khác. Hiện tại **Khu học mở** đã làm các trang ngoại ngữ riêng cho Tiếng Anh, Tiếng Nhật và Tiếng Trung.
 
-Phương pháp học ngoại ngữ được đề cập trong trang [**Hướng dẫn tự học ngoại ngữ**](https://daihocmo.github.io/ngoai-ngu/) có thể áp dụng được cho rất nhiều ngoại ngữ. Bạn hoàn toàn có thể áp dụng rất nhiều hướng dẫn trong trang cho các ngôn ngữ bạn đang học.
 
 <div class="grid cards" markdown>
 
