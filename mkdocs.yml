@@ -6,62 +6,14 @@ repo_name: Cùng xây dựng Khu học mở
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Chuyên mục': 'chuyen-muc.md'
-  - 'Hướng dẫn tự học': 
+  - 'Chương trình học': 'chuyen-muc.md'
+  - 'Bài viết': 
     - 'Tự học': 'huong-dan/tu-hoc.md'
-    - 'Đọc sách': 'huong-dan/doc-sach.md'
-    - 'Có gì hay để học?': 'huong-dan/hoc-gi.md'
-  - 'Khu kĩ năng':
-    - 'Nội trợ': 
-      - 'Hướng dẫn chính': 'ki-nang/noi-tro/index.md'
-      - 'Chăm sóc bản thân': 'ki-nang/noi-tro/cham-soc-ban-than/ban-than.md'
-      - 'Chăm sóc gia đình': 'ki-nang/noi-tro/cham-soc-gia-dinh/untitled.md'
-      - 'Chăm sóc cây cảnh': 'ki-nang/noi-tro/cham-soc-nha-cua/cham-soc-cay-canh.md'
-      - 'Hướng dẫn chính': 'ki-nang/noi-tro/don-dep/huong-dan-chinh.md'
-      - 'Tư duy dọn dẹp': 'ki-nang/noi-tro/don-dep/tu-duy-don-dep.md'
-      - 'Giặt giũ': 'ki-nang/noi-tro/lam-viec-nha/giat-giu.md'
-      - 'Rửa bát': 'ki-nang/noi-tro/lam-viec-nha/rua-bat.md'
-    - 'Nấu ăn': 'ki-nang/nau-an/index.md'
-    - 'Con trai học': 'ki-nang/con-trai/index.md'
-    - 'Bản thân':
-      - 'Hướng dẫn chính': 'ki-nang/ban-than/guide.md'
-      - 'Thử thách 30 ngày': 'ki-nang/ban-than/30ngay.md'
-      - '60 thử thách đại học': 'ki-nang/ban-than/60-thu-thach-dai-hoc.md'
-      - 'Chăm sóc bản thân': 'ki-nang/ban-than/ban-than.md'
-      - 'Bảo mật riêng tư': 'ki-nang/ban-than/bao-mat-rieng-tu.md'
-      - 'Đọc sách': 'ki-nang/ban-than/doc-sach.md'
-      - 'Grooming': 'ki-nang/ban-than/grooming.md'
-      - 'Trở thành người nghe': 'ki-nang/ban-than/nguoi-nghe.md'
-      - 'Thể dục': 'ki-nang/ban-than/the-duc.md'
-      - 'Thói quen': 'ki-nang/ban-than/thoi-quen.md'
-      - 'Thói quen nhỏ': 'ki-nang/ban-than/tiny-habit.md'
-  - 'Khu học mở':
-    - 'Tham gia cộng đồng': 'cong-dong.md'
-    - 'Đóng góp & Xây dựng trang': 'dong-gop.md'
+  - 'Thông tin thêm':
+    - 'Cộng đồng': 'cong-dong.md'
+    - 'Đóng góp cho trang': 'dong-gop.md'
     - 'Lời cảm ơn': 'cam-on.md'
-  - 'Lưu trữ':
-    - 'Khu lưu trữ': 'archive/main.md'
-    - 'Tổng hợp tài nguyên': 'tong-hop-tai-nguyen.md'
-    - 'Tự luyện Tiếng Anh': 
-      - 'Hướng dẫn chính': 'archive/tu-luyen-tieng-anh/main-guide.md'
-      - 'Lộ trình hàng ngày': 'archive/tu-luyen-tieng-anh/lo-trinh.md'
-    - 'Tiếng Anh chuyên ngành': 
-      - 'Hướng dẫn chung': 'archive/tieng-anh-chuyen-nganh/main-guide.md'
-      - 'Hướng dẫn':
-        - 'Cài đặt': 'archive/tieng-anh-chuyen-nganh/guide/huong-dan-cai-dat.md'
-        - 'Cấu trúc chương trình': 'archive/tieng-anh-chuyen-nganh/guide/struct.md'
-        - 'Tài nguyên': 'archive/tieng-anh-chuyen-nganh/guide/tai-nguyen.md'
-      - 'Tài nguyên': 
-        - 'Computer Science': 'archive/tieng-anh-chuyen-nganh/docs/compsci.md'
-        - 'Business English': 'archive/tieng-anh-chuyen-nganh/docs/business.md'
-        - 'Marketing': 'archive/tieng-anh-chuyen-nganh/docs/marketing.md'
-        - 'Nghệ thuật': 'archive/tieng-anh-chuyen-nganh/docs/hoi-hoa.md'
-        - 'Thiết kế đồ họa': 'archive/tieng-anh-chuyen-nganh/docs/do-hoa.md'
-        - 'Kiến trúc': 'archive/tieng-anh-chuyen-nganh/docs/kien-truc.md'
-        - 'Báo chí': 'archive/tieng-anh-chuyen-nganh/docs/bao-chi.md'
-        - 'Y học': 'archive/tieng-anh-chuyen-nganh/docs/y-hoc.md'
-        - 'Du lịch': 'archive/tieng-anh-chuyen-nganh/docs/du-lich.md'
-        - 'May mặc': 'archive/tieng-anh-chuyen-nganh/docs/may-mac.md'
+
 theme:
   name: material
   favicon: assets/logo.png
@@ -69,8 +21,8 @@ theme:
   icon:
     repo: fontawesome/brands/github
   features:
-    - navigation.tabs
-    # - navigation.sections
+    # - navigation.tabs
+    - navigation.sections
     - navigation.top
     - toc.follow
     - search.suggest
@@ -100,9 +52,6 @@ extra:
   generator: false
 
 markdown_extensions:
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - meta
   - admonition
   - attr_list
@@ -116,7 +65,6 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
-
 
 plugins:
   - search
