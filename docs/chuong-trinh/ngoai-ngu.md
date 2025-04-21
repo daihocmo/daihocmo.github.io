@@ -15,18 +15,18 @@ Phương pháp học ngoại ngữ được đề cập trong trang [**Hướng 
 
 
 ### Các chương trình khác đang được làm
+Các trang ngôn ngữ hiện tại đều vẫn chưa được làm.
+
 -   [Ngôn ngữ học](https://daihocmo.github.io/tu-hoc-dai-hoc/nhan-van/ngoai-ngu/)
--   [Ngôn ngữ Anh](https://daihocmo.github.io/tu-hoc-dai-hoc/nhan-van/tieng-anh/)
 -   [Ngôn ngữ Nga](https://daihocmo.github.io/tu-hoc-dai-hoc/nhan-van/tieng-nga/)
 -   [Ngôn ngữ Pháp](https://daihocmo.github.io/tu-hoc-dai-hoc/nhan-van/tieng-phap/)
--   [Ngôn ngữ Trung Quốc](https://daihocmo.github.io/tu-hoc-dai-hoc/nhan-van/tieng-trung/)
 -   [Ngôn ngữ Đức](https://daihocmo.github.io/tu-hoc-dai-hoc/nhan-van/tieng-duc/)
 -   [Ngôn ngữ Tây Ban Nha](https://daihocmo.github.io/tu-hoc-dai-hoc/nhan-van/tieng-tbn/)
 -   [Ngôn ngữ Bồ Đào Nha](https://daihocmo.github.io/tu-hoc-dai-hoc/nhan-van/tieng-bdn/)
 -   [Ngôn ngữ Italia](https://daihocmo.github.io/tu-hoc-dai-hoc/nhan-van/tieng-y/)
--   [Ngôn ngữ Nhật](https://daihocmo.github.io/tu-hoc-dai-hoc/nhan-van/tieng-nhat/)
 -   [Ngôn ngữ Hàn Quốc](https://daihocmo.github.io/tu-hoc-dai-hoc/nhan-van/tieng-han/)
 -   [Ngôn ngữ Thái Lan](https://daihocmo.github.io/tu-hoc-dai-hoc/nhan-van/tieng-thai/)
+
 
 ### Khác
 - [Tự luyện chứng chỉ](https://daihocmo.github.io/tu-luyen-chung-chi/) - Một kho lưu trữ cách tự học để thi _khá nhiều chứng chỉ_ (Hỗ trợ ngoại ngữ là chủ yếu).

@@ -6,16 +6,19 @@ repo_name: Cùng xây dựng Khu học mở
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Chương trình học': 
+  - 'Hướng dẫn chung': 
+    - 'Hệ thống': 'huong-dan/he-thong.md'
+    - 'Tự học': 'huong-dan/tu-hoc.md'
+    - 'Đọc sách': 'huong-dan/doc-sach.md'
+    - 'Bộ não thứ hai': 'huong-dan/bo-nao-thu-hai.md'
+  - 'Chương trình học':
+    - 'Cho trẻ nhỏ': 'chuong-trinh/cho-tre-nho.md'
     - 'Ngoại ngữ': 'chuong-trinh/ngoai-ngu.md'
     - 'Giáo dục phổ thông': 'chuong-trinh/pho-thong.md'
-    - 'Đại học': 'chuong-trinh/dai-hoc.md'
+    - 'Đại học nhà làm': 'chuong-trinh/dai-hoc.md'
     - 'Kĩ năng mềm': 'chuong-trinh/ki-nang-mem.md'
-    - 'Rất nhiều thứ khác nữa': 'chuong-trinh/hoc-gi.md'
-  - 'Hướng dẫn chung': 
-    - 'Tự học cách tự học': 'huong-dan/tu-hoc.md'
-    - 'Đọc sách': 'huong-dan/doc-sach.md'
-    - 'Xây dựng bộ não thứ hai': 'huong-dan/second-brain.md'
+    - 'Thoát nghiện': 'chuong-trinh/thoat-nghien.md'
+    - 'Khác': 'chuong-trinh/hoc-gi.md'
   - 'Tài nguyên':
     - 'Tài nguyên học tập': 'tai-nguyen/tai-nguyen.md'
     - 'Kho sách': 'tai-nguyen/kho-sach.md'
@@ -23,7 +26,6 @@ nav:
     - 'Cộng đồng': 'cong-dong.md'
     - 'Đóng góp & Xây dựng': 'dong-gop.md'
     - 'Lời cảm ơn': 'cam-on.md'
-    - 'Contributors của dự án': 'contributors.md'
 
 theme:
   name: material
