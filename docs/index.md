@@ -16,11 +16,11 @@ Trang vốn được tạo ra để hoạt động tương tự như bộ não t
 
 Bạn có thể đọc bài hướng dẫn đơn giản về *Tự học cách tự học* dưới đây:
 
-[Tự học cách tự học](huong-dan/tu-hoc.md){ .md-button .md-button--stretch-max-sm }
+[Bắt đầu tự học cách tự học](huong-dan/he-thong.md){ .md-button .md-button--stretch-max-sm }
 
 Cảm ơn bạn vì đã dành thời gian đọc cái trang này! 
 
 Cảm ơn khá nhiều (một lần nữa),
 
-*duykhanh471* (và khá nhiều [tình nguyện viên](contributors.md) nữa).
+*duykhanh471* (và khá nhiều [tình nguyện viên](dong-gop.md) nữa).
 

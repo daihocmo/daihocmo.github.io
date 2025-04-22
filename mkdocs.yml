@@ -12,11 +12,12 @@ nav:
     - 'Đọc sách': 'huong-dan/doc-sach.md'
     - 'Bộ não thứ hai': 'huong-dan/bo-nao-thu-hai.md'
   - 'Chương trình học':
-    - 'Cho trẻ nhỏ': 'chuong-trinh/cho-tre-nho.md'
+    - 'Mầm non & Tiểu học': 'chuong-trinh/mam-non-va-tieu-hoc.md'
+    - 'Trung học': 'chuong-trinh/trung-hoc.md'
+    - 'Đại học': 'chuong-trinh/dai-hoc.md'
     - 'Ngoại ngữ': 'chuong-trinh/ngoai-ngu.md'
-    - 'Giáo dục phổ thông': 'chuong-trinh/pho-thong.md'
-    - 'Đại học nhà làm': 'chuong-trinh/dai-hoc.md'
-    - 'Kĩ năng mềm': 'chuong-trinh/ki-nang-mem.md'
+    - 'Sự nghiệp': 'chuong-trinh/su-nghiep.md'
+    - 'Kĩ năng': 'chuong-trinh/ki-nang-mem.md'
     - 'Thoát nghiện': 'chuong-trinh/thoat-nghien.md'
     - 'Khác': 'chuong-trinh/hoc-gi.md'
   - 'Tài nguyên':
