@@ -22,5 +22,5 @@ Cảm ơn bạn vì đã dành thời gian đọc cái trang này!
 
 Cảm ơn khá nhiều (một lần nữa),
 
-*duykhanh471* (và khá nhiều [tình nguyện viên](dong-gop.md) nữa).
+*duykhanh471* (và khá nhiều [tình nguyện viên](cam-on.md) nữa).
 

@@ -6,11 +6,11 @@ Hiện tại hướng dẫn đóng góp cho Khu học mở đang được viết
 
 Để gửi lỗi hay các điểm cần cải thiện: Bạn cần mở Issue (vấn đề) cho trang mà bạn muốn góp ý. Dưới đây là hướng dẫn cách mở Issues trên Github. Bạn cần truy cập vào trang nội dung mà bạn muốn sửa, ví dụ như trang chủ này đi:
 
-![Trang chủ](assets/sua-trang.png)
+![Trang chủ](../assets/sua-trang.png)
 
 Khi bạn bấm vào nút "Cùng xây dựng Khu học mở" (Có thể tên sẽ khác tùy từng dự án, nhưng đều ở góc trên bên phải màn hình), trang sẽ được điều hướng đến trang xây dựng dự án trên Github:
 
-![Trang dự án](assets/sua-trang-2.png)
+![Trang dự án](../assets/sua-trang-2.png)
 
 Rồi sau đó mở Issue như thế này:
 
@@ -36,4 +36,4 @@ Bạn cũng có thể liên hệ trực tiếp qua [Email](mailto:duykhanh471@pr
 Bạn cũng có thể gửi đóng góp trên
 
 - [Voz Forum](https://voz.vn/u/duykhanh471.1975210/)
-- [Discord](cong-dong.md)
+- [Discord](../cong-dong.md)

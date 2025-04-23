@@ -9,8 +9,9 @@ nav:
   - 'Hướng dẫn chung': 
     - 'Hệ thống': 'huong-dan/he-thong.md'
     - 'Tự học': 'huong-dan/tu-hoc.md'
-    - 'Đọc sách': 'huong-dan/doc-sach.md'
+    - 'Đọc': 'huong-dan/doc.md'
     - 'Bộ não thứ hai': 'huong-dan/bo-nao-thu-hai.md'
+    - 'Tiếp theo': 'huong-dan/tiep-theo.md'
   - 'Chương trình học':
     - 'Mầm non & Tiểu học': 'chuong-trinh/mam-non-va-tieu-hoc.md'
     - 'Trung học': 'chuong-trinh/trung-hoc.md'
@@ -25,7 +26,9 @@ nav:
     - 'Kho sách': 'tai-nguyen/kho-sach.md'
   - 'Thông tin thêm':
     - 'Cộng đồng': 'cong-dong.md'
-    - 'Đóng góp & Xây dựng': 'dong-gop.md'
+    - 'Đóng góp & Xây dựng': 
+      - 'Hướng dẫn': 'dong-gop/index.md'
+      - 'Danh sách công việc': 'dong-gop/danh-sach-cong-viec.md'
     - 'Lời cảm ơn': 'cam-on.md'
 
 theme:

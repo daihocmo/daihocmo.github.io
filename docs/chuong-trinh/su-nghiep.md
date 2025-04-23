@@ -1,7 +1,5 @@
 # Chuyên ngành & Sự nghiệp
 
-Bản thân mình cũng chưa phải là người đi làm và vẫn đang tìm kiếm định hướng cho bản thân. Dưới đây chỉ là một số gợi ý mà mình tìm được. Mình mong là trang này sẽ được các những người khác có kinh nghiệm hơn trong lĩnh vực này chỉnh sửa và góp ý thêm.
-
 Nếu mọi người đang chuẩn bị bước vào ngưỡng cửa đại học (hoặc là không) và muốn bắt đầu tìm kiếm định hướng cho bản thân thì mọi người có thể tham khảo một số nguồn sau:
 
 - Một số các *buổi nói chuyện* của Phoenix Ho (Bản thân cô cũng là một người làm trong mảng hướng nghiệp):

@@ -1,21 +1,19 @@
 # Thoát nghiện
 
-Nghiện là một trạng thái phức tạp, đặc trưng bởi sự thôi thúc mãnh liệt và không kiểm soát được đối với một chất hoặc hành vi nào đó, mặc dù biết rõ những hậu quả tiêu cực mà nó gây ra. Nghiện không chỉ đơn thuần (KHÔNG PHẢI LÀ) là một thói quen xấu như mọi người vẫn nghĩ, mà là một tình trạng bệnh lý ảnh hưởng đến não bộ, dẫn đến những thay đổi trong suy nghĩ, cảm xúc và hành vi.
+Có lẽ bạn đang vật lộn với một thói quen dai dẳng, một ham muốn khó kiểm soát, hay thứ mà nhiều người gọi là "nghiện". Cảm giác bị cuốn vào một vòng lặp, biết rõ điều đó không tốt cho mình nhưng vẫn không thể dừng lại, là một trải nghiệm đầy bế tắc và ám ảnh. Chúng ta thường cảm thấy bất lực, tự trách bản thân, và tin rằng mình thiếu ý chí và đã nghiện thì *không thể lào cai*.
 
-Nghiện có thể xảy ra với bất cứ thứ gì mang lại khoái cảm (do người nghiện nghĩ thế) hoặc giúp trốn tránh thực tại, từ các chất gây nghiện như ma túy, rượu, thuốc lá đến các hành vi như xem porn, chơi game, mua sắm.
+Quan niệm phổ biến cho rằng việc thoát khỏi sự kìm kẹp của nghiện là một cuộc chiến đòi hỏi sức mạnh ý chí phi thường và những nỗ lực không ngừng nghỉ để chống lại ham muốn. Chúng ta được dạy rằng nghiện là một phần của con người mình, một "con quỷ" luôn rình rập và có thể tái phát bất cứ lúc nào. Chính những niềm tin này đôi khi lại là rào cản lớn nhất, khiến chúng ta nản lòng ngay cả trước khi bắt đầu hoặc dễ dàng bỏ cuộc khi gặp khó khăn.
 
-Việc hiểu đúng về nghiện là vô cùng quan trọng để có thể tiếp cận và giải quyết vấn đề này một cách hiệu quả. Và để hiểu đúng được về nghiện, bạn cần bắt đầu tìm hiểu về nó với một tâm thế chủ động và cởi mở.
-
-Một trong những điểm bắt đầu mà bạn có thể đọc là bài [0MT1HT - Chương 6: Nghiện](https://duy103zxc.github.io/0mt1ht/ch06.html) để có một cái nhìn cơ bản nhất về **NGHIỆN**. Mình không sử dụng từ *cai nghiện* ở đây, mà là *thoát nghiện* hay *dừng hẳn*.
+Tuy nhiên, điều gì sẽ xảy ra nếu cách chúng ta nhìn nhận về nghiện lại là một phần của vấn đề? Điều gì sẽ xảy ra nếu có những cách tiếp cận khác, không dựa trên ý chí hay cuộc chiến chống lại bản thân, mà giúp chúng ta hiểu rõ hơn bản chất của cái bẫy tâm lý mang tên **nghiện**?
 
 Mình sẽ không nói quá chi tiết ở đây. Nhưng để tóm gọn lại, có hai định hướng mà cá nhân mình thấy có thể giúp bạn thoát nghiện. Hai phương pháp dưới đây đều có tỉ lệ thành công rất cao dù đi theo hai hướng trái ngược nhau:
 
 - Easyway của Allen Carr.
 - AVRT của Jack Trimpey - Bạn có thể đọc tổng quan về bản dịch Tiếng Việt của phương pháp [Nhận diện giọng kẻ nghiện bên trong](https://duy103zxc.github.io/avrt-vi/) (Mình vẫn đang dịch và chưa xong, sẽ tiếp tục hoàn thiện) hoặc đọc cuốn sách [Rational Recovery](https://archive.org/details/rationalrecovery00trim/) của bác
 
-Có không ít bài viết *review* hai phương pháp này nhưng mình không khuyến khích đọc vì nó cung cấp cái nhìn không đủ toàn diện để giúp bạn hiểu về quá trình thoát nghiện của mình, mà nên đọc một quyển sách bất kì, sẽ được liệt kê dưới đây.
+Có không ít bài viết *review* hai phương pháp này nhưng mình không khuyến khích đọc vì nó cung cấp cái nhìn không đủ toàn diện để giúp bạn hiểu về quá trình thoát nghiện của mình, mà nên đọc một quyển sách bất kì trong danh sách được liệt kê dưới đây.
 
-Khóa học video duy nhất mà mình tìm được là khóa [AVRT Live with Jack Trimpey](https://www.youtube.com/playlist?list=PL-A4toVQT3zvSLSerQNg761uGh3pBaI0p) bằng Tiếng Anh (Nếu bạn không ngại thì có thể tham gia dịch khóa này về Tiếng Việt bằng cách mở [Issues](https://github.com/daihocmo/daihocmo.github.io/issues) trên Github).
+Khóa học video duy nhất mà mình tìm được là khóa [AVRT Live with Jack Trimpey](https://www.youtube.com/playlist?list=PL-A4toVQT3zvSLSerQNg761uGh3pBaI0p) bằng Tiếng Anh (Nếu bạn không ngại thì có thể tham gia dịch khóa này về Tiếng Việt bằng cách mở [Issues](https://github.com/duy103zxc/avrt-vi/issues) trên Github).
 
 ## Các hướng dẫn cụ thể
 
