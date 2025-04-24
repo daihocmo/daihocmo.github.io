@@ -2,7 +2,7 @@
 
 Có lẽ bạn đang vật lộn với một thói quen dai dẳng, một ham muốn khó kiểm soát, hay thứ mà nhiều người gọi là "nghiện". Cảm giác bị cuốn vào một vòng lặp, biết rõ điều đó không tốt cho mình nhưng vẫn không thể dừng lại, là một trải nghiệm đầy bế tắc và ám ảnh. Chúng ta thường cảm thấy bất lực, tự trách bản thân, và tin rằng mình thiếu ý chí và đã nghiện thì *không thể lào cai*.
 
-Quan niệm phổ biến cho rằng việc thoát khỏi sự kìm kẹp của nghiện là một cuộc chiến đòi hỏi sức mạnh ý chí phi thường và những nỗ lực không ngừng nghỉ để chống lại ham muốn. Chúng ta được dạy rằng nghiện là một phần của con người mình, một "con quỷ" luôn rình rập và có thể tái phát bất cứ lúc nào. Chính những niềm tin này đôi khi lại là rào cản lớn nhất, khiến chúng ta nản lòng ngay cả trước khi bắt đầu hoặc dễ dàng bỏ cuộc khi gặp khó khăn.
+Quan niệm phổ biến cho rằng việc thoát khỏi sự kìm kẹp của nghiện là một cuộc chiến đòi hỏi sức mạnh ý chí phi thường và những nỗ lực không ngừng nghỉ để chống lại ham muốn. Chúng ta được dạy rằng nghiện là một phần của con người mình, một "con quỷ" luôn rình rập và có thể tái phát bất cứ lúc nào. Chính những niềm tin lại chính là rào cản khiến chúng ta nản lòng ngay cả trước khi bắt đầu hoặc dễ dàng bỏ cuộc khi gặp khó khăn.
 
 Tuy nhiên, điều gì sẽ xảy ra nếu cách chúng ta nhìn nhận về nghiện lại là một phần của vấn đề? Điều gì sẽ xảy ra nếu có những cách tiếp cận khác, không dựa trên ý chí hay cuộc chiến chống lại bản thân, mà giúp chúng ta hiểu rõ hơn bản chất của cái bẫy tâm lý mang tên **nghiện**?
 

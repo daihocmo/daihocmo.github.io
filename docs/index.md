@@ -16,7 +16,24 @@ Trang vốn được tạo ra để hoạt động tương tự như bộ não t
 
 Bạn có thể đọc bài hướng dẫn đơn giản về *Tự học cách tự học* dưới đây:
 
-[Bắt đầu tự học cách tự học](huong-dan/he-thong.md){ .md-button .md-button--stretch-max-sm }
+<div class="grid" markdown>
+
+[:material-school: Hướng dẫn tự học cách tự học](huong-dan/he-thong.md){ .md-button .md-button--primary .md-button--stretch }
+
+[:school: Tự học đại học tại nhà](chuong-trinh/dai-hoc.md){ .md-button .md-button--primary .md-button--stretch }
+
+</div>
+
+Đồng thời, bạn cũng có thể tham gia xây dựng trang hay tham gia các cộng đồng học:
+
+<div class="grid" markdown>
+
+[:material-git: Xây dựng trang](dong-gop/index.md){ .md-button .md-button--primary .md-button--stretch }
+
+[:simple-discord: Tham gia cộng đồng](cong-dong.md){ .md-button .md-button--primary .md-button--stretch }
+</div>
+
+
 
 Cảm ơn bạn vì đã dành thời gian đọc cái trang này! 
 

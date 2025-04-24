@@ -1,8 +1,8 @@
 # Đại học
 
-"Đại học" ở đây là "học lớn" và bạn có thể coi nó đồng nghĩa với từ "chuyên ngành". Bạn không nhất thiết phải là sinh viên đại học để có thể được học những kiến thức dưới đây
+Khái niệm "Đại học" ở đây được hiểu là cấp độ *học lớn* - tức là nghiên cứu và tìm hiểu chuyên sâu về một lĩnh vực hoặc chuyên ngành. Trang tổng hợp này được tạo ra để hỗ trợ những ai muốn đạt được trình độ kiến thức sâu sắc trong một lĩnh vực nhất định thông qua con đường tự học.
 
-**Trang chủ:** [Tự học đại học tại nhà](https://daihocmo.github.io/tu-hoc-dai-hoc/) - Tổng hợp rất nhiều lộ trình tự học cho nhiều ngành học (Cả bằng Tiếng Anh lẫn Tiếng Việt). Dưới đây là các chuyên ngành được hỗ trợ:
+Chương trình này không giới hạn đối tượng tham gia là sinh viên đại học. Bất kỳ ai có mong muốn học hỏi một cách bài bản, hệ thống và đi sâu vào kiến thức chuyên ngành đều được chào đón. Bạn có thể tự do khám phá và học theo lộ trình phù hợp với mình, biến cái trang này thành một giảng đường đại học của riêng mình.
 
 ### Nghệ thuật
 
