@@ -2,42 +2,14 @@
 
 ![](assets/cover.png)
 
-*Cảnh báo: Không phải dân thiết kế.*
-
-**Khu học mở** là một trang hướng dẫn, lộ trình và tổng hợp cách học lẫn tài nguyên cho rất nhiều môn học lẫn lĩnh vực khác nhau. Các tài nguyên được tổng hợp ở trang phần lớn là các tài nguyên được các tác giả và cộng đồng làm và chia sẻ hoàn toàn miễn phí trên mạng và mình chỉ đơn giản là người tổng hợp lại những gì mình (với rất nhiều người khác nữa) đã tìm được và thấy nó hữu ích. Mong rằng những hướng dẫn dưới đây sẽ giúp bạn có thể tự học tốt hơn.
-
-* Tự học miễn phí với lộ trình và tài nguyên chọn lọc.
-* Một số chủ đề: Ngoại ngữ, giáo dục phổ thông, đại học, chuyên ngành, kỹ năng.
-* Cộng đồng chia sẻ kiến thức, hỗ trợ tự học.
+**Khu học mở** là một trang hướng dẫn, lộ trình và tổng hợp cách học lẫn tài nguyên cho rất nhiều môn học lẫn lĩnh vực khác nhau. Các tài nguyên được tổng hợp ở trang phần lớn là các tài nguyên được các tác giả và cộng đồng làm và chia sẻ hoàn toàn miễn phí trên mạng và mình chỉ đơn giản là người tổng hợp lại những gì mình (với rất nhiều người khác nữa) đã tìm được và thấy nó hữu ích.
 
 Bạn chỉ cần có một thiết bị có thể truy cập mạng là có thể bắt đầu học (Chắc chắn bạn có vì để đọc được trang này thì bạn cần mạng để truy cập).
 
-Trang vốn được tạo ra để hoạt động tương tự như bộ não thứ của mình, và mong là nó cũng sẽ hỗ trợ được bạn trong quá trình học tập, rèn luyện và làm việc của riêng mình. Nay trang đã được thiết kế lại tương tự một "*quyển sách*" mà không cần phải đọc theo trình tự. Bạn có thể đọc bất kì bài viết nào bạn muốn đọc!
+!!! info "Cách đọc trang"
+    Trang được thiết kế lại tương tự một "*quyển sách*" và không cần phải đọc theo trình tự. Bạn có thể đọc bất kì bài viết nào bạn muốn đọc!
 
-Bạn có thể đọc bài hướng dẫn đơn giản về *Tự học cách tự học* dưới đây:
+Cảm ơn mọi người khá nhiều,
 
-<div class="grid" markdown>
-
-[:material-school: Hướng dẫn tự học cách tự học](huong-dan/he-thong.md){ .md-button .md-button--primary .md-button--stretch }
-
-[:school: Tự học đại học tại nhà](chuong-trinh/dai-hoc.md){ .md-button .md-button--primary .md-button--stretch }
-
-</div>
-
-Đồng thời, bạn cũng có thể tham gia xây dựng trang hay tham gia các cộng đồng học:
-
-<div class="grid" markdown>
-
-[:material-git: Xây dựng trang](dong-gop/index.md){ .md-button .md-button--primary .md-button--stretch }
-
-[:simple-discord: Tham gia cộng đồng](cong-dong.md){ .md-button .md-button--primary .md-button--stretch }
-</div>
-
-
-
-Cảm ơn bạn vì đã dành thời gian đọc cái trang này! 
-
-Cảm ơn khá nhiều (một lần nữa),
-
-*duykhanh471* (và khá nhiều [tình nguyện viên](cam-on.md) nữa).
+*duykhanh471* (và khá nhiều [tình nguyện viên khác](cam-on.md) nữa).
 

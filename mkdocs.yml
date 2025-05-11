@@ -6,10 +6,13 @@ repo_name: Cùng xây dựng Khu học mở
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Hướng dẫn chung': 
-    - 'Hệ thống': 'huong-dan/he-thong.md'
-    - 'Tự học': 'huong-dan/tu-hoc.md'
-    - 'Đọc': 'huong-dan/doc.md'
+  - 'Hướng dẫn tân thủ': 
+    - 'Hệ thống & Thói quen': 'huong-dan/he-thong.md'
+    - 'Tự học cách tự học': 'huong-dan/tu-hoc.md'
+    - 'Cách đọc': 'huong-dan/doc.md'
+    - 'Ghi nhớ': 'huong-dan/ghi-nho.md'
+    - 'Chuẩn bị & Thực hành': 'huong-dan/prep-practice.md'
+    - 'Đam mê & Kĩ năng': 'huong-dan/dam-me-va-ki-nang.md'
     - 'Bộ não thứ hai': 'huong-dan/bo-nao-thu-hai.md'
     - 'Tiếp theo': 'huong-dan/tiep-theo.md'
   - 'Chương trình học':

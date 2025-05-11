@@ -10,7 +10,7 @@ Bộ não thứ hai là tập hợp những phương pháp, công cụ được 
 
 ### Hướng dẫn rất chi là cơ bản
 
-Combo đơn giản: Bánh mì (Obsidian) + patê (Zettelkasten)
+Combo đơn giản: Obsidian + Zettelkasten
 
 Phương pháp chúng ta sẽ sử dụng là **Zettelkasten** thông qua bài viết [Ghi chú với phương pháp "hộp gỗ" Zettelkasten](https://vietcetera.com/onboardy/ghi-chu-voi-phuong-phap-hop-go-zettelkasten) trên trang Vietcetera.
 
