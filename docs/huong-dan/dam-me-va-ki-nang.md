@@ -1,4 +1,4 @@
-# Kỹ năng đi trước đam mê
+# Quá đỉnh để bị khước từ
 
 Về cơ bản đây là bài viết về cuốn sách So Good They Can’t Ignore You của Cal Newport được viết bởi [FormYourSoul](https://spiderum.com/nguoi-dung/FormYourSoul) trên Spiderum: [Bài viết gốc](https://spiderum.com/bai-dang/Tom-tat-sach-So-Good-They-Cant-Ignore-You-Ky-nang-di-truoc-dam-me-9h4).
 

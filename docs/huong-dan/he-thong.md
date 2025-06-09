@@ -1,17 +1,12 @@
 # Thói quen, hệ thống và không ngày số 0
 
-!!! info "Credit"
-    Một phần (gần như toàn bộ bài viết) được viết bởi [thefoolwhodreams](https://spiderum.com/nguoi-dung/kaitokid14121998) trên Spiderum. Bài viết có tiêu đề [Atomic Habits: Bạn đã hiểu đúng về tạo lập thói quen?](https://spiderum.com/bai-dang/Gioi-thieu-Atomic-Habits-Lieu-ban-co-thuc-su-hieu-ve-viec-tao-lap-thoi-quen-YsBHNEgJ418B)
-
-## Tập trung vào hệ thống thay vì đặt mục tiêu
-
 > Đặt cho mình một mục đích quá cao để rồi không thể đạt được thật là một việc chẳng những vô ích lại còn nguy hiểm là khác.
 >
 > Nguyễn Duy Cần
 
 Mục tiêu là chúng ta sẽ đạt được gì, hệ thống là chúng ta sẽ thực hiện nó như thế nào.
 
-Tất cả mọi người khi muốn tạo lập thói quen mới thường sẽ đặt ra các mục tiêu, như giảm được 5kg sau hai tháng chạy bộ, mỗi tháng đọc hết một cuốn sách. Điều này không sai, nhưng đôi khi chúng ta quá tập trung vào mục tiêu mà quên tạo ra một lộ trình rõ ràng để đi đến mục tiêu đó. Trong cuốn sách, James Clear đã đưa ra 4 lý do vì sao ta không nên quá tập trung vào mục tiêu: 
+Tất cả mọi người khi muốn tạo lập thói quen mới thường sẽ đặt ra các mục tiêu, như giảm được 5kg sau hai tháng chạy bộ, mỗi tháng đọc hết một cuốn sách. Điều này không sai, nhưng đôi khi chúng ta quá tập trung vào mục tiêu mà quên tạo ra một lộ trình rõ ràng để đi đến mục tiêu đó. Trong cuốn sách Thói quen nguyên tử, James Clear đã đưa ra 4 lý do vì sao ta không nên quá tập trung vào mục tiêu: 
 
 **(1)** Người thắng lẫn kẻ thua đều có cùng mục tiêu, người chiến thắng là người biết làm thế nào để đạt được mục tiêu
 
@@ -47,15 +42,15 @@ Xin được trích dẫn một đoạn mà mình thấy rất hay (Từ sách T
 
 ## Không ngày số không: Một hệ thống được đơn giản hóa
 
-Lan man như thế để thấy thói quen có ánh hưởng rất quan trọng đến cuộc sống của mỗi người, và để tạo một thói quen, ta không chỉ đặt mục tiêu mà còn phải thiết kế một "hệ thống".
+Lan man như thế để thấy thói quen có ánh hưởng rất quan trọng đến cuộc sống của mỗi người, và để tạo một thói quen, ta không chỉ đặt mục tiêu mà còn phải thiết kế một hệ thống.
 
-Muốn xây dựng được một hệ thống tốt, trước hết phải hiểu các bước hình thành một thói quen. Một trong những cách đơn giản nhất để bắt đầu là xây dựng một hệ thống "không số không".
-
-> "Học cái tốt thì khó, ví như người ta leo núi, phải vất vả, khó nhọc mới lên đến đỉnh. Học cái xấu thì dễ, như ở trên đỉnh núi trượt chân một cái là nhào xuống vực sâu"
->
+> Tôi khuyên các bạn là chớ đặt những chương trình kế hoạch mênh mông, đọc nghe sướng tai nhưng không thực hiện được. Việc gì cũng cần phải thiết thực, nói được, làm được. Việc gì cũng phải từ nhỏ dần dần đến to, từ dễ dần đến khó, từ thấp dần đến cao. Một chương trình nhỏ mà thực hành được hẳn hoi hơn là một trăm chương trình to tát mà không làm được.
+> 
 > Hồ Chí Minh
 
-Một *ngày số không* là một ngày bạn không làm BẤT CỨ ĐIỀU GÌ để tiến gần hơn đến mục tiêu, ước mơ hay bất cứ thứ gì bạn muốn. Đó là những ngày bạn mắc kẹt trong sự trì hoãn, thiếu động lực và cảm thấy bản thân không làm được cái gì ra hồn.
+Một trong những cách đơn giản nhất để bắt đầu là xây dựng một hệ thống "không số không" - một hệ thống chỉ *toàn* những ngày không số 0.
+
+Vậy thì một *ngày số 0* là gì? Một *ngày số 0* là một ngày bạn không làm BẤT CỨ ĐIỀU GÌ để tiến gần hơn đến mục tiêu, ước mơ hay bất cứ thứ gì bạn muốn. Đó là những ngày bạn mắc kẹt trong sự trì hoãn, thiếu động lực và cảm thấy bản thân không làm được cái gì ra hồn.
 
 Vậy nên, nguyên tắc đầu tiên và cũng là nguyên tắc quan trọng nhất của phương pháp này là: **Cam kết rằng sẽ không còn ngày số không nào nữa trong cuộc sống của bản thân.**
 
@@ -70,13 +65,13 @@ Cả ngày hôm nay bạn đã không làm được cái gì? Chỉ còn một v
 
 Chỉ cần hoàn thành một việc nhỏ là đủ, bởi vì **1 LÀ KHÔNG PHẢI 0**. Điều quan trọng nhất không phải là khối lượng bạn làm được, mà là bạn có chịu **HÀNH ĐỘNG** để phá vỡ trạng thái "số không" hay không. Thay vì đặt nặng kết quả, hãy tập trung vào quá trình.
 
-> Tôi khuyên các bạn là chớ đặt những chương trình kế hoạch mênh mông, đọc nghe sướng tai nhưng không thực hiện được. Việc gì cũng cần phải thiết thực, nói được, làm được. Việc gì cũng phải từ nhỏ dần dần đến to, từ dễ dần đến khó, từ thấp dần đến cao. Một chương trình nhỏ mà thực hành được hẳn hoi hơn là một trăm chương trình to tát mà không làm được.
-> 
-> Hồ Chí Minh
-
 ## Tìm hiểu thêm về việc lập thói quen
 
 Do mục tiêu của bài viết này là những *tân thủ* trong quá trình tự học, mình sẽ không đi quá chi tiết vào việc tạo lập thói quen ở đây. Bạn có thể bắt đầu thực hành hệ thống "Không số không" mà mình đã đề cập ở trên. Sau đó, nếu muốn tìm hiểu sâu hơn về thói quen thì bạn có thể đọc thêm:
 
 - [Atomic Habits: Bạn đã hiểu đúng về tạo lập thói quen?](https://spiderum.com/bai-dang/Gioi-thieu-Atomic-Habits-Lieu-ban-co-thuc-su-hieu-ve-viec-tao-lap-thoi-quen-YsBHNEgJ418B)
 - [Các bước để xây dựng một thói quen mới](https://spiderum.com/bai-dang/Cac-buoc-de-xay-dung-mot-thoi-quen-moi-7uz)
+
+### Nguồn
+
+Một phần (gần như toàn bộ bài viết) được viết bởi [thefoolwhodreams](https://spiderum.com/nguoi-dung/kaitokid14121998) trên Spiderum. Bài viết có tiêu đề [Atomic Habits: Bạn đã hiểu đúng về tạo lập thói quen?](https://spiderum.com/bai-dang/Gioi-thieu-Atomic-Habits-Lieu-ban-co-thuc-su-hieu-ve-viec-tao-lap-thoi-quen-YsBHNEgJ418B)

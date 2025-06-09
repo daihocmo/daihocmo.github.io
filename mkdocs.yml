@@ -5,8 +5,8 @@ repo_url: https://github.com/daihocmo/daihocmo.github.io
 repo_name: Cùng xây dựng Khu học mở
 
 nav:
-  - 'Trang chủ': 'index.md'
-  - 'Hướng dẫn tân thủ': 
+  - 'Đại sảnh': 'index.md'
+  - 'Hướng dẫn': 
     - 'Hệ thống & Thói quen': 'huong-dan/he-thong.md'
     - 'Tự học cách tự học': 'huong-dan/tu-hoc.md'
     - 'Cách đọc': 'huong-dan/doc.md'
@@ -15,8 +15,9 @@ nav:
     - 'Đam mê & Kĩ năng': 'huong-dan/dam-me-va-ki-nang.md'
     - 'Bộ não thứ hai': 'huong-dan/bo-nao-thu-hai.md'
     - 'Tiếp theo': 'huong-dan/tiep-theo.md'
-  - 'Chương trình học':
-    - 'Mầm non & Tiểu học': 'chuong-trinh/mam-non-va-tieu-hoc.md'
+  - 'Định hướng':
+    - 'Mầm non': 'chuong-trinh/mam-non.md'
+    - 'Tiểu học': 'chuong-trinh/tieu-hoc.md'
     - 'Trung học': 'chuong-trinh/trung-hoc.md'
     - 'Đại học': 'chuong-trinh/dai-hoc.md'
     - 'Ngoại ngữ': 'chuong-trinh/ngoai-ngu.md'
@@ -24,10 +25,11 @@ nav:
     - 'Kĩ năng': 'chuong-trinh/ki-nang-mem.md'
     - 'Thoát nghiện': 'chuong-trinh/thoat-nghien.md'
     - 'Khác': 'chuong-trinh/hoc-gi.md'
-  - 'Tài nguyên':
-    - 'Tài nguyên học tập': 'tai-nguyen/tai-nguyen.md'
+  - 'Kho':
+    - 'Kho tổng': 'tai-nguyen/tai-nguyen.md'
     - 'Kho sách': 'tai-nguyen/kho-sach.md'
-  - 'Thông tin thêm':
+    - 'Một cái búc mác': 'tai-nguyen/mot-cai-buc-mac.md'
+  - 'Wiki':
     - 'Cộng đồng': 'cong-dong.md'
     - 'Đóng góp & Xây dựng': 
       - 'Hướng dẫn': 'dong-gop/index.md'

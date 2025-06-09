@@ -1,10 +1,8 @@
 # Tránh cái bẫy “chuẩn bị mãi”: Chìa khóa để học nhanh
 
-> Bản dịch máy của bài viết [Avoiding the Prep Trap: A Key to Rapid Learning](https://blog.nateliason.com/p/prep-trap) - Đã soát lỗi (Lần 1)
-
 Tôi từng thử học đốt cháy giai đoạn tiếng Pháp.
 
-Hồi đó, khi vẫn còn là dân chuyên trong giới “học cấp tốc”, tôi biết hết các chiêu trò: phân tách kỹ năng, tìm điểm đòn bẩy kiểu “80/20”, dùng các công cụ như spaced repetition để ghi nhớ nhanh hơn. Nói chung, tôi nghĩ đây là dịp quá hợp để áp dụng hết mấy thứ đó.
+Hồi đó, khi vẫn còn là dân chuyên trong giới “học cấp tốc”, tôi biết hết các chiêu trò: phân tách kỹ năng, tìm điểm đòn bẩy kiểu “80/20”, dùng các công cụ như spaced repetition (Lặp lại ngắt quãng) để ghi nhớ nhanh hơn. Nói chung, tôi nghĩ đây là dịp quá hợp để áp dụng hết mấy thứ đó.
 
 Tôi dành cả tuần để ôn từ vựng, ngữ pháp, các câu nói thông dụng – đủ thứ cần thiết để giao tiếp với người bản xứ.
 
@@ -109,3 +107,6 @@ Tìm lấy một dự án nhỏ đầu tiên cho kỹ năng bạn muốn học, 
 
 Và chính khi bạn bắt đầu làm – đó mới là lúc **việc học thật sự bắt đầu.**
 
+### Nguồn
+
+Bản dịch máy của bài viết [Avoiding the Prep Trap: A Key to Rapid Learning](https://blog.nateliason.com/p/prep-trap) - Đã soát lỗi (Lần 1)

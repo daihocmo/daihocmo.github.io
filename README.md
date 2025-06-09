@@ -1,4 +1,4 @@
-# Tự học mọi thứ thông qua hướng dẫn, lộ trình và các nguồn tài nguyên miễn phí trên Internet
+# Khu học mở
 
 ## Giới thiệu
 
