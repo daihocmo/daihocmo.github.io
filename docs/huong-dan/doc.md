@@ -88,29 +88,30 @@ Một cuốn sách học thuật thường là lời đáp lại những gì ng�
 Đây là kỹ thuật then chốt. Bạn sẽ hiểu và tận dụng tối đa một cuốn sách nếu bạn đọc nó ba lần — mỗi lần với một mục đích khác nhau.
 
 **Lần 1: Khảo sát – để khám phá (5–10% tổng thời gian)**
+
 Lần đọc đầu tiên rất nhanh, bạn chỉ lướt để nắm cái nhìn tổng thể: tác giả đang nói gì, viết theo kiểu gì, và muốn đi đến đâu.
 
 Bạn không cần đọc kỹ, chỉ đánh dấu lại những tiêu đề, đoạn văn, hay cụm từ có vẻ quan trọng để quay lại sau. Cũng nên ghi ra vài câu hỏi để làm rõ khi đọc lần hai, ví dụ: “Thuật ngữ X nghĩa là gì?”, “Sao không nhắc đến chủ đề Y?”, hay “Z là ai?”
 
 **Lần 2: Đọc kỹ – để hiểu (70–80% tổng thời gian)**
+
 Lần này bạn đọc thật sự nghiêm túc để nắm rõ các luận điểm chính và cách tác giả chứng minh chúng.
 
 Tập trung vào phần đầu và cuối của chương, cũng như các đoạn bạn đã đánh dấu ở lần một. Cố gắng trả lời các câu hỏi bạn đã tự đặt ra.
 
 **Lần 3: Ghi chú – để nhớ và hệ thống lại (10–20% tổng thời gian)**
+
 Mục tiêu lần đọc cuối cùng là ghi nhớ những điều quan trọng. Ghi chú ngắn gọn lại các lập luận, bằng chứng, kết luận — bằng *chính lời của bạn*. Việc copy nguyên văn ít giúp bạn hiểu bằng việc tự tóm tắt ngắn gọn.
 
 Một chỉ tiêu tốt là: cứ 100 trang sách thì nên có khoảng 1–3 trang ghi chú. Nhiều quá cũng không giúp ích gì thêm. Nhớ đánh dấu số trang để dễ tra cứu lại. Bạn có thể ghi tay, gõ máy, hay kẹp giấy vào sách đều được — miễn là dễ tìm lại sau này.
 
 Một cách rất hay (tôi thường dùng) là nhập luôn ghi chú vào phần "ghi chú" của phần mềm quản lý trích dẫn như Endnote, Zotero hay Bookends.
 
-
 ### Thời gian và nhịp đọc
 
 Con người không thể tập trung lâu. Bạn sẽ hiểu sâu hơn nếu đọc ba lần mỗi lần 1 tiếng, hơn là cố ngồi liền 3 tiếng liên tục. Nhưng nhớ: để có được 1 tiếng đọc hiệu quả, bạn cần ít nhất 1 tiếng 15 phút — vì đầu buổi sẽ bị phân tâm một chút, và cuối buổi cũng cần thời gian để “thoát” ra chuẩn bị làm việc khác.
 
 Lập kế hoạch cụ thể. Ví dụ, với một cuốn 250 trang, tôi có thể dành 15 phút để lướt sơ, 4 tiếng đọc kỹ, và 20–30 phút ghi chú — tất nhiên điều chỉnh tuỳ độ khó, mức độ quan trọng và quỹ thời gian.
-
 
 ### Tập trung vào phần “đậm đặc thông tin”
 
@@ -136,7 +137,6 @@ Bạn nên tập trung lần lượt vào:
 * Tiêu đề các mục nhỏ
 * Chữ in đậm, in nghiêng, danh sách gạch đầu dòng
 
-
 ### Dùng PTML – “Ngôn ngữ đánh dấu cá nhân” (personal text markup language)
 
 Luôn luôn luôn đánh dấu khi đọc. Đừng chờ đến khi hiểu rõ rồi mới đánh dấu — hãy làm ngay từ lần đầu tiên. Những đánh dấu ban đầu sẽ giúp bạn tiết kiệm rất nhiều công sức khi đọc lại.
@@ -149,7 +149,9 @@ Bản in có độ phân giải cao gấp nhiều lần màn hình máy tính (6
 
 Việc đánh dấu trên màn hình vẫn còn bất tiện: thao tác nhiều bước, dễ bị xao nhãng vì email hay mạng xã hội, và hay quên mất việc xem lại ghi chú vì phải click mới hiện ra.
 
-Tuy vậy, nếu bạn đủ kỷ luật, các phần mềm như Acrobat, Apple Preview, PDFpen, iAnnotate, Goodreader hay Kindle đều có chức năng đánh dấu, highlight và ghi chú. Một số còn cho phép xuất riêng phần highlight để bạn dễ lưu trữ và tra cứu. Bạn có thể dán vào phần “ghi chú” của trình quản lý tài liệu để sau này tra lại nhanh chóng.
+![](img/screen-doc.png)
+
+Các phần mềm như Acrobat, Apple Preview, PDFpen, iAnnotate, Goodreader hay Kindle đều có chức năng đánh dấu, highlight và ghi chú. Một số còn cho phép xuất riêng phần highlight để bạn dễ lưu trữ và tra cứu. Bạn có thể dán vào phần “ghi chú” của trình quản lý tài liệu để sau này tra lại nhanh chóng.
 
 Khi ghi chú (khác với đánh dấu), bạn rất dễ bị cám dỗ "copy-paste" nguyên văn. Việc này có thể hữu ích nếu bạn muốn trích dẫn sau này, nhưng thường phản tác dụng nếu mục tiêu là hiểu và nhớ, vì bạn không tự xử lý lại thông tin.
 
@@ -176,7 +178,6 @@ Càng đọc lâu liền mạch, bạn càng nhanh mệt và dễ quên. Do đó
 
 Giữa các buổi đọc, bộ não sẽ “ngầm” xử lý nội dung. Khi quay lại, hãy tự hỏi: “Mình còn nhớ gì?”, “Ấn tượng điều gì?”, “Còn điều gì chưa hiểu?”
 
-
 ### Ôn luyện và đa dạng cách tiếp cận
 
 Đọc sách cũng giống như võ thuật, chơi bóng, hay nấu ăn — muốn nhớ thì phải luyện. Sau khi đọc xong, bạn cần “ôn tập”: tự kiểm tra, tranh luận với tác giả, tưởng tượng mình phải bảo vệ lập luận ấy ra sao.
@@ -192,9 +193,11 @@ Tất cả đều giúp bạn ghi nhớ và kết nối kiến thức mới vớ
 
 ### Chờ chút nào bạn ơi!
 
-Bạn sẽ phải thực hành các kỹ thuật này trong một khoảng thời gian đáng kể --- ít nhất là một vài tháng --- trước khi chúng trở thành một phần trong bạn. Chúng sẽ chẳng bao giờ dễ hơn so với cách đọc thụ động của chúng ta trong nhiều năm qua.
+Khi tôi trình bày những ý tưởng này, nhiều sinh viên thường nói với tôi vài tuần sau rằng họ "đã thử vài lần nhưng không làm được", nên cuối cùng bỏ cuộc.
 
-Đừng nóng vội. Phần thưởng của các kỹ thuật này là tuyệt vời, hoặc nói rằng hàng trăm sinh viên đã nói với tôi như vậy nhiều năm sau đó. Học cách đọc như thế này có thể là một chìa khóa quan trọng cho sự nghiệp thành công như một sinh viên, học giả hoặc chuyên nghiệp trong hầu hết mọi lĩnh vực
+Bạn sẽ cần phải luyện tập những kỹ thuật này trong một khoảng thời gian đáng kể — ít nhất là vài tháng — trước khi chúng trở nên tự nhiên. Và chúng sẽ không bao giờ dễ dàng hơn so với cách đọc thụ động, thoải mái mà chúng ta đã quen suốt bao năm qua.
+
+Nhưng phần thưởng mà các kỹ thuật này mang lại là rất lớn — ít nhất đó là điều mà hàng trăm sinh viên đã nói với tôi sau nhiều năm. Học cách đọc như thế này có thể là chìa khóa quan trọng giúp bạn thành công trong học tập, nghiên cứu hay bất kỳ lĩnh vực chuyên môn nào.
 
 ### Nguồn
 

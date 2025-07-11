@@ -5,17 +5,17 @@ repo_url: https://github.com/daihocmo/daihocmo.github.io
 repo_name: Cùng xây dựng Khu học mở
 
 nav:
-  - 'Đại sảnh': 'index.md'
-  - 'Hướng dẫn': 
-    - 'Hệ thống & Thói quen': 'huong-dan/he-thong.md'
+  - 'Trang chủ': 'index.md'
+  - 'Hướng dẫn bắt đầu': 
+    - 'Thói quen & Hệ thống': 'huong-dan/he-thong.md'
     - 'Tự học cách tự học': 'huong-dan/tu-hoc.md'
     - 'Cách đọc': 'huong-dan/doc.md'
     - 'Ghi nhớ': 'huong-dan/ghi-nho.md'
     - 'Chuẩn bị & Thực hành': 'huong-dan/prep-practice.md'
     - 'Đam mê & Kĩ năng': 'huong-dan/dam-me-va-ki-nang.md'
     - 'Bộ não thứ hai': 'huong-dan/bo-nao-thu-hai.md'
-    - 'Tiếp theo': 'huong-dan/tiep-theo.md'
-  - 'Định hướng':
+    - 'Nâng cao': 'huong-dan/nang-cao.md'
+  - 'Chương trình học':
     - 'Mầm non': 'chuong-trinh/mam-non.md'
     - 'Tiểu học': 'chuong-trinh/tieu-hoc.md'
     - 'Trung học': 'chuong-trinh/trung-hoc.md'
@@ -25,16 +25,18 @@ nav:
     - 'Kĩ năng': 'chuong-trinh/ki-nang-mem.md'
     - 'Thoát nghiện': 'chuong-trinh/thoat-nghien.md'
     - 'Khác': 'chuong-trinh/hoc-gi.md'
-  - 'Kho':
+  - 'Tài nguyên':
     - 'Kho tổng': 'tai-nguyen/tai-nguyen.md'
     - 'Kho sách': 'tai-nguyen/kho-sach.md'
     - 'Một cái búc mác': 'tai-nguyen/mot-cai-buc-mac.md'
-  - 'Wiki':
-    - 'Cộng đồng': 'cong-dong.md'
-    - 'Đóng góp & Xây dựng': 
-      - 'Hướng dẫn': 'dong-gop/index.md'
-      - 'Danh sách công việc': 'dong-gop/danh-sach-cong-viec.md'
-    - 'Lời cảm ơn': 'cam-on.md'
+  - 'Documentation':
+    - 'Hướng dẫn cơ bản': 'docs/getting-started.md'
+    - 'Hướng dẫn': 'docs/index.md'
+    - 'Danh sách công việc': 'docs/danh-sach-cong-viec.md'
+  - 'Thông tin thêm':
+    - 'Cộng đồng': 'about/cong-dong.md' 
+    - 'Lời cảm ơn': 'about/cam-on.md'
+    - 'Về dự án': 'about/index.md'
 
 theme:
   name: material
@@ -43,6 +45,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
   features:
+    - navigation.tabs
     - navigation.sections
     - navigation.top
     - toc.follow
@@ -93,3 +96,6 @@ markdown_extensions:
 plugins:
   - search
   - open-in-new-tab
+
+extra_css:
+  - stylesheets/homepage.css

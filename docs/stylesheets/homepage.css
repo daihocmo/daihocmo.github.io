@@ -1,0 +1,23 @@
+#homepage-title-wrapper {
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 200%;
+    font-weight: 700;
+}
+
+#homepage-title {
+    background: linear-gradient(to right, #406682, #9eafbf);
+    background-clip: text;
+    width: fit-content;
+    height: fit-content;
+    color: transparent;
+}
+
+/* [data-md-color-scheme="slate"] {
+    #homepage-title {
+        background: linear-gradient(to right, #c013ff, #00eeff);
+        background-clip: text;
+        color: transparent;
+    }
+} */
