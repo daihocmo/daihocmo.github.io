@@ -46,4 +46,4 @@ hide:
 
 Cảm ơn mọi người khá nhiều,
 
-*duykhanh471* (và khá nhiều [tình nguyện viên khác](cam-on.md) nữa).
+*duykhanh471* (và khá nhiều [tình nguyện viên khác](about/cam-on.md) nữa).

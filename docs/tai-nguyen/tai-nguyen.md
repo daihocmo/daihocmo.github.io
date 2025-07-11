@@ -18,14 +18,18 @@ Tất cả đều đã được tổng hợp trong [Tất tần tật về tài 
 - [Betonamgo](https://daihocmo.github.io/betonamgo) - Awesome Vietnamese learning resources.
 - [Vietnamese Media Recommedation Spreadsheet](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-viet/)
 
+## Các kiến thức khác
+### Lập trình
 
-## Lập trình
+- [Tổng hợp tài nguyên tự học lập trình](https://daihocmo.github.io/lap-trinh/) - Một kho tổng hợp rất nhiều nội dung về học lập trình bằng Tiếng Việt.
 
-- [Tổng hợp tài nguyên tự học lập trình](https://daihocmo.github.io/awesome-lap-trinh/) - Một kho tổng hợp rất nhiều nội dung về học lập trình bằng Tiếng Việt.
-
-## Lưu trữ
+### Lưu trữ
 
 Các trang cũ của Khu học mở sẽ không còn nhận được cập nhật nữa. Nếu bạn muốn cải thiện các trang dưới đây thì hoàn toàn có thể liên hệ với mình và gửi bản cải thiện ở các mục tương ứng.
 
 - [Tiếng Anh chuyên ngành](https://daihocmo.github.io/archive/tieng-anh-chuyen-nganh/main-guide/)
 - [Tự luyện Tiếng Anh](https://daihocmo.github.io/archive/tu-luyen-tieng-anh/main-guide/)
+
+## Không thuộc Khu học mở
+
+Tự học rất nhiều thứ cho cái sở thích của mình. Có thể tham khảo [learn-anything.xyz](https://learn-anything.xyz/)

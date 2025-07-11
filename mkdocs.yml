@@ -10,33 +10,29 @@ nav:
     - 'Thói quen & Hệ thống': 'huong-dan/he-thong.md'
     - 'Tự học cách tự học': 'huong-dan/tu-hoc.md'
     - 'Cách đọc': 'huong-dan/doc.md'
-    - 'Ghi nhớ': 'huong-dan/ghi-nho.md'
     - 'Chuẩn bị & Thực hành': 'huong-dan/prep-practice.md'
-    - 'Đam mê & Kĩ năng': 'huong-dan/dam-me-va-ki-nang.md'
+    - 'Ghi nhớ': 'huong-dan/ghi-nho.md'
     - 'Bộ não thứ hai': 'huong-dan/bo-nao-thu-hai.md'
-    - 'Nâng cao': 'huong-dan/nang-cao.md'
+    - 'Mở rộng': 'huong-dan/mo-rong.md'
+    - 'Thoát nghiện': 'huong-dan/thoat-nghien.md'
   - 'Chương trình học':
-    - 'Mầm non': 'chuong-trinh/mam-non.md'
-    - 'Tiểu học': 'chuong-trinh/tieu-hoc.md'
-    - 'Trung học': 'chuong-trinh/trung-hoc.md'
-    - 'Đại học': 'chuong-trinh/dai-hoc.md'
+    - 'Tổng quan': 'chuong-trinh/index.md'
+    - 'Học sinh': 'chuong-trinh/hoc-sinh.md'
+    - 'Đại học/Chuyên ngành': 'chuong-trinh/dai-hoc.md'
     - 'Ngoại ngữ': 'chuong-trinh/ngoai-ngu.md'
-    - 'Sự nghiệp': 'chuong-trinh/su-nghiep.md'
     - 'Kĩ năng': 'chuong-trinh/ki-nang-mem.md'
-    - 'Thoát nghiện': 'chuong-trinh/thoat-nghien.md'
-    - 'Khác': 'chuong-trinh/hoc-gi.md'
-  - 'Tài nguyên':
+    - 'Sở thích': 'chuong-trinh/so-thich.md'
+  - 'Tổng hợp & Đề xuất':
     - 'Kho tổng': 'tai-nguyen/tai-nguyen.md'
     - 'Kho sách': 'tai-nguyen/kho-sach.md'
-    - 'Một cái búc mác': 'tai-nguyen/mot-cai-buc-mac.md'
   - 'Documentation':
-    - 'Hướng dẫn cơ bản': 'docs/getting-started.md'
-    - 'Hướng dẫn': 'docs/index.md'
+    - 'Hướng dẫn cơ bản': 'docs/index.md'
+    - 'Phân loại công việc': 'docs/phan-loai-cong-viec.md'
     - 'Danh sách công việc': 'docs/danh-sach-cong-viec.md'
   - 'Thông tin thêm':
+    - 'Về dự án': 'about/index.md'
     - 'Cộng đồng': 'about/cong-dong.md' 
     - 'Lời cảm ơn': 'about/cam-on.md'
-    - 'Về dự án': 'about/index.md'
 
 theme:
   name: material
