@@ -6,24 +6,24 @@ repo_name: Cùng xây dựng Khu học mở
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Hướng dẫn bắt đầu':
-    - 'Khởi đầu':
-      - 'Thói quen & Hệ thống': 'huong-dan/he-thong.md'
-      - 'Thoát nghiện': 'huong-dan/thoat-nghien.md'
-      - 'Xây dựng thói quen': 'huong-dan/thoi-quen.md'
-    - 'Đọc thêm':
-      - 'Tự học cách tự học': 'huong-dan/tu-hoc.md'
-      - 'Cách đọc': 'huong-dan/doc.md'
-      - 'Chuẩn bị & Thực hành': 'huong-dan/prep-practice.md'
+  - 'Hướng dẫn tự học':
+    - 'Mục lục': 'huong-dan/index.md'
+    - 'Tự học': 'huong-dan/tu-hoc.md'
+    - 'Ảo tưởng': 'huong-dan/ao-tuong.md'
+    - 'Thói quen & Hệ thống': 'huong-dan/he-thong.md'
+    - 'Xây dựng thói quen': 'huong-dan/thoi-quen.md'
+    - 'Đọc sách': 'huong-dan/doc-sach.md'
+    - 'Đọc sách gì?': 'huong-dan/doc-sach-gi.md'
+    - 'Cách đọc': 'huong-dan/cach-doc.md'
+    - 'Viết': 'huong-dan/viet.md'
+    - 'Thoát nghiện': 'huong-dan/thoat-nghien.md'
   - 'Chương trình học':
     - 'Tổng quan': 'chuong-trinh/index.md'
-    - 'Học sinh': 'chuong-trinh/hoc-sinh.md'
-    - 'Chuyên ngành': 'chuong-trinh/dai-hoc.md'
+    - 'Học làm người': 'chuong-trinh/hoc-lam-nguoi.md'
     - 'Ngoại ngữ': 'chuong-trinh/ngoai-ngu.md'
-  - 'Tổng hợp & Đề xuất':
-    - 'Kho tổng': 'tai-nguyen/tai-nguyen.md'
-    - 'Gợi ý sách': 'tai-nguyen/kho-sach.md'
-  - 'Documentation':
+    - 'Học sinh phổ thông (Từ Tiểu học đến THPT)': 'chuong-trinh/hoc-sinh.md'
+    - 'Chuyên ngành': 'chuong-trinh/dai-hoc.md'
+  - 'Đóng góp & Xây dựng trang':
     - 'Hướng dẫn cơ bản': 'docs/index.md'
     - 'Phân loại công việc': 'docs/phan-loai-cong-viec.md'
     - 'Danh sách công việc': 'docs/danh-sach-cong-viec.md'
@@ -91,5 +91,5 @@ plugins:
   - search
   - open-in-new-tab
 
-extra_css:
-  - stylesheets/homepage.css
+copyright: |
+  <a href="https://daihocmo.github.io">Một dự án của Khu học mở</a>

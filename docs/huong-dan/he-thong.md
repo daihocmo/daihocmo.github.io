@@ -32,32 +32,6 @@ Như vậy, thay đổi thói quen phải song hành với thay đổi căn tín
 
 Mỗi hành động bạn làm sẽ bỏ phiếu cho kiểu người bạn muốn trở thành. Quên bỏ phiếu một vài lần ư? Không sao hết, miễn là hòm phiếu của bạn mong muốn vẫn chiếm đa số, thì bạn vẫn đang trên con đường trở thành người mà bạn muốn trở thành.
 
-## Không ngày số không
-
 > Tôi khuyên các bạn là chớ đặt những chương trình kế hoạch mênh mông, đọc nghe sướng tai nhưng không thực hiện được. Việc gì cũng cần phải thiết thực, nói được, làm được. Việc gì cũng phải từ nhỏ dần dần đến to, từ dễ dần đến khó, từ thấp dần đến cao. Một chương trình nhỏ mà thực hành được hẳn hoi hơn là một trăm chương trình to tát mà không làm được.
 > 
 > Hồ Chí Minh
-
-Nếu bạn chưa biết mình nên bắt đầu bắt đầu xây dựng một hệ thống thói quen từ đâu thì có thể thử nguyên tắc không ngày số 0 như một bước khởi động đầu tiên.
-
-Vậy “ngày số 0” là gì?  
-Đó là một ngày bạn không làm *bất cứ điều gì* để tiến gần hơn đến mục tiêu, ước mơ hay phiên bản tốt hơn của chính mình. Đó là những ngày trì trệ, thiếu động lực, và bạn cảm thấy mình không làm được gì cả.
-
-Vì thế, nguyên tắc quan trọng nhất là: **Hãy cam kết không để một ngày số 0 nào xuất hiện trong cuộc sống của bạn nữa**.
-
-Điều đó không có nghĩa là bạn phải làm việc quần quật hay đạt thành tựu to lớn mỗi ngày. Mấu chốt là: mỗi ngày cần có ít nhất một hành động, dù nhỏ, hướng về điều bạn đang theo đuổi.
-
-Cả ngày hôm nay bạn chưa làm được gì? Chỉ còn vài phút là hết ngày? Hãy làm một việc đơn giản:
-
-- Đọc một trang sách.  
-- Viết vài dòng nhật ký.  
-- Gập bụng 5 cái.
-
-Chỉ cần hoàn thành một việc nhỏ là đủ, bởi vì **1 LÀ KHÔNG PHẢI 0**. Điều quan trọng nhất không phải là khối lượng bạn làm được, mà là bạn có chịu **HÀNH ĐỘNG** để phá vỡ trạng thái "số không" hay không. Thay vì đặt nặng kết quả, hãy tập trung vào quá trình.
-
-## Ghi chú thêm
-
-### Tham khảo
-
-- [Atomic Habits: Bạn đã hiểu đúng về tạo lập thói quen?](https://spiderum.com/bai-dang/Gioi-thieu-Atomic-Habits-Lieu-ban-co-thuc-su-hieu-ve-viec-tao-lap-thoi-quen-YsBHNEgJ418B) - [thefoolwhodreams](https://spiderum.com/nguoi-dung/kaitokid14121998)
-- [Non-Zero Days and the Three You's](http://www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/cdah4af) ([/r/NonZeroDay](https://old.reddit.com/r/NonZeroDay))

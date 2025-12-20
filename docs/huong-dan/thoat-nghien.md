@@ -1,4 +1,4 @@
-# Thoát nghiện, tiến hóa
+# Thoát nghiện
 
 Trong không ít các hướng dẫn liên quan đến cai nghiện, mọi người thường nhấn mạnh vào sự ý chí, nỗ lực, cố gắng để chiến thắng bản thân, chống lại những cám dỗ như mạng xã hội, đồ ăn vặt, video game, hay thuốc lá hoặc rượu bia.
 
@@ -9,12 +9,6 @@ Trước khi tìm hiểu sâu hơn về nghiện, chúng ta cần bàn đến fr
 ## Định nghĩa lại khái niệm "nghiện"
 
 Vậy thì, *nghiện* là gì? Theo cách hiểu của phần lớn mọi người, nghiện là khi mọi người thực hiện một hành động nhất định với tần suất quá thường xuyên, tới mức ám ảnh, như: "nghiện" game, "nghiện" cờ bạc, "nghiện" mua sắm. Vậy thì có phải mình nghiện thở hay ăn không vì gần như lúc nào mình cũng thở và mình ăn đủ 3 bữa mỗi ngày?
-
-Tại sao bạn thở? Vì bạn cần thở để sống.
-
-Tại sao bạn ăn? Vì bạn cần ăn để sống.
-
-Tại sao bạn ăn cả đống đồ ăn vặt bất chấp cơ thể đang tăng cân liên tục cũng như cả đống bệnh tật kéo đến? Vì bạn cần *ăn* những thứ đồ ăn đấy?
 
 Sự tương đồng giữa các hoạt động sinh tồn thiết yếu với các hành vi gây nghiện khiến cho bạn khó lòng dừng lại những điều mà bản thân làm. Về cơ bản, nghiện là những hành động bạn thực hiện vì cái cảm giác bạn *cần* phải làm vậy, nó đánh vào bản năng sinh tồn trong mỗi con người, nhưng trên thực tế nó không có ý nghĩa gì trong việc sinh tồn của bạn cả.
 
@@ -44,13 +38,11 @@ Do bản chất của nghiện khiến bạn coi nó chẳng khác gì một ho�
 
 Vậy thì, giải pháp là gì?
 
-*Tất cả những gì chúng ta cần làm chỉ là ngừng làm điều đó lại* (sau khi bạn đã hiểu về bản chất của nghiện, cũng như được đọc những phương pháp đúng để đưa mình ra khỏi cái bẫy này).
-
 > Thoát nghiện không phải là một quá trình, mà là một sự kiện.
 >
 > _Jack Trimpey_
 
-Mọi người thường nghĩ rằng phải từ từ, từng bước và dần dần thì cơn nghiện cũng sẽ biến mất khỏi tâm trí của mọi người. Nhưng trên thực tế điều này HOÀN TOÀN SAI.
+*Tất cả những gì chúng ta cần làm chỉ là ngừng làm điều đó lại* (sau khi bạn đã hiểu về bản chất của nghiện, cũng như được đọc những phương pháp đúng để đưa mình ra khỏi cái bẫy này). Mọi người thường nghĩ rằng phải từ từ, từng bước và dần dần thì cơn nghiện cũng sẽ biến mất khỏi tâm trí của mọi người. Nhưng trên thực tế điều này HOÀN TOÀN SAI.
 
 Hãy thử lấy ví dụ về cuộc hội thoại không được tự nhiên cho lắm của hai ông bạn, một ông tên Tí, một ông tên Tèo:
 
@@ -86,22 +78,20 @@ Các cuốn dưới đây sẽ là bằng Tiếng Anh:
 - Allen Carr's Easyway to Quit Vaping - Thoát nghiện thuốc lá điện tử
 - [Rational Recovery](https://archive.org/details/rationalrecovery00trim)
 
-## Về cái tiêu đề
+## Để tiến hóa
 
-Tại sao thoát nghiện lại nên là điều đầu tiên bạn cần làm để có thể *tiến hóa*?
+Tại sao thoát nghiện lại nên là điều đầu tiên bạn cần làm để có thể *tiến hóa*? 
 
-Bởi:
-
-> Self-improvement does not result in addiction recovery. Recovery leads to self-improvement.
->
-> (Tạm dịch: Phát triển bản thân sẽ không đưa bạn đến cuộc sống thoát khỏi nghiện ngập. Nhưng thoát nghiện sẽ đưa bản thân bạn phát triển)
->
-> -- Jack Trimpey.
+Thoát nghiện cũng giống như dọn phòng vậy, bạn vứt bỏ những thứ làm tốn vị trí mà chẳng có tích sự gì, lại còn khiến không gian sống của bạn thêm chật chội, ra khỏi phòng. Điều này cũng tương tự với thoát nghiện.
 
 Bạn vẫn sẽ bị nhồi cả đống đồ ăn rác (junk food) và chết trong bệnh viện với bệnh tiểu đường, bạn vẫn sẽ tiếp tục đắm chìm trong đống nội dung khiêu dâm và quay tay cho đến khi bản thân bị liệt dương, bạn vẫn sẽ nghiện online game cho đến khi bạn gục ngã trong 4 bức tường. Và bạn, chính bạn, vẫn sẽ phải tiếp tục cố gắng để đi làm đầy đủ, kể cả khi tinh thần của bạn đã kiệt sức, khi dopamine của bạn đã bị quá tải và bạn chẳng còn động lực gì để cố gắng, khi cảm xúc của bạn bị vắt kiệt bởi những kích thích siêu thường (supernormal stimulus).
 
 Và bạn cho đó là *sự phát triển và hiện đại hóa của thời đại*?
 
-Khi bạn thoát khỏi nghiện ngập, thời gian, tiền bạc, cảm xúc, tinh thần và tất cả mọi thứ mà cơn nghiện đã tước đi của bạn, thứ mà vốn dĩ đã luôn là của bạn, sẽ lại về với bạn. Bạn sẽ trở về làm một con người bình thường, có thể bạn không làm được cái mẹ gì lớn lao cả, nhưng này, bạn đã thoát nghiện rồi. Bạn sẽ dành thời gian để sống, để quan tâm hơn đến gia đình và những người xung quanh. Bộ não bạn sẽ có chỗ trống để nghĩ về cái sứ mệnh trong cái cuộc đời bạn, nghĩ về điều bạn muốn học, nghĩ về những người mà bạn muốn được trò chuyện cùng, nghĩ về những tác phẩm văn học ấn tượng hay chỉ đơn giản, nghĩ về hiện tại và chính chặng đường mà bản thân đã đi qua.
+Khi bạn thoát khỏi nghiện ngập, thời gian, tiền bạc, cảm xúc, tinh thần và tất cả mọi thứ mà cơn nghiện đã tước đi của bạn, sẽ trở về với bạn. Bạn sẽ trở về làm một con người bình thường, có thể bạn không làm được cái mẹ gì lớn lao cả, nhưng này, bạn đã thoát nghiện rồi.
 
-Mình chỉ có thể nói rằng, *thoát nghiện nó kì diệu vậy đấy*.
+Có thể bạn đang mong đợi rằng sau khi thoát nghiện, cuộc sống của bạn sẽ thay đổi. Nó *chắc chắn sẽ thay đổi*, nhưng không phải là bỏ thuốc lá cuộc đời bạn sẽ thành triệu phú đô la hay tương tự. Nhưng chắc chắn rằng, bạn sẽ tự do khỏi những đau khổ mà nghiện gây ra cho bạn.
+
+Bạn sẽ dành thời gian để sống, để quan tâm hơn đến gia đình và những người xung quanh. Bộ não bạn sẽ có chỗ trống để nghĩ về cái sứ mệnh trong cái cuộc đời bạn, nghĩ về điều bạn muốn học, nghĩ về những người mà bạn muốn được trò chuyện cùng, nghĩ về những tác phẩm văn học ấn tượng hay chỉ đơn giản, nghĩ về hiện tại và chính chặng đường mà bản thân đã đi qua.
+
+Và kể từ đó, cuộc sống của bạn mới thực sự bắt đầu.
