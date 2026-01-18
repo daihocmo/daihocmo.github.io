@@ -8,12 +8,11 @@ Với những người mới bắt đầu bước chân vào con đường tự 
 
 Bạn hoàn toàn có thể không đọc và bắt đầu chọn một lĩnh vực/kỹ năng bạn muốn và triển luôn, nhưng với những người vẫn còn đang bỡ ngỡ, chưa định hình được về thói quen cũng như việc tự học, mình vẫn mong bạn có thể dành thời gian để đọc các bài viết dưới đây.
 
-- [Tự học - Một kiểu sống](tu-hoc.md) - Một định nghĩa về tự học
-- [Ảo tưởng](ao-tuong.md) - Động lực, cảm hứng, và những kỳ vọng sai lầm
+- [Tự học (Phần 1)](tu-hoc-phan-1.md)
 - [Thói quen & Hệ thống](he-thong.md)
 - [Xây dựng thói quen](thoi-quen.md)
+- [Tự học (Phần 2)](tu-hoc-phan-2.md)
 - [Đọc sách](doc-sach.md)
-- [Đọc sách gì?](doc-sach-gi.md) - Chọn sách mà đọc, chọn bạn mà chơi.
 - [Cách đọc](cach-doc.md) - Đọc chậm, đọc lại, và chấp nhận sự mơ hồ.
 - [Viết](viet.md) - Ghi chép để tư duy, không phải để lưu trữ. Bởi "một hiểu biết không thể nói ra được, viết ra được, chưa được gọi là hiểu biết".
 - [Tiến bộ]() (Chưa viết) - Những dấu hiệu âm thầm của sự thay đổi thật.
