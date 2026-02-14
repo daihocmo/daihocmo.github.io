@@ -16,19 +16,19 @@ nav:
     - 'Cách đọc': 'huong-dan/cach-doc.md'
     - 'Viết': 'huong-dan/viet.md'
     - 'Thoát nghiện': 'huong-dan/thoat-nghien.md'
-  - 'Chương trình học':
+  - 'Các chương trình tự học':
     - 'Tổng quan': 'chuong-trinh/index.md'
     - 'Học làm người': 'chuong-trinh/hoc-lam-nguoi.md'
     - 'Ngoại ngữ': 'chuong-trinh/ngoai-ngu.md'
     - 'Học sinh phổ thông (Từ Tiểu học đến THPT)': 'chuong-trinh/hoc-sinh.md'
     - 'Chuyên ngành': 'chuong-trinh/dai-hoc.md'
-  - 'Đóng góp & Xây dựng trang':
-    - 'Hướng dẫn cơ bản': 'docs/index.md'
-    - 'Phân loại công việc': 'docs/phan-loai-cong-viec.md'
-    - 'Danh sách công việc': 'docs/danh-sach-cong-viec.md'
+  - 'Những hướng dẫn khác':
+    - 'Cách học Tiếng Anh chuyên ngành': 'cac-huong-dan-khac/tieng-anh-chuyen-nganh.md'
+  - 'Documentation':
+    - 'Thông tin về dự án': 'about/index.md'
+    - 'Hướng dẫn đóng góp': 'documentation/index.md'
+    - 'Cộng đồng tự học': 'about/cong-dong.md' 
   - 'Thông tin thêm':
-    - 'Về dự án': 'about/index.md'
-    - 'Cộng đồng': 'about/cong-dong.md' 
     - 'Lời cảm ơn': 'about/cam-on.md'
 
 theme:
@@ -89,6 +89,6 @@ markdown_extensions:
 plugins:
   - search
   - open-in-new-tab
-
+  
 copyright: |
   <a href="https://daihocmo.github.io">Một dự án của Khu học mở</a>

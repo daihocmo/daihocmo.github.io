@@ -63,20 +63,9 @@ Từ câu chuyện này, bạn rút ra được điều gì?
 
 Vậy nên, để *thoát nghiện*, bạn phải *thoát* ra khỏi đó. Từ giờ, cho đến cuối đời.
 
-Để thực hiện được điều này, bạn CẦN PHẢI đọc ít nhất một trong những cuốn sau (Mình khuyến khích đọc ít nhất một cuốn bất kì của Allen Carr, cũng như cuốn Rational Recovery của Jack Trimpey để có cái nhìn toàn diện, nhưng chỉ cần một trong hai cuốn là đủ) đây để hiểu thực sự rõ về nghiện cũng như cách thoát nghiện (Nó quá rộng để mình có thể truyền tải trong một bài viết):
+Để thực hiện được điều này, bạn CẦN PHẢI đọc ít nhất một trong những cuốn sau (Mình khuyến khích đọc ít nhất một cuốn bất kì của Allen Carr, cũng như cuốn Rational Recovery của Jack Trimpey để có cái nhìn toàn diện, nhưng chỉ cần một trong hai cuốn là đủ) đây để hiểu thực sự rõ về nghiện cũng như cách thoát nghiện (Nó quá rộng để mình có thể truyền tải trong một bài viết).
 
-- [Thoát porn luận](https://thu-tram.github.io/tpl/) - Hướng dẫn cách **thoát khỏi cơn nghiện nội dung khiêu dâm**. Đây là bản dịch Tiếng Việt cho cuốn sách [EasyPeasy](https://easypeasymethod.org) - Hoàn toàn miễn phí nhé.
-- [Cai Thuốc Lá Dễ Dàng Cùng Allen Carr](https://tiki.vn/cai-thuoc-la-de-dang-cung-allen-carr-p62373320.html) - Bản dịch Tiếng Việt của cuốn sách [The easy way to stop smoking](https://ia801306.us.archive.org/29/items/allen-carr-easy-way-to-stop-smoking/Allen%20Carr%20-%20Easy%20Way%20To%20Stop%20Smoking.pdf).
-- [AVRT Live with Jack Trimpey](https://www.youtube.com/playlist?list=PL-A4toVQT3zvSLSerQNg761uGh3pBaI0p) - Khóa học của Jack Trimpey bằng Tiếng Anh về Addiction Recovery.
-
-Các cuốn dưới đây sẽ là bằng Tiếng Anh:
-
-- [Allen Carr's Smart Phone Dumb Phone: Free Yourself from Digital Addiction](https://archive.org/details/smart-phone-dumb-phone) - Thoát nghiện điện thoại
-- Allen Carr's Easyway to Stop Gambling - Thoát nghiện cờ bạc
-- [Allen Carr's Good Sugar, Bad Sugar](https://archive.org/details/good-sugar-bad-sugar-book/) - Thoát nghiện các loại đồ có đường xấu
-- The Easy Way to Stop Drinking - Thoát nghiện rượu bia
-- Allen Carr's Easyway to Quit Vaping - Thoát nghiện thuốc lá điện tử
-- [Rational Recovery](https://archive.org/details/rationalrecovery00trim)
+Đọc thử [Khu thoát nghiện](https://khuthoatnghien.github.io/) xem,
 
 ## Để tiến hóa
 
