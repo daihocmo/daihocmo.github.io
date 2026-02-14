@@ -16,7 +16,7 @@ hide:
 <div style="text-align: center" markdown>
 
 
-[ :man_mage: Học cách tự học](https://hocbigg.github.io/){ .md-button .md-button--stretch }
+[ :man_mage: Học cách tự học](huong-dan/index.md){ .md-button .md-button--stretch }
 
 </div>
 
